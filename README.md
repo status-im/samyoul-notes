@@ -109,8 +109,26 @@ TODO Add missing days
 
 ## Schedule
 
-- [x] 13:30 - 1:1 with Jakub discussing `status-go`
+- [x] 12:15 BST - 1:1 with Jakub discussing `status-go`
   - https://meet.google.com/aqr-tdun-dfg
+  - Points
+    - https://github.com/status-im/jakubgs-notes
+    - https://fleets.status.im/
+    - https://github.com/status-im/infra-role-bootstrap/tree/master/files/keys
+    - https://github.com/status-im/infra-role-bootstrap/blob/447080f5af6fcf8aa1a99f1cceaac3835e608fa2/defaults/main.yml#L102
+    - https://github.com/status-im/infra-eth-cluster
+    - https://consul.status.im/
+    - https://consul.status.im/ui/do-ams3/nodes?filter=mail
+    - https://consul.status.im/ui/do-ams3/nodes/mail-01.do-ams3.eth.prod
+    - https://grafana.status.im/
+    - https://grafana.status.im/d/wV77E-4mz/statusd-metrics?orgId=1
+    - https://grafana.status.im/d/gxQG_R1Zk/status-peers?orgId=1&refresh=5m
+    - https://github.com/status-im/status-go/blob/develop/MAILSERVER.md
+    - https://github.com/status-im/status-go/tree/develop/_assets/compose/mailserver
+- [x] 13:30 BST - 1:1 with Volodymyr discussing `status-go` and desktop implementation of `status-react`
+  - Points
+    - https://github.com/status-im/status-react/blob/e7a213fe95f24c18cffd6d13d08db6aa81b3a6b1/modules/react-native-status/ios/RCTStatus/RCTStatus.m#L171
+    - https://github.com/status-im/status-react/blob/develop/modules/react-native-status/desktop/CMakeLists.txt
 
 ---
 
