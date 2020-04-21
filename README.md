@@ -55,3 +55,71 @@
 - [x] [#1943 - Don't pass contacts without custom fields to the client](https://github.com/status-im/status-go/pull/1943#pullrequestreview-396473829) - `approved`
 
 ---
+
+# 2020-04-17
+
+## Schedule
+
+- [x] 14:00 BST - 1:1 with Andre
+  - https://meet.google.com/cgu-rszi-veu
+
+---
+
+# 2020-04-16
+
+## Schedule
+
+- [x] 13:45 BST - 1:1 with Petty
+  - https://meet.google.com/onc-hnou-sbs
+  - Points
+    - [Petty's nim status project](https://github.com/status-im/nim-stratus-console)
+    - [Miro - Diagram designing application](https://miro.com/app/board/o9J_kxw_3_4=/)
+    - https://notes.status.im/authentication-and-authorization
+    - [HackMD Features](https://hackmd.io/features)
+
+---
+
+# 2020-04-15
+
+## Reviewed
+
+- [x] [V1.5+ Objective Ranking](https://docs.google.com/spreadsheets/d/14N74hACVxG6X7j5WqUEqlYKnEbNyH9Po7rpcgiBKntw/edit#gid=0) - `voted`
+
+---
+
+# 2020-04-14
+
+## Schedule
+
+- [x] 12:15 BST - 1:1 with Oskarth (text chat)
+  - https://meet.google.com/onc-hnou-sbs
+  - Points
+    - https://github.com/status-im/specs/issues/73
+    - https://github.com/status-im/specs/issues/61
+
+---
+
+# ...
+
+TODO Add missing days
+
+---
+
+# 2020-04-06
+
+## Schedule
+
+- [x] 13:30 - 1:1 with Jakub discussing `status-go`
+  - https://meet.google.com/aqr-tdun-dfg
+
+---
+
+# 2020-04-01
+
+## Schedule
+
+- [x] 12:00 BST - 1:1 with Ceri 
+  - https://meet.google.com/mtp-qqtw-bpg
+  - On boarding day :D
+
+---
