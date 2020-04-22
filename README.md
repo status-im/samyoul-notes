@@ -74,7 +74,7 @@
   - Points
     - [Petty's nim status project](https://github.com/status-im/nim-stratus-console)
     - [Miro - Diagram designing application](https://miro.com/app/board/o9J_kxw_3_4=/)
-    - https://notes.status.im/authentication-and-authorization
+    - https://github.com/status-im/status-security/blob/master/drafts/authentication-and-authorization.md
     - [HackMD Features](https://hackmd.io/features)
 
 ---
