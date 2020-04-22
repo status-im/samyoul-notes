@@ -1,3 +1,15 @@
+# 2020-04-22
+
+## Pulls
+
+- [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `draft`
+
+## Reviews
+
+- [x] [#1948 - Set chat active on being re-invited](https://github.com/status-im/status-go/pull/1948/files) - `feedback`
+
+---
+
 # 2020-04-21
 
 ## Schedule
