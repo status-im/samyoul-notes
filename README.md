@@ -1,3 +1,23 @@
+# 2020-04-23
+
+## Ad Hoc
+
+- [x] [File format lint fails are the worst](https://ci.status.im/blue/organizations/jenkins/status-go%2Fprs%2Ftests/detail/PR-1950/4/pipeline)
+  - Note : The solution for this fail was insane, see https://github.com/status-im/status-go/pull/1950/commits/04413b9e31e79230f55531cd34cd1481225da993
+
+## Pulls
+
+- [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`
+- [x] [#1950 - Refactor/waku.doc](https://github.com/status-im/status-go/pull/1950) - `created`
+
+## Reviews
+
+- `status-im/specs`
+  - [x] [#54 - Early draft: Waku mode spec](https://github.com/status-im/specs/pull/54) - `read`
+  - [x] [#130 - Transaction history management](https://github.com/status-im/specs/issues/103) - `read`, `discussed`
+
+---
+
 # 2020-04-22
 
 ## Pulls
