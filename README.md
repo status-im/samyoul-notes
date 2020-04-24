@@ -1,3 +1,22 @@
+# 2020-04-24
+
+## Schedule
+
+- [x] 14:00 BST - Core Retro
+  - https://meet.google.com/hqw-nsfk-xoq
+  - [Summary](https://notes.status.im/tl3SGbKHTGC8kL_we_aeng?both)
+
+## Pulls
+
+- [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`
+- [x] [#1951 - Refactor moved message functionality from filter to message](https://github.com/status-im/status-go/pull/1951) - `merged`
+
+## Reviews
+
+- [ ] [Code duplication between waku and whisper packages](https://codeclimate.com/github/status-im/status-go/pull/1950)
+
+---
+
 # 2020-04-23
 
 ## Ad Hoc
@@ -8,7 +27,7 @@
 ## Pulls
 
 - [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`
-- [x] [#1950 - Refactor/waku.doc](https://github.com/status-im/status-go/pull/1950) - `created`
+- [x] [#1950 - Refactor/waku.doc](https://github.com/status-im/status-go/pull/1950) - `merged`
 
 ## Reviews
 
