@@ -1,3 +1,24 @@
+# 2020-04-27
+
+## Schedule
+
+- [x] 14:00 BST - Vac PM
+  - https://meet.google.com/xzi-onqc-gdx
+  - https://notes.status.im/Kt7iRwy1TeCfNzcJGnt3Ag?both 
+- [x] 15:00 BST - On the nature of the refactor: waku/whisper
+  - https://meet.google.com/dcu-dnot-jak
+  - [Code duplication between waku and whisper packages](https://codeclimate.com/github/status-im/status-go/pull/1950)
+  - [#1945 - Database package location refactor](https://github.com/status-im/status-go/issues/1945)
+    - Decided that the `whisper` package will be left along from now. Any changes needed for Waku will only affect the `waku` package.
+    - Need to add a DEPRECATION message in the `whisper` package 
+
+## Reviews
+
+- [x] [#1947 - prepare for waku/1](https://github.com/status-im/status-go/pull/1947) - `feedback`, `approved`
+- [x] [Code duplication between waku and whisper packages](https://codeclimate.com/github/status-im/status-go/pull/1950)
+
+---
+
 # 2020-04-24
 
 ## Schedule
