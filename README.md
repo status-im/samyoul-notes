@@ -1,3 +1,21 @@
+# 2020-04-28
+
+## Pulls
+
+- [x] [#1957 - Refactor/waku tidy](https://github.com/status-im/status-go/pull/1957) - `commits`
+
+## Reviews
+
+- [x] [Status Principles Webinar](https://www.youtube.com/watch?v=rBBpZxZQPy8) - `watched`
+- [x] [#69 - Send images](https://github.com/status-im/specs/issues/69) - `read`
+
+## Issues
+
+- [x] [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937) - `prototype`
+  - [Initial draft](https://github.com/status-im/status-go/issues/1937#issuecomment-620603814)
+  
+---
+
 # 2020-04-27
 
 ## Schedule
