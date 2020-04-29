@@ -1,3 +1,17 @@
+# 2020-04-29
+
+## Pulls
+
+- [x] [#1957 - Refactor/waku tidy](https://github.com/status-im/status-go/pull/1957) - `completed`
+
+## Reviews
+
+- [x] [#69 - Send images](https://github.com/status-im/specs/issues/69) - `read`
+- [x] [#1956 - Implement waku/1](https://github.com/status-im/status-go/pull/1956) - `feedback`
+- [ ] [Best way to implement factory pattern into #1956](https://github.com/status-im/status-go/pull/1956#issuecomment-621324789)
+
+---
+
 # 2020-04-28
 
 ## Pulls
