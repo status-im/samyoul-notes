@@ -1,5 +1,15 @@
 # 2020-04-29
 
+## Schedule
+
+- [x] 16:00 BST - Andre 1:1
+  - https://meet.google.com/rij-fgdg-xxe
+  - Points
+    - [Key compression initial draft](https://github.com/status-im/status-go/issues/1937#issuecomment-620603814)
+    - [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949)
+    - [#1957 - Refactor/waku tidy](https://github.com/status-im/status-go/pull/1957)
+    - [#1956 - Implement waku/1](https://github.com/status-im/status-go/pull/1956)
+
 ## Pulls
 
 - [x] [#1957 - Refactor/waku tidy](https://github.com/status-im/status-go/pull/1957) - `completed`
