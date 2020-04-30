@@ -1,3 +1,17 @@
+# 2020-04-30
+
+## Pulls
+
+- [x] [#1957 - Refactor/waku tidy](https://github.com/status-im/status-go/pull/1957) - `merged`
+- [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`
+
+## Reviews
+
+- [x] [#69 - Send images](https://github.com/status-im/specs/issues/69) - `read`
+- [x] [#1956 - Implement waku/1](https://github.com/status-im/status-go/pull/1956) - `approved`
+
+---
+
 # 2020-04-29
 
 ## Schedule
