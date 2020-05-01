@@ -5,3 +5,7 @@
 1) Specs for [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
 1) Specs for [#69 - Send images](https://github.com/status-im/specs/issues/69)
 1) Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
+
+---
+
+[Top voted features for v1.5+](https://discuss.status.im/t/roadmap-planning/1399/38)
