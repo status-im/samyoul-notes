@@ -6,6 +6,7 @@
 1) Specs for [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
 1) Suggest a key protocol similar to w3c's DID for key usage [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
 1) Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
+1) [Nimbus on mobile](https://discuss.status.im/t/nimbus-on-mobile/1370)
 
 ---
 
