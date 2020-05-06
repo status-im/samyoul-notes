@@ -1,3 +1,22 @@
+#2020-05-06
+
+## Issues
+
+- [x] [#1937 - Key compression initial draft](https://github.com/status-im/status-go/issues/1937) - `discussed`
+- [x] [status-im/specs#61 - Replace forked Whisper usage with Waku/0 in specs](https://github.com/status-im/specs/issues/61) - `read` 
+
+## Pulls
+
+- [x] [#118 - Change subsection titles to linkable headers](https://github.com/vacp2p/specs/pull/118) - `merged`
+- [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`
+- [x] [#1964 - Minor Waku version subpackage message.go tidy](https://github.com/status-im/status-go/pull/1964) - `submitted`
+
+## Reviews
+
+- [ ] [#10589 - Move icons paths](https://github.com/status-im/status-react/pull/10589)
+
+---
+
 # 2020-05-05
 
 ## Schedule
@@ -13,6 +32,8 @@
 
 - [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`
 - [x] [#118 - Change subsection titles to linkable headers](https://github.com/vacp2p/specs/pull/118) - `submitted`
+
+---
 
 # 2020-05-04
 
