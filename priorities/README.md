@@ -7,8 +7,9 @@
      - [status-im/specs#73 - Remove certain specs, refer to Waku](https://github.com/status-im/specs/issues/73)
 1) Discuss post on waku mailserver name, [change to `history node`, `persistence node`, `echo node` . Some thing more descriptive.](https://github.com/status-im/status-go/pull/1949#discussion_r419615374) 
 1) Discuss post on [Database package location refactor](https://github.com/status-im/status-go/issues/1945)
+1) Create issue for [waku spec improvements](https://github.com/status-im/status-go/pull/1949#discussion_r420903470)
 1) [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
-   - [ ] [Do tests to see average compressed key length](https://github.com/status-im/status-go/issues/1937#issuecomment-624690407)
+   - [x] [Do tests to see average compressed key length](https://github.com/status-im/status-go/issues/1937#issuecomment-624690407)
 1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
    - [ ] Write specs
    - [ ] Implement
