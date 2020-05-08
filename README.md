@@ -1,13 +1,29 @@
+# 2020-05-08
+
+## Schedule
+
+- [x] 14:00 BST - Core Retro
+  - https://meet.google.com/hqw-nsfk-xoq
+  - [Summary](https://notes.status.im/0xw-XPU2Q9mYsn7oSLs_ag?both)
+
+## Pulls
+
+- [x] [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `commits`, `discussed`
+
+---
+
 # 2020-05-07
 
 ## Issues
 
 - [x] [#1937 - Key compression initial draft](https://github.com/status-im/status-go/issues/1937) - `discussed`
-- [x] [#1964 - Minor Waku version subpackage message.go tidy](https://github.com/status-im/status-go/pull/1964) - `merged`
 
 ## Pulls
 
-- [x] [Update/waku replace](https://github.com/status-im/specs/pull/114) - `draft`
+- [x] [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `draft`
+- [x] [#1964 - Minor Waku version subpackage message.go tidy](https://github.com/status-im/status-go/pull/1964) - `merged`
+
+---
 
 # 2020-05-06
 
