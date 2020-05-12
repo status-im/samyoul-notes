@@ -1,3 +1,16 @@
+# 2020-05-12
+
+## Posts
+
+- [Wherefore Art Thou Mailserver - Treatise on Waku Terminology](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
+- [Status-go Database De-dithering](https://discuss.status.im/t/status-go-database-de-dithering/1665)
+
+## Reviews
+
+- [x] [Re-introduce deprecated method of requesting messages](https://github.com/status-im/status-go/pull/1967#pullrequestreview-410193812) - `approved`
+
+---
+
 # 2020-05-08
 
 ## Schedule
