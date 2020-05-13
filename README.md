@@ -1,3 +1,15 @@
+# 2020-05-13
+
+## Issues
+
+- [x] [Documentation Linting is Ignored](https://github.com/status-im/status-go/issues/1968) - `created`
+
+## Pulls
+
+- [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`, `completed`
+
+---
+
 # 2020-05-12
 
 ## Posts
@@ -8,6 +20,7 @@
 ## Reviews
 
 - [x] [Re-introduce deprecated method of requesting messages](https://github.com/status-im/status-go/pull/1967#pullrequestreview-410193812) - `approved`
+- [x] [Town Hall #57 - 11 May 2020](https://www.youtube.com/watch?v=sUUh7EUnVoE) - `watched`
 
 ---
 
