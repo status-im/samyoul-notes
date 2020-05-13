@@ -2,10 +2,8 @@
 
 ## Schedule
 
-- [ ] 16:00 BST - Andre 1:1
+- [ ] 16:00 BST - Andre 1:1 - `postponed`
   - https://meet.google.com/rij-fgdg-xxe
-  - Points
-    - Postponed
 
 ## Issues
 
@@ -19,7 +17,7 @@
 
 ## Reviews
 
-- [x] [#1969 - Add support for images](https://github.com/status-im/status-go/pull/1969) - `feedback`
+- [x] [#1969 - Add support for images](https://github.com/status-im/status-go/pull/1969) - `feedback`, `approved`
 
 ---
 
