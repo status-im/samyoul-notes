@@ -2,7 +2,7 @@
 
 ## Schedule
 
-- [x] 16:00 BST - Andre 1:1
+- [ ] 16:00 BST - Andre 1:1
   - https://meet.google.com/rij-fgdg-xxe
   - Points
     - ...
@@ -14,6 +14,10 @@
 ## Pulls
 
 - [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`, `completed`
+
+## Reviews
+
+- [ ] [#1969 - Add support for images](https://github.com/status-im/status-go/pull/1969)
 
 ---
 
