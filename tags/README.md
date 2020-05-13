@@ -10,6 +10,7 @@
 |`draft`    |Denotes a git branch was converted into a PR draft              |
 |`feedback` |Denotes that an item was given feedback by myself               |
 |`merged`   |Denotes that a PR was merged with the related repo's main branch|
+|`postponed`|Denotes that an event was postponed                             |
 |`prototype`|Denotes that a prototype of an idea was implemented             |
 |`read`     |Denotes that an item was read                                   |
 |`submitted`|Denotes that an item was submitted for review                   |
