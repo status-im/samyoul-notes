@@ -5,19 +5,21 @@
 - [ ] 16:00 BST - Andre 1:1
   - https://meet.google.com/rij-fgdg-xxe
   - Points
-    - ...
+    - Postponed
 
 ## Issues
 
-- [x] [Documentation Linting is Ignored](https://github.com/status-im/status-go/issues/1968) - `created`
+- [x] [#1968 - Documentation Linting is Ignored](https://github.com/status-im/status-go/issues/1968) - `created`
+- [x] [#1970 - Remove vendored Whisper and any remain usages](https://github.com/status-im/status-go/issues/1970) - `created`
 
 ## Pulls
 
 - [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`, `completed`
+- [x] [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `commits`, `discussed`
 
 ## Reviews
 
-- [ ] [#1969 - Add support for images](https://github.com/status-im/status-go/pull/1969)
+- [x] [#1969 - Add support for images](https://github.com/status-im/status-go/pull/1969) - `feedback`
 
 ---
 
