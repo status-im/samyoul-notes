@@ -12,7 +12,7 @@
 
 ## Pulls
 
-- [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`, `completed`
+- [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `commits`, `completed`, `resubmitted`
 - [x] [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `commits`, `discussed`
 
 ## Reviews
