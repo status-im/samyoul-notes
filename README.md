@@ -1,5 +1,12 @@
 # 2020-05-13
 
+## Schedule
+
+- [x] 16:00 BST - Andre 1:1
+  - https://meet.google.com/rij-fgdg-xxe
+  - Points
+    - ...
+
 ## Issues
 
 - [x] [Documentation Linting is Ignored](https://github.com/status-im/status-go/issues/1968) - `created`
