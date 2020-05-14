@@ -11,6 +11,8 @@
    - [ ] Write specs
    - [ ] Implement
    - Impacts [status-react#3997 - Display pending requests in transactions history](https://github.com/status-im/status-react/issues/3997)
+1) [SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
+  - **Notes:** all the way from the protocol level to the communication with the react app
 1) [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
    - [x] [Do tests to see average compressed key length](https://github.com/status-im/status-go/issues/1937#issuecomment-624690407)
 1) Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
