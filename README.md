@@ -1,3 +1,12 @@
+# 2020-05-14
+
+## Pulls
+
+- [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `merged`
+- [x] [#1809 - fix: close resultsets so we don't leak them](https://github.com/status-im/status-go/pull/1809) - `commits`, `resubmitted`, `merged`
+- [x] [#1972 - Updated dependabot config to assign Samyoul](https://github.com/status-im/status-go/pull/1972) - `submitted`, `merged`
+- [x] [#1975 - Updated dependabot config to security only](https://github.com/status-im/status-go/pull/1975) - `submitted`
+
 # 2020-05-13
 
 ## Schedule
