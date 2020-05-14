@@ -2,7 +2,9 @@
 
 ## Issues
 
-- [x] [Build a make-vendor-bot](https://github.com/status-im/status-go/issues/1976) - `created`
+- [x] [#1976 - Build a make-vendor-bot](https://github.com/status-im/status-go/issues/1976) - `created`
+- [x] [#115 - Removal of Personal Pronouns From Specs](https://github.com/status-im/specs/issues/115) - `created`
+- [x] [#116 - Change 8-eips.md to 8-supported-specs.md](https://github.com/status-im/specs/issues/116) - `created`
 
 ## Pulls
 
