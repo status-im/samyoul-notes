@@ -1,11 +1,16 @@
 # 2020-05-14
 
+## Issues
+
+- [x] [Build a make-vendor-bot](https://github.com/status-im/status-go/issues/1976) - `created`
+
 ## Pulls
 
 - [x] [#1949 - Waku package README.md documentation](https://github.com/status-im/status-go/pull/1949) - `merged`
 - [x] [#1809 - fix: close resultsets so we don't leak them](https://github.com/status-im/status-go/pull/1809) - `commits`, `resubmitted`, `merged`
 - [x] [#1972 - Updated dependabot config to assign Samyoul](https://github.com/status-im/status-go/pull/1972) - `submitted`, `merged`
 - [x] [#1975 - Updated dependabot config to security only](https://github.com/status-im/status-go/pull/1975) - `submitted`
+- [x] [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `commits`, `discussed`
 
 # 2020-05-13
 
