@@ -1,5 +1,10 @@
 # 2020-05-15
 
+## Schedule
+
+- [x] 17:00 BST - Happy Hour, The Return
+  - https://meet.google.com/vws-ihdx-iuw
+
 ## Issues
 
 - [x] [#1978 - Consistently flaky Jenkins unit tests](https://github.com/status-im/status-go/issues/1978) - `created`
@@ -13,7 +18,7 @@
 
 - [x] [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `discussed`
 - [x] [#1975 - Updated dependabot config to security only](https://github.com/status-im/status-go/pull/1975) - `merged`
-- [x] [#1979 - Minor yml format fix](https://github.com/status-im/status-go/pull/1979) - `submitted`
+- [x] [#1979 - Minor dependabot config yml format fix](https://github.com/status-im/status-go/pull/1979) - `submitted`
 
 ## Reviews
 
