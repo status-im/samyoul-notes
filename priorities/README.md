@@ -3,15 +3,16 @@
 ## Personal
 
 1) [status-im/specs#61 - Replace forked Whisper usage with Waku/0 in specs](https://github.com/status-im/specs/issues/61)
-   - Related :
+   - **Related :**
      - [status-react#5590 - Whisper spamming protection](https://github.com/status-im/status-react/issues/5590#issuecomment-624465899)
      - [status-im/specs#73 - Remove certain specs, refer to Waku](https://github.com/status-im/specs/issues/73)
 1) Create issue for [waku spec improvements](https://github.com/status-im/status-go/pull/1949#discussion_r420903470)
+   - Points raised here for discussion - [Wherefore Art Thou Mailserver - Treatise on Waku Terminology](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
 1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
-   - Todos:
+   - **Todos:**
      - [ ] Write specs
      - [ ] Implement
-   - Impacts:
+   - **Impacts:**
      - [status-react#3997 - Display pending requests in transactions history](https://github.com/status-im/status-react/issues/3997)
 1) [SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
    - **Notes:**
@@ -19,7 +20,10 @@
      - [Hester] Maciej prepared designs for this, you can ask him anything you need about what the expected behavior is supposed to be
      - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
 1) [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
-   - [x] [Do tests to see average compressed key length](https://github.com/status-im/status-go/issues/1937#issuecomment-624690407)
+   - **Todos:**
+     - [x] [Do tests to see average compressed key length](https://github.com/status-im/status-go/issues/1937#issuecomment-624690407)
+       - [Results](https://github.com/status-im/status-go/issues/1937#issuecomment-624920237)
+     - [ ] [Track down iOS URL intent registry for current build](https://github.com/status-im/status-go/issues/1937#issuecomment-628082382)
 1) Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
 1) [Nimbus on mobile](https://discuss.status.im/t/nimbus-on-mobile/1370)
 
