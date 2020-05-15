@@ -3,6 +3,7 @@
 ## Personal
 
 1) [status-im/specs#61 - Replace forked Whisper usage with Waku/0 in specs](https://github.com/status-im/specs/issues/61)
+   - **PR :** [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114)
    - **Related :**
      - [status-react#5590 - Whisper spamming protection](https://github.com/status-im/status-react/issues/5590#issuecomment-624465899)
      - [status-im/specs#73 - Remove certain specs, refer to Waku](https://github.com/status-im/specs/issues/73)
