@@ -2,6 +2,7 @@
 
 | Name          | Description                                                      |
 | ------------- | ---------------------------------------------------------------- |
+| `addressed`   | Denotes that an item has received resolving attention            |
 | `approved`    | Related to Pull Request (PR) requests for review                 |
 | `commits`     | Related to add git commits to github PRs                         |
 | `completed`   | Denotes that an item has been completed                          |

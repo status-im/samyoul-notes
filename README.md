@@ -1,3 +1,26 @@
+# 2020-05-15
+
+## Issues
+
+- [x] [#1978 - Consistently flaky Jenkins unit tests](https://github.com/status-im/status-go/issues/1978) - `created`
+- [x] [#1977 - Your .dependabot/config.yml contained invalid details](https://github.com/status-im/status-go/issues/1977) - `read`, `addressed`
+
+## Posts
+
+- [x] [Proposal: Rename “mailservers” to “historynodes”](https://discuss.status.im/t/proposal-rename-mailservers-to-historynodes/1408/13) - `read`, `feedback`
+
+## Pulls
+
+- [x] [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `discussed`
+- [x] [#1975 - Updated dependabot config to security only](https://github.com/status-im/status-go/pull/1975) - `merged`
+- [x] [#1979 - Minor yml format fix](https://github.com/status-im/status-go/pull/1979) - `submitted`
+
+## Reviews
+
+- [x] [#53 - Core Dev Call 30 Agenda](https://github.com/status-im/pm/issues/53) - `read`, `feedback`
+
+---
+
 # 2020-05-14
 
 ## Issues
@@ -13,6 +36,8 @@
 - [x] [#1972 - Updated dependabot config to assign Samyoul](https://github.com/status-im/status-go/pull/1972) - `submitted`, `merged`
 - [x] [#1975 - Updated dependabot config to security only](https://github.com/status-im/status-go/pull/1975) - `submitted`
 - [x] [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `commits`, `discussed`
+
+---
 
 # 2020-05-13
 
@@ -41,8 +66,8 @@
 
 ## Posts
 
-- [Wherefore Art Thou Mailserver - Treatise on Waku Terminology](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
-- [Status-go Database De-dithering](https://discuss.status.im/t/status-go-database-de-dithering/1665)
+- [Wherefore Art Thou Mailserver - Treatise on Waku Terminology](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664) - `created`, `submitted`
+- [Status-go Database De-dithering](https://discuss.status.im/t/status-go-database-de-dithering/1665) - `created`, `submitted`
 
 ## Reviews
 
