@@ -8,11 +8,16 @@
      - [status-im/specs#73 - Remove certain specs, refer to Waku](https://github.com/status-im/specs/issues/73)
 1) Create issue for [waku spec improvements](https://github.com/status-im/status-go/pull/1949#discussion_r420903470)
 1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
-   - [ ] Write specs
-   - [ ] Implement
-   - Impacts [status-react#3997 - Display pending requests in transactions history](https://github.com/status-im/status-react/issues/3997)
+   - Todos:
+     - [ ] Write specs
+     - [ ] Implement
+   - Impacts:
+     - [status-react#3997 - Display pending requests in transactions history](https://github.com/status-im/status-react/issues/3997)
 1) [SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
-  - **Notes:** all the way from the protocol level to the communication with the react app
+   - **Notes:**
+     - [Andre] all the way from the protocol level to the communication with the react app
+     - [Hester] Maciej prepared designs for this, you can ask him anything you need about what the expected behavior is supposed to be
+     - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
 1) [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
    - [x] [Do tests to see average compressed key length](https://github.com/status-im/status-go/issues/1937#issuecomment-624690407)
 1) Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
