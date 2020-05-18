@@ -6,7 +6,10 @@
    - Related :
      - [status-react#5590 - Whisper spamming protection](https://github.com/status-im/status-react/issues/5590#issuecomment-624465899)
      - [status-im/specs#73 - Remove certain specs, refer to Waku](https://github.com/status-im/specs/issues/73)
-1) Create issue for [waku spec improvements](https://github.com/status-im/status-go/pull/1949#discussion_r420903470)
+1) [I’ll open a PR making an explicit reference that Envelope is specified by ABNF. Resolving Proposal 4.](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/8?u=samuel)
+1) Create VAC Waku spec improvment issue for:
+   - [Remove MessageResponse version](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/3?u=samuel)
+   - [Remove Batch Ack packet type](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/10?u=samuel)
 1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
    - Todos:
      - [ ] Write specs

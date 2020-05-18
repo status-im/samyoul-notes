@@ -1,3 +1,30 @@
+# 2020-05-18
+
+## Schedule
+
+- [x] 13:00 BST - Bi-weekly Core Dev Call
+   - https://meet.google.com/uyn-yfrq-uka
+   - [Notes](https://notes.status.im/core-dev-call_30)
+   
+## Issues
+
+- [x] [Core Dev Call 30 Agenda](https://github.com/status-im/pm/issues/53) - `discussed`
+- [x] [message-confirmations-field appears to be describing Message Response](https://github.com/vacp2p/specs/issues/124) - `created`
+   
+## Posts
+
+- [x] [Wherefore Art Thou Mailserver - Treatise on Waku Terminology](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664) - `discussed`
+- [ ] [Desktop paths forward, a choose your own adventure?](https://discuss.status.im/t/desktop-paths-forward-a-choose-your-own-adventure/1666)
+- [ ] [How :desktop_computer Desktop & Mobile should connect?](https://discuss.status.im/t/how-desktop-mobile-should-connect/1668)
+   
+## Pulls
+
+- [x] [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `discussed`, `commits`
+
+## Reviews
+
+- [x] [#vacp2p/specs#123 - Be consistent in usage of terms packet, message and envelope](https://github.com/vacp2p/specs/pull/123) - `Approved`
+
 # 2020-05-15
 
 ## Schedule
