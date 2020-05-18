@@ -20,6 +20,7 @@
 ## Pulls
 
 - [x] [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `discussed`, `commits`
+- [x] [Patch/dependabot protocol](https://github.com/status-im/status-go/pull/1980) - `submitted`
 
 ## Reviews
 
