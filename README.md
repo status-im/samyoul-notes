@@ -1,3 +1,19 @@
+# 2020-05-19
+
+## Pulls
+
+- [x] [status-im/spec#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `discussed`, `commits`, `submitted`
+- [x] [status-im/spec#120 - Fix Links](https://github.com/status-im/specs/pull/120) - `submitted`
+- [x] [#1980 - Patch/dependabot protocol](https://github.com/status-im/status-go/pull/1980) - `merged`
+- [x] [vacp2p/spec#128 - Waku Confirmations Enabled and Light Node Field Descriptions](https://github.com/vacp2p/specs/pull/128) - `submitted`, `discussed`
+
+## Reviews
+
+- [x] [status-im/spec#119 - spellcheck](https://github.com/status-im/specs/pull/119) - `feedback`
+- [x] [status-im/spec#118 - Update PoW requirements](https://github.com/status-im/specs/pull/118) - `feedback`, `approved`
+
+---
+
 # 2020-05-18
 
 ## Schedule
@@ -25,6 +41,8 @@
 ## Reviews
 
 - [x] [#vacp2p/specs#123 - Be consistent in usage of terms packet, message and envelope](https://github.com/vacp2p/specs/pull/123) - `Approved`
+
+---
 
 # 2020-05-15
 
