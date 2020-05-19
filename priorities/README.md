@@ -7,7 +7,6 @@
    - **Related :**
      - [status-react#5590 - Whisper spamming protection](https://github.com/status-im/status-react/issues/5590#issuecomment-624465899)
      - [status-im/specs#73 - Remove certain specs, refer to Waku](https://github.com/status-im/specs/issues/73)
-1) [I’ll open a PR making an explicit reference that Envelope is specified by ABNF. Resolving Proposal 4.](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/8?u=samuel)
 1) Create VAC Waku spec improvment issue for:
    - Points raised [here for discussion](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
    - [Remove MessageResponse version](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/3?u=samuel)
@@ -41,6 +40,7 @@
 
 ## Resolved
 
+- [x] [~~I’ll open a PR making an explicit reference that Envelope is specified by ABNF. Resolving Proposal 4.~~](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/8?u=samuel)
 - [x] ~~Discuss post on waku mailserver name,~~ [~~change to `history node`, `persistence node`, `echo node` . Some thing more descriptive.~~](https://github.com/status-im/status-go/pull/1949#discussion_r419615374)
 - [x] ~~Discuss post on~~ [~~Database package location refactor~~](https://github.com/status-im/status-go/issues/1945)
 - [x] [~~#1949 - Waku package README.md documentation~~](https://github.com/status-im/status-go/pull/1949)
