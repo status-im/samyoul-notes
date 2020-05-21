@@ -5,6 +5,7 @@
 - [x] [status-im/spec#126- Remove/Replace Whisper RPC shh_ and shhext_ methods](https://github.com/status-im/specs/issues/126) - `closed`
 - [x] [#1981 - Waku host has special behaviour if a peer has `confirmations-enabled` set to true](https://github.com/status-im/status-go/issues/1981) - `created`
 - [x] [status-im/spec#127 - Re-sequence spec new numbers](https://github.com/status-im/specs/issues/127) - `created`
+- [x] [#1937 - Key compression initial draft](https://github.com/status-im/status-go/issues/1937) - `discussed`
 
 ## Pulls
 

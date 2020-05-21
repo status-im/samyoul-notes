@@ -28,7 +28,8 @@
    - **Todos:**
      - [x] [Do tests to see average compressed key length](https://github.com/status-im/status-go/issues/1937#issuecomment-624690407)
        - [Results](https://github.com/status-im/status-go/issues/1937#issuecomment-624920237)
-     - [ ] [Track down iOS URL intent registry for current build](https://github.com/status-im/status-go/issues/1937#issuecomment-628082382)
+     - [x] [Track down iOS URL intent registry for current build](https://github.com/status-im/status-go/issues/1937#issuecomment-628082382)
+       - [See](https://github.com/status-im/status-go/issues/1937#issuecomment-632186000)
 1) Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
 1) [Nimbus on mobile](https://discuss.status.im/t/nimbus-on-mobile/1370)
 
