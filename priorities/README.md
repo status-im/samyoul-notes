@@ -12,6 +12,7 @@
    - [Remove MessageResponse version](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/3?u=samuel)
    - [Remove Batch Ack packet type](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/10?u=samuel)
    - [Remove `confimations-enabled` from `status-options`](https://github.com/vacp2p/specs/pull/128#discussion_r427771425)
+   - Change name of `status-options` `light-node` to `is-light-node`
 1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
    - **Todos:**
      - [ ] Write specs
