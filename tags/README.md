@@ -4,6 +4,7 @@
 | ------------- | ---------------------------------------------------------------- |
 | `addressed`   | Denotes that an item has received resolving attention            |
 | `approved`    | Related to Pull Request (PR) requests for review                 |
+| `closed`      | Denotes that an item was closed to further discussion            |
 | `commits`     | Related to add git commits to github PRs                         |
 | `completed`   | Denotes that an item has been completed                          |
 | `created`     | Denotes that an item was created                                 |

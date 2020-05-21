@@ -7,10 +7,11 @@
    - **Related :**
      - [status-react#5590 - Whisper spamming protection](https://github.com/status-im/status-react/issues/5590#issuecomment-624465899)
      - [status-im/specs#73 - Remove certain specs, refer to Waku](https://github.com/status-im/specs/issues/73)
-1) Create VAC Waku spec improvment issue for:
+1) Create VAC Waku spec improvement issue(s) for:
    - Points raised [here for discussion](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
    - [Remove MessageResponse version](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/3?u=samuel)
    - [Remove Batch Ack packet type](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/10?u=samuel)
+   - [Remove `confimations-enabled` from `status-options`](https://github.com/vacp2p/specs/pull/128#discussion_r427771425)
 1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
    - **Todos:**
      - [ ] Write specs
