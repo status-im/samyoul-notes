@@ -1,3 +1,18 @@
+# 2020-05-20
+
+## Issues
+
+- [x] [#123 - Clarification on Status node roles](https://github.com/status-im/specs/issues/123) - `created`
+- [x] [#125 - Update 'whispermail' to `wakumail`](https://github.com/status-im/specs/issues/125) - `created`
+- [x] [#126- Remove/Replace Whisper RPC shh_ and shhext_ methods](https://github.com/status-im/specs/issues/126) - `created`
+
+## Pulls
+
+- [x] [status-im/spec#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `discussed`, `commits`, `completed`
+- [x] [vacp2p/spec#128 - Waku Confirmations Enabled and Light Node Field Descriptions](https://github.com/vacp2p/specs/pull/128) - `discussed`
+
+---
+
 # 2020-05-19
 
 ## Pulls
