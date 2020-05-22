@@ -3,17 +3,20 @@
 ## Personal
 
 1) Create VAC Waku spec improvement issue(s) for:
-   - Points raised [here for discussion](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
-   - [Remove MessageResponse version](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/3?u=samuel)
-   - [Remove Batch Ack packet type](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/10?u=samuel)
-   - [Remove `confimations-enabled` from `status-options`](https://github.com/vacp2p/specs/pull/128#discussion_r427771425)
-   - Change name of `status-options` `light-node` to `is-light-node`
+   - **Discussed:**
+     - [here for discussion](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
+   - **Improvements:**
+     - [Remove MessageResponse version](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/3?u=samuel)
+     - [Remove Batch Ack packet type](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/10?u=samuel)
+     - [Remove `confimations-enabled` from `status-options`](https://github.com/vacp2p/specs/pull/128#discussion_r427771425)
+     - Change name of `status-options` `light-node` to `is-light-node`
 1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
    - **Todos:**
      - [ ] Write specs
      - [ ] Implement
    - **Impacts:**
      - [status-react#3997 - Display pending requests in transactions history](https://github.com/status-im/status-react/issues/3997)
+     - [status-react#9976 - Show pending transactions](https://github.com/status-im/status-react/issues/9976)
 1) [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
    - **Notes:**
      - [Andre] all the way from the protocol level to the communication with the react app
@@ -36,6 +39,13 @@
 [Top voted features for v1.5+](https://discuss.status.im/t/roadmap-planning/1399/38)
 
 ---
+
+## Reading List
+
+- [ ] [Desktop paths forward, a choose your own adventure?](https://discuss.status.im/t/desktop-paths-forward-a-choose-your-own-adventure/1666)
+- [ ] [How :desktop_computer Desktop & Mobile should connect?](https://discuss.status.im/t/how-desktop-mobile-should-connect/1668)
+
+--
 
 ## Resolved
 - [x] [~~status-im/specs#61 - Replace forked Whisper usage with Waku/0 in specs~~](https://github.com/status-im/specs/issues/61)

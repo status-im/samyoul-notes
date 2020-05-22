@@ -7,6 +7,7 @@
    - **Notes**
      - https://github.com/status-im/status-go/issues/1937
      - https://www.w3.org/TR/did-core/
+     - https://github.com/status-im/status-react/pull/10703#issuecomment-632756251
 
 ## Pulls
 
