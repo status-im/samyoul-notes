@@ -1,3 +1,24 @@
+# 2020-05-22
+
+#Schedule
+
+- [x] 14:00 BST - Compressed Key Discussion
+   - https://meet.google.com/hqw-nsfk-xoq
+   - **Notes**
+     - https://github.com/status-im/status-go/issues/1937
+     - https://www.w3.org/TR/did-core/
+
+## Pulls
+
+- [x] 🎆🥳🎉 [status-im/spec#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `merged` 🎆🥳🎉
+
+
+## Reviews
+
+- [x] [#1982 - Load identicon & alias in chat.](https://github.com/status-im/status-go/pull/1982) - `approved`
+
+---
+
 # 2020-05-21
 
 ## Issues
