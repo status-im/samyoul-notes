@@ -13,6 +13,9 @@
 - [x] 🎆🥳🎉 [status-im/spec#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `merged` 🎆🥳🎉
 - [x] [status-im/spec#129 - Added release information to changelogs](https://github.com/status-im/specs/pull/129) - `submitted`, `merged`
 - [x] [status-im/spec#130 - Update/sequence specs](https://github.com/status-im/specs/pull/130) - `submitted`
+- [x] [vacp2p/spec#128 - Waku Confirmations Enabled and Light Node Field Descriptions](https://github.com/vacp2p/specs/pull/128) - `resubmitted`
+  - Some merge commits weren't signed and it caused a block on the merge. I needed to rebase and squash the commits in the branch and resign.
+  - I've added auto-sign so that I will always be asked to sign commits
 
 ## Reviews
 
