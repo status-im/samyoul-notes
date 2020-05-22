@@ -11,7 +11,7 @@
 ## Pulls
 
 - [x] 🎆🥳🎉 [status-im/spec#114 - Update/waku replace](https://github.com/status-im/specs/pull/114) - `merged` 🎆🥳🎉
-
+- [x] [status-im/spec#114 - Added release information to changelogs](https://github.com/status-im/specs/pull/129)
 
 ## Reviews
 
