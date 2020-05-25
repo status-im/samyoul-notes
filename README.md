@@ -1,17 +1,27 @@
+# 2020-05-26
+
+## Reviews
+
+- [ ] [Tool for resolving Java Maven dependencies](https://github.com/status-im/go-maven-resolver)
+
+---
+
 # 2020-05-25
 
-# Issues
+## Issues
 
 - [x] [#1937 - Compress public key for chat](https://github.co/status-im/status-go/issues/1937) - `discussed`
 
-# Pulls
+## Pulls
 
 - [x] [status-im/spec#130 - Update/sequence specs](https://github.com/status-im/specs/pull/130) - `merged`
 - [x] [[vacp2p/spec#128 - Waku Confirmations Enabled and Light Node Field Descriptions](https://github.com/vacp2p/specs/pull/128) - `merged`
 
+---
+
 # 2020-05-22
 
-#Schedule
+## Schedule
 
 - [x] 14:00 BST - Compressed Key Discussion
    - https://meet.google.com/hqw-nsfk-xoq
