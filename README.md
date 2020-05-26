@@ -1,8 +1,20 @@
 # 2020-05-26
 
+## Issues
+
+- [x] [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834) - `research`
+  - Efficiency research
+    - [ethereum.stackexchange](https://ethereum.stackexchange.com/questions/83742/is-it-possible-to-filter-pendingtransactions)
+    - [stackoverflow](https://stackoverflow.com/questions/62031380/is-it-possible-to-filter-ethereum-pendingtransactions)
+
+## Pulls
+
+- [x] [Structural Feedback](https://github.com/status-im/go-maven-resolver/pull/1) - `submitted`, `commits`, `discussed`, `merged`
+
 ## Reviews
 
-- [ ] [Tool for resolving Java Maven dependencies](https://github.com/status-im/go-maven-resolver)
+- [x] [Tool for resolving Java Maven dependencies](https://github.com/status-im/go-maven-resolver) - `feedback`
+- [x] [Town Hall #58 - May 25, 2020](https://www.youtube.com/watch?v=VAvayRLS6GY) - `watched`
 
 ---
 
