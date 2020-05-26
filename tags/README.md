@@ -15,6 +15,7 @@
 | `postponed`   | Denotes that an event was postponed                              |
 | `prototype`   | Denotes that a prototype of an idea was implemented              |
 | `read`        | Denotes that an item was read                                    |
+| `research`    | Denotes that an item was researched for wider understanding      |
 | `resubmitted` | Denotes that an item was submitted for review again              |
 | `submitted`   | Denotes that an item was submitted for review                    |
 | `watched`     | Denotes that an item was watched. Example a video lecture        |
