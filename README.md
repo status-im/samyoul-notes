@@ -1,3 +1,15 @@
+# 2020-05-27
+
+## Issues
+
+- [x] [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834) - `research`, `discussed`
+  - [Status relies 100% on Infura for Ethereum connection, doesn't provide `eth_pendingTransactions`](https://github.com/status-im/status-go/issues/1834#issuecomment-634560314)
+  - [Filtering the pending transactions via `eth_pendingTransactions` not possible](https://github.com/status-im/status-go/issues/1834#issuecomment-634567799)
+  - [Proposal for `eth_pendingTransactions` infrastructure](https://github.com/status-im/status-go/issues/1834#issuecomment-634650486)
+  - [Filtering pending transactions possible via OpenEthereum `parity_pendingTransactions`](https://github.com/status-im/status-go/issues/1834#issuecomment-634731429)
+
+---
+
 # 2020-05-26
 
 ## Issues
