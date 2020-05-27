@@ -7,6 +7,7 @@
   - [Filtering the pending transactions via `eth_pendingTransactions` not possible](https://github.com/status-im/status-go/issues/1834#issuecomment-634567799)
   - [Proposal for `eth_pendingTransactions` infrastructure](https://github.com/status-im/status-go/issues/1834#issuecomment-634650486)
   - [Filtering pending transactions possible via OpenEthereum `parity_pendingTransactions`](https://github.com/status-im/status-go/issues/1834#issuecomment-634731429)
+  - [Pending transaction pool has 93,000 transactions. Too many for a little light node.](https://github.com/status-im/status-go/issues/1834#issuecomment-634783187)
 
 ---
 
