@@ -1,3 +1,16 @@
+# 2020-05-28
+
+## Issues
+
+- [x] [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834) - `research`
+  - Trying to find a decentralised alternative for [my currenr proposal](https://github.com/status-im/status-go/issues/1834#issuecomment-634650486)
+
+## Reviews
+
+- [x] [Core Dev Call 31 Agenda](https://github.com/status-im/pm/issues/56) - `read`
+
+---
+
 # 2020-05-27
 
 ## Issues
