@@ -4,6 +4,7 @@
 
 - [x] [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834) - `research`
   - Trying to find a decentralised alternative for [my currenr proposal](https://github.com/status-im/status-go/issues/1834#issuecomment-634650486)
+- [x] [go-ethereum#21143 - JSON_RPC eth_pendingTransactions Filtering](https://github.com/ethereum/go-ethereum/issues/21143) - `created`
 
 ## Reviews
 
