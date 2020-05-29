@@ -1,13 +1,28 @@
+#2020-05-29
+
+## Schedule
+
+- [x] 14:00 BST - Nix - Fundamentals (Presentation)
+   - https://meet.google.com/skq-pwau-vfp
+
+## Issues
+
+- [x] [Change 8-eips.md to 8-supported-specs.md](https://github.com/status-im/specs/issues/116) - `discussed`
+- [x] [Core Dev Call 31 Agenda](https://github.com/status-im/pm/issues/56) - `discussed`
+
+## Reviews
+
+- [x] [Remove personal pronouns](https://github.com/vacp2p/specs/pull/135) - `commits`, `submitted`
+
+---
+
 # 2020-05-28
 
 ## Issues
 
 - [x] [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834) - `research`
-  - Trying to find a decentralised alternative for [my currenr proposal](https://github.com/status-im/status-go/issues/1834#issuecomment-634650486)
+  - Trying to find a decentralised alternative for [my current proposal](https://github.com/status-im/status-go/issues/1834#issuecomment-634650486)
 - [x] [go-ethereum#21143 - JSON_RPC eth_pendingTransactions Filtering](https://github.com/ethereum/go-ethereum/issues/21143) - `created`
-
-## Reviews
-
 - [x] [Core Dev Call 31 Agenda](https://github.com/status-im/pm/issues/56) - `read`
 
 ---

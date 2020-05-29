@@ -2,6 +2,7 @@
 
 ## Personal
 
+1) Add to the `status-go/protocol` package README notes about how it was originally a whole repo with managed dependencies. 
 1) Create VAC Waku spec improvement issue(s) for:
    - **Discussed:**
      - [here for discussion](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
