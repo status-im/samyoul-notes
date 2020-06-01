@@ -15,4 +15,8 @@
 - [x] [Show pending transactions](https://github.com/status-im/status-go/issues/1834) - `discussed`
 - [x] [Core Dev Call 31 Agenda](https://github.com/status-im/pm/issues/56) - `discussed`
 
+## Reviews
+
+- [x] [go-maven-resolver#2 - add request retries for non-404 errors](https://github.com/status-im/go-maven-resolver/pull/2) - `feedback`
+
 ---
