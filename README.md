@@ -7,10 +7,11 @@
    - [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
      - Do light nodes help provide a solution for this
 
-   
+- [x] [status-im/specs#134 - Implement Passive Voice / General Grammar Linter](https://github.com/status-im/specs/issues/134) - `created`
+
 ## Pulls
 
-- [ ] [status-im/specs#132 - Remove personal pronouns](https://github.com/status-im/specs/pull/132/) - 
+- [x] [status-im/specs#132 - Remove personal pronouns](https://github.com/status-im/specs/pull/132/) - `commits`, `resubmitted` 
 
 ---
 
