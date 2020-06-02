@@ -7,11 +7,17 @@
    - [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
      - Do light nodes help provide a solution for this
 
+## Issues
+
 - [x] [status-im/specs#134 - Implement Passive Voice / General Grammar Linter](https://github.com/status-im/specs/issues/134) - `created`
 
 ## Pulls
 
 - [x] [status-im/specs#132 - Remove personal pronouns](https://github.com/status-im/specs/pull/132/) - `commits`, `resubmitted` 
+
+## Reviews
+
+- [x] [go-maven-resolver#2 - add request retries for non-404 errors](https://github.com/status-im/go-maven-resolver/pull/2) - `approved`
 
 ---
 
