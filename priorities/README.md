@@ -3,11 +3,11 @@
 ## Personal
 
 1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
-  - **Todos:**
-    - [ ] Write specs
-    - [ ] Implement
-  - **Impacts:**
-    - [status-react#3997 - Display pending requests in transactions history](https://github.com/status-im/status-react/issues/3997)
+   - **Todos:**
+     - [ ] Write specs
+     - [ ] Implement
+   - **Impacts:**
+     - [status-react#3997 - Display pending requests in transactions history](https://github.com/status-im/status-react/issues/3997)
      - [status-react#9976 - Show pending transactions](https://github.com/status-im/status-react/issues/9976)
 1) [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
    - **Notes:**
