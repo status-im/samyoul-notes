@@ -2,7 +2,6 @@
 
 ## Personal
 
-1) Add to the `status-go/protocol` package README notes about how it was originally a whole repo with managed dependencies. 
 1) Create VAC Waku spec improvement issue(s) for:
    - **Discussed:**
      - [here for discussion](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
@@ -50,6 +49,9 @@
 ---
 
 ## Resolved
+
+- [x] ~~Add to the `status-go/protocol` package README notes about how it was originally a whole repo with managed dependencies.~~ 
+   - **PR :** [#1984 - Added basic history of the protocol package](https://github.com/status-im/status-go/pull/1984)
 - [x] [~~status-im/specs#61 - Replace forked Whisper usage with Waku/0 in specs~~](https://github.com/status-im/specs/issues/61)
    - **PR :** [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114)
 - [x] [~~I’ll open a PR making an explicit reference that Envelope is specified by ABNF. Resolving Proposal 4.~~](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/8?u=samuel)
