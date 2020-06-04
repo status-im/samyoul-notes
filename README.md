@@ -1,5 +1,26 @@
 # 2020-06-04
 
+## Schedule
+
+- [x] 12:30 BST - Jarrad and Sam Compressed Keys
+   - https://meet.google.com/dnv-otdx-jmp
+   - Notes
+     - [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
+       - Treat this improvement for aesthetic reasons
+       - https://github.com/multiformats/multiformats
+     - [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
+       - Implement an archive node network.
+       - Light node implementations / querying state
+         - https://slock.it/incubed/
+         - https://slock.it/incubed-sdk/
+         - https://thegraph.com/
+
+## Issues
+
+- [x] [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834) - `discussed`
+- [x] [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937) - `discussed`
+
+
 ## Pulls
 
 - [x] [#1984 - Added basic history of the protocol package](https://github.com/status-im/status-go/pull/1984) - `merged` 
