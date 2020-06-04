@@ -18,8 +18,8 @@
 ## Issues
 
 - [x] [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834) - `discussed`
-- [x] [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937) - `discussed`
-
+- [x] [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937) - `discussed`, `research`
+  - [Multiformat public keys](https://github.com/status-im/status-go/issues/1937#issuecomment-638963337)
 
 ## Pulls
 
