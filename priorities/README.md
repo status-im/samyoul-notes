@@ -2,14 +2,6 @@
 
 ## Personal
 
-1) Create VAC Waku spec improvement issue(s) for:
-   - **Discussed:**
-     - [here for discussion](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
-   - **Improvements:**
-     - [~~Remove MessageResponse version~~](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/3?u=samuel)
-     - [~~Remove Batch Ack packet type~~](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/10?u=samuel)
-     - [Remove `confimations-enabled` from `status-options`](https://github.com/vacp2p/specs/pull/128#discussion_r427771425)
-     - Change name of `status-options` `light-node` to `is-light-node`
 1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
    - **Todos:**
      - [ ] Write specs
@@ -50,10 +42,18 @@
 
 ## Resolved
 
+- [x] Create VAC Waku spec improvement issue(s) for:
+  - **Discussed:**
+    - [here for discussion](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664)
+  - **Improvements:**
+    - [~~Remove MessageResponse version~~](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/3?u=samuel)
+    - [~~Remove Batch Ack packet type~~](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/10?u=samuel)
+    - [~~Remove `confimations-enabled` from `status-options`.~~](https://github.com/vacp2p/specs/pull/128#discussion_r427771425)
+    - ~~Change name of `status-options` `light-node` to `is-light-node`.~~
 - [x] ~~Add to the `status-go/protocol` package README notes about how it was originally a whole repo with managed dependencies.~~ 
-   - **PR :** [#1984 - Added basic history of the protocol package](https://github.com/status-im/status-go/pull/1984)
+  - **PR :** [#1984 - Added basic history of the protocol package](https://github.com/status-im/status-go/pull/1984)
 - [x] [~~status-im/specs#61 - Replace forked Whisper usage with Waku/0 in specs~~](https://github.com/status-im/specs/issues/61)
-   - **PR :** [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114)
+  - **PR :** [#114 - Update/waku replace](https://github.com/status-im/specs/pull/114)
 - [x] [~~I’ll open a PR making an explicit reference that Envelope is specified by ABNF. Resolving Proposal 4.~~](https://discuss.status.im/t/wherefore-art-thou-mailserver-treatise-on-waku-terminology/1664/8?u=samuel)
 - [x] ~~Discuss post on waku mailserver name,~~ [~~change to `history node`, `persistence node`, `echo node` . Some thing more descriptive.~~](https://github.com/status-im/status-go/pull/1949#discussion_r419615374)
 - [x] ~~Discuss post on~~ [~~Database package location refactor~~](https://github.com/status-im/status-go/issues/1945)
