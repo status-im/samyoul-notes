@@ -1,3 +1,11 @@
+# 2020-06-04
+
+## Pulls
+
+- [x] [#1984 - Added basic history of the protocol package](https://github.com/status-im/status-go/pull/1984) - `merged` 
+
+---
+
 # 2020-06-03
 
 ## Issues
