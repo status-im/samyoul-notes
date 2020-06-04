@@ -21,6 +21,10 @@
        - [Results](https://github.com/status-im/status-go/issues/1937#issuecomment-624920237)
      - [x] [Track down iOS URL intent registry for current build](https://github.com/status-im/status-go/issues/1937#issuecomment-628082382)
        - [See](https://github.com/status-im/status-go/issues/1937#issuecomment-632186000)
+     - [x] [Research base58 key length] TODO add link
+     - [x] [Research Multiformat for key versioning] TODO add link
+   - **Impacts**
+     - [x] [#10325 - Request compressed keys](https://github.com/status-im/status-react/issues/10325)
 1) Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
 1) [Nimbus on mobile](https://discuss.status.im/t/nimbus-on-mobile/1370)
 
