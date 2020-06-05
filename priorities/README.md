@@ -5,6 +5,9 @@
 1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
    - **Todos:**
      - [ ] Write specs
+       - https://github.com/ethereum/devp2p/blob/master/caps/les.md
+       - https://openethereum.github.io/wiki/Light-Ethereum-Subprotocol-(LES)
+       - https://discuss.status.im/search?q=ultra%20light%20client
      - [ ] Implement
    - **Impacts:**
      - [status-react#3997 - Display pending requests in transactions history](https://github.com/status-im/status-react/issues/3997)
