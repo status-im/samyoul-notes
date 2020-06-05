@@ -16,6 +16,11 @@
    - https://notes.status.im/pending-tx-infra-costs
    - https://github.com/status-im/jakubgs-notes/blob/master/research/pending_tx_infra.md
 
+## Issues
+
+- [x] [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937) - `research`
+  - Researching how to create new bindings in the `status-go` binary
+
 ## Reviews
 
 - [x] [Adjust index to use `local_chat_id`](https://github.com/status-im/status-go/pull/1986) - `approved`, `feedback`
