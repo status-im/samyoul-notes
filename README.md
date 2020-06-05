@@ -1,3 +1,27 @@
+# 2020-06-05
+
+## Schedule
+
+- [x] 14:00 BST - Core Retro
+  - https://meet.google.com/hqw-nsfk-xoq
+  - [Notes](https://notes.status.im/mj_3vzVQQHiQC0C7DOiZSA?both)
+    - Got go ahead for our own infura light, provided cost is not too high ... Need to get costings
+      - [x] Samuel to schedule exploratory meeting
+- [x] 15:00 BST - Nix in Status
+   - https://meet.google.com/kwv-arcf-jqm
+   - https://www.youtube.com/watch?v=m4sv2M9jRLg
+   - https://drive.google.com/file/d/1Tt5R7QOubudGiSuZIGxuFWB1OYgcThcL
+- [x] 16:00 BST - Jakub / Samuel
+   - https://meet.google.com/tgb-bjqu-ehr
+   - https://notes.status.im/pending-tx-infra-costs
+   - https://github.com/status-im/jakubgs-notes/blob/master/research/pending_tx_infra.md
+
+## Reviews
+
+- [x] [Adjust index to use `local_chat_id`](https://github.com/status-im/status-go/pull/1986) - `approved`, `feedback`
+
+---
+
 # 2020-06-04
 
 ## Schedule
