@@ -1,3 +1,26 @@
+# 2020-06-08
+
+## Schedule
+
+- [x] 13:00 BST - Town Hall
+   - https://www.youtube.com/c/Statusim/live
+
+## Issues
+
+- [x] [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
+   - Sync with Jarrad about costing for experimentation and rollout plan discussed with Jakub
+- [ ] [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
+   - Implement binding functions for compressing and uncompressing public keys
+- [x] [#1936 - Messengers acquires a lock in some methods for very long time](https://github.com/status-im/status-go/issues/1936)
+   - Begin review of code for improvements
+
+## Reviews
+
+- [x] [vacp2p#141 - Add rate limit by size](https://github.com/acp2p/specs/pull/141) - `feedback`, `discussed`, `approved`
+- [x] [#105 - mentions](https://github.com/status-im/specs/pull/105) - `feedback`
+
+---
+
 # 2020-06-05
 
 ## Schedule
