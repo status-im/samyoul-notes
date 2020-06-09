@@ -1,5 +1,20 @@
 # 2020-06-09
 
+## Schedule
+
+- [x] 12:00 BST - Samuel / Terry - Catch up
+   - https://meet.google.com/acp-ftky-cqe
+
+## Pulls
+
+- [x] [#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990) - `draft`, `commits`
+   - I had a lot of problems with `vendor make`
+     - I needed to install `goware/modvendor` directly, `modvendor-install` was failing
+   - Package unit testing caused a lot of problems because C libs were/are throwing errors.
+     - For details [see here](attachments/2020-06/2020-06-09_unit-test-error-log.txt)
+   - The linter is capricious and likely evil, I spent too much time trying to appease it
+     - The linter seems to want every non-native package to be listed separately grouped by repo
+
 ## Reviews
 
 - [x] [vacp2p#141 - Add rate limit by size](https://github.com/acp2p/specs/pull/141) - `reapproved`
