@@ -1,3 +1,13 @@
+# 2020-06-09
+
+## Reviews
+
+- [x] [vacp2p#141 - Add rate limit by size](https://github.com/acp2p/specs/pull/141) - `reapproved`
+- [x] [#1989 - Implement rate limiting by bytes](https://github.com/status-im/status-go/pull/1989) - `approved`
+- [x] [#1987 - expose getContactByID method](https://github.com/status-im/status-go/pull/1987) - `approved`
+
+---
+
 # 2020-06-08
 
 ## Schedule
