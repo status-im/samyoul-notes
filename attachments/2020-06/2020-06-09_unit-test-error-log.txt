@@ -1,0 +1,361 @@
+# gopkg.in/olebedev/go-duktape.v3
+In file included from _cgo_export.c:4:0:
+debugger.go:22:13: warning: '_duk_debugger_attach' defined but not used [-Wunused-function]
+# gopkg.in/olebedev/go-duktape.v3
+duk_minimal_printf.c: In function 'duk__parse_pointer':
+duk_minimal_printf.c:126:9: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+  *out = (void *) val;
+         ^
+duk_minimal_printf.c: In function 'duk_minimal_vsnprintf':
+duk_minimal_printf.c:236:76: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     off = duk__format_long(str, size, off, sizeof(void *) * 2, '0', 16, 0, (unsigned long) v);
+                                                                            ^
+# github.com/karalabe/usb
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/objbase.h:14:0,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/ole2.h:17,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/wtypes.h:12,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/winscard.h:10,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/windows.h:97,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusb.h:76,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusbi.h:39,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/poll_windows.c:43,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:41:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:428:3: error: unknown type name 'interface'
+   DECLARE_INTERFACE_(IOleUILinkContainerW,IUnknown) {
+   ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:428:3: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+   DECLARE_INTERFACE_(IOleUILinkContainerW,IUnknown) {
+   ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/setupapi.h:27:0,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/windows_winusb.c:29,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:55:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:429:31: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD(QueryInterface)(THIS_ REFIID riid,LPVOID *ppvObj) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:430:30: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD_(ULONG,AddRef)(THIS) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:431:31: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD_(ULONG,Release)(THIS) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:432:35: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD_(DWORD,GetNextLink)(THIS_ DWORD dwLink) PURE;
+                                   ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:433:37: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD(SetLinkUpdateOptions)(THIS_ DWORD dwLink,DWORD dwUpdateOpt) PURE;
+                                     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:434:37: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD(GetLinkUpdateOptions)(THIS_ DWORD dwLink,DWORD *lpdwUpdateOpt) PURE;
+                                     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:435:30: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD(SetLinkSource)(THIS_ DWORD dwLink,LPWSTR lpszDisplayName,ULONG lenFileName,ULONG *pchEaten,WINBOOL fValidateSource) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:436:30: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD(GetLinkSource)(THIS_ DWORD dwLink,LPWSTR *lplpszDisplayName,ULONG *lplenFileName,LPWSTR *lplpszFullLinkType,LPWSTR *lplpszShortLinkType,WINBOOL *lpfSourceAvailable,WINBOOL *lpfIsSelected) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:437:31: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD(OpenLinkSource)(THIS_ DWORD dwLink) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:438:27: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD(UpdateLink)(THIS_ DWORD dwLink,WINBOOL fErrorMessage,WINBOOL fReserved) PURE;
+                           ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:439:27: error: expected declaration specifiers or '...' before 'IOleUILinkContainerW'
+     STDMETHOD(CancelLink)(THIS_ DWORD dwLink) PURE;
+                           ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:442:32: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+   typedef IOleUILinkContainerW *LPOLEUILINKCONTAINERW;
+                                ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/objbase.h:14:0,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/ole2.h:17,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/wtypes.h:12,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/winscard.h:10,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/windows.h:97,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusb.h:76,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusbi.h:39,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/poll_windows.c:43,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:41:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:447:3: error: unknown type name 'interface'
+   DECLARE_INTERFACE_(IOleUILinkContainerA,IUnknown) {
+   ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:447:3: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+   DECLARE_INTERFACE_(IOleUILinkContainerA,IUnknown) {
+   ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/setupapi.h:27:0,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/windows_winusb.c:29,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:55:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:448:31: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD(QueryInterface)(THIS_ REFIID riid,LPVOID *ppvObj) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:449:30: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD_(ULONG,AddRef)(THIS) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:450:31: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD_(ULONG,Release)(THIS) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:451:35: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD_(DWORD,GetNextLink)(THIS_ DWORD dwLink) PURE;
+                                   ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:452:37: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD(SetLinkUpdateOptions)(THIS_ DWORD dwLink,DWORD dwUpdateOpt) PURE;
+                                     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:453:37: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD(GetLinkUpdateOptions)(THIS_ DWORD dwLink,DWORD *lpdwUpdateOpt) PURE;
+                                     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:454:30: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD(SetLinkSource)(THIS_ DWORD dwLink,LPSTR lpszDisplayName,ULONG lenFileName,ULONG *pchEaten,WINBOOL fValidateSource) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:455:30: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD(GetLinkSource)(THIS_ DWORD dwLink,LPSTR *lplpszDisplayName,ULONG *lplenFileName,LPSTR *lplpszFullLinkType,LPSTR *lplpszShortLinkType,WINBOOL *lpfSourceAvailable,WINBOOL *lpfIsSelected) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:456:31: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD(OpenLinkSource)(THIS_ DWORD dwLink) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:457:27: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD(UpdateLink)(THIS_ DWORD dwLink,WINBOOL fErrorMessage,WINBOOL fReserved) PURE;
+                           ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:458:27: error: expected declaration specifiers or '...' before 'IOleUILinkContainerA'
+     STDMETHOD(CancelLink)(THIS_ DWORD dwLink) PURE;
+                           ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:461:32: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+   typedef IOleUILinkContainerA *LPOLEUILINKCONTAINERA;
+                                ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:478:5: error: unknown type name 'LPOLEUILINKCONTAINERW'
+     LPOLEUILINKCONTAINERW lpOleUILinkContainer;
+     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:491:5: error: unknown type name 'LPOLEUILINKCONTAINERA'
+     LPOLEUILINKCONTAINERA lpOleUILinkContainer;
+     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:711:5: error: unknown type name 'LPOLEUILINKCONTAINERW'
+     LPOLEUILINKCONTAINERW lpOleUILinkContainer;
+     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:731:5: error: unknown type name 'LPOLEUILINKCONTAINERA'
+     LPOLEUILINKCONTAINERA lpOleUILinkContainer;
+     ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/objbase.h:14:0,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/ole2.h:17,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/wtypes.h:12,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/winscard.h:10,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/windows.h:97,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusb.h:76,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusbi.h:39,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/poll_windows.c:43,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:41:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:767:3: error: unknown type name 'interface'
+   DECLARE_INTERFACE_(IOleUIObjInfoW,IUnknown) {
+   ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:767:3: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+   DECLARE_INTERFACE_(IOleUIObjInfoW,IUnknown) {
+   ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/setupapi.h:27:0,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/windows_winusb.c:29,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:55:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:768:31: error: expected declaration specifiers or '...' before 'IOleUIObjInfoW'
+     STDMETHOD(QueryInterface)(THIS_ REFIID riid,LPVOID *ppvObj) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:769:30: error: expected declaration specifiers or '...' before 'IOleUIObjInfoW'
+     STDMETHOD_(ULONG,AddRef)(THIS) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:770:31: error: expected declaration specifiers or '...' before 'IOleUIObjInfoW'
+     STDMETHOD_(ULONG,Release)(THIS) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:771:30: error: expected declaration specifiers or '...' before 'IOleUIObjInfoW'
+     STDMETHOD(GetObjectInfo)(THIS_ DWORD dwObject,DWORD *lpdwObjSize,LPWSTR *lplpszLabel,LPWSTR *lplpszType,LPWSTR *lplpszShortType,LPWSTR *lplpszLocation) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:772:31: error: expected declaration specifiers or '...' before 'IOleUIObjInfoW'
+     STDMETHOD(GetConvertInfo)(THIS_ DWORD dwObject,CLSID *lpClassID,WORD *lpwFormat,CLSID *lpConvertDefaultClassID,LPCLSID *lplpClsidExclude,UINT *lpcClsidExclude) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:773:30: error: expected declaration specifiers or '...' before 'IOleUIObjInfoW'
+     STDMETHOD(ConvertObject)(THIS_ DWORD dwObject,REFCLSID clsidNew) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:774:28: error: expected declaration specifiers or '...' before 'IOleUIObjInfoW'
+     STDMETHOD(GetViewInfo)(THIS_ DWORD dwObject,HGLOBAL *phMetaPict,DWORD *pdvAspect,int *pnCurrentScale) PURE;
+                            ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:775:28: error: expected declaration specifiers or '...' before 'IOleUIObjInfoW'
+     STDMETHOD(SetViewInfo)(THIS_ DWORD dwObject,HGLOBAL hMetaPict,DWORD dvAspect,int nCurrentScale,WINBOOL bRelativeToOrig) PURE;
+                            ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:778:26: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+   typedef IOleUIObjInfoW *LPOLEUIOBJINFOW;
+                          ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/objbase.h:14:0,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/ole2.h:17,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/wtypes.h:12,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/winscard.h:10,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/windows.h:97,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusb.h:76,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusbi.h:39,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/poll_windows.c:43,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:41:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:783:3: error: unknown type name 'interface'
+   DECLARE_INTERFACE_(IOleUIObjInfoA,IUnknown) {
+   ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:783:3: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+   DECLARE_INTERFACE_(IOleUIObjInfoA,IUnknown) {
+   ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/setupapi.h:27:0,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/windows_winusb.c:29,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:55:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:784:31: error: expected declaration specifiers or '...' before 'IOleUIObjInfoA'
+     STDMETHOD(QueryInterface)(THIS_ REFIID riid,LPVOID *ppvObj) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:785:30: error: expected declaration specifiers or '...' before 'IOleUIObjInfoA'
+     STDMETHOD_(ULONG,AddRef)(THIS) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:786:31: error: expected declaration specifiers or '...' before 'IOleUIObjInfoA'
+     STDMETHOD_(ULONG,Release)(THIS) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:787:30: error: expected declaration specifiers or '...' before 'IOleUIObjInfoA'
+     STDMETHOD(GetObjectInfo)(THIS_ DWORD dwObject,DWORD *lpdwObjSize,LPSTR *lplpszLabel,LPSTR *lplpszType,LPSTR *lplpszShortType,LPSTR *lplpszLocation) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:788:31: error: expected declaration specifiers or '...' before 'IOleUIObjInfoA'
+     STDMETHOD(GetConvertInfo)(THIS_ DWORD dwObject,CLSID *lpClassID,WORD *lpwFormat,CLSID *lpConvertDefaultClassID,LPCLSID *lplpClsidExclude,UINT *lpcClsidExclude) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:789:30: error: expected declaration specifiers or '...' before 'IOleUIObjInfoA'
+     STDMETHOD(ConvertObject)(THIS_ DWORD dwObject,REFCLSID clsidNew) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:790:28: error: expected declaration specifiers or '...' before 'IOleUIObjInfoA'
+     STDMETHOD(GetViewInfo)(THIS_ DWORD dwObject,HGLOBAL *phMetaPict,DWORD *pdvAspect,int *pnCurrentScale) PURE;
+                            ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:791:28: error: expected declaration specifiers or '...' before 'IOleUIObjInfoA'
+     STDMETHOD(SetViewInfo)(THIS_ DWORD dwObject,HGLOBAL hMetaPict,DWORD dvAspect,int nCurrentScale,WINBOOL bRelativeToOrig) PURE;
+                            ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:794:26: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+   typedef IOleUIObjInfoA *LPOLEUIOBJINFOA;
+                          ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/objbase.h:14:0,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/ole2.h:17,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/wtypes.h:12,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/winscard.h:10,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/windows.h:97,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusb.h:76,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusbi.h:39,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/poll_windows.c:43,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:41:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:804:3: error: unknown type name 'interface'
+   DECLARE_INTERFACE_(IOleUILinkInfoW,IOleUILinkContainerW) {
+   ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:804:3: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+   DECLARE_INTERFACE_(IOleUILinkInfoW,IOleUILinkContainerW) {
+   ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/setupapi.h:27:0,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/windows_winusb.c:29,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:55:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:805:31: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD(QueryInterface)(THIS_ REFIID riid,LPVOID *ppvObj) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:806:30: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD_(ULONG,AddRef)(THIS) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:807:31: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD_(ULONG,Release)(THIS) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:808:35: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD_(DWORD,GetNextLink)(THIS_ DWORD dwLink) PURE;
+                                   ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:809:37: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD(SetLinkUpdateOptions)(THIS_ DWORD dwLink,DWORD dwUpdateOpt) PURE;
+                                     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:810:37: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD(GetLinkUpdateOptions)(THIS_ DWORD dwLink,DWORD *lpdwUpdateOpt) PURE;
+                                     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:811:30: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD(SetLinkSource)(THIS_ DWORD dwLink,LPWSTR lpszDisplayName,ULONG lenFileName,ULONG *pchEaten,WINBOOL fValidateSource) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:812:30: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD(GetLinkSource)(THIS_ DWORD dwLink,LPWSTR *lplpszDisplayName,ULONG *lplenFileName,LPWSTR *lplpszFullLinkType,LPWSTR *lplpszShortLinkType,WINBOOL *lpfSourceAvailable,WINBOOL *lpfIsSelected) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:813:31: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD(OpenLinkSource)(THIS_ DWORD dwLink) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:814:27: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD(UpdateLink)(THIS_ DWORD dwLink,WINBOOL fErrorMessage,WINBOOL fReserved) PURE;
+                           ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:815:27: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD(CancelLink)(THIS_ DWORD dwLink) PURE;
+                           ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:816:30: error: expected declaration specifiers or '...' before 'IOleUILinkInfoW'
+     STDMETHOD(GetLastUpdate)(THIS_ DWORD dwLink,FILETIME *lpLastUpdate) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:819:27: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+   typedef IOleUILinkInfoW *LPOLEUILINKINFOW;
+                           ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/objbase.h:14:0,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/ole2.h:17,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/wtypes.h:12,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/winscard.h:10,
+                 from C:/TDM-GCC-64/x86_64-w64-mingw32/include/windows.h:97,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusb.h:76,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/libusbi.h:39,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/poll_windows.c:43,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:41:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:824:3: error: unknown type name 'interface'
+   DECLARE_INTERFACE_(IOleUILinkInfoA,IOleUILinkContainerA) {
+   ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:824:3: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+   DECLARE_INTERFACE_(IOleUILinkInfoA,IOleUILinkContainerA) {
+   ^
+In file included from C:/TDM-GCC-64/x86_64-w64-mingw32/include/setupapi.h:27:0,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libusb\libusb/os/windows_winusb.c:29,
+                 from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:55:
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:825:31: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD(QueryInterface)(THIS_ REFIID riid,LPVOID *ppvObj) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:826:30: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD_(ULONG,AddRef)(THIS) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:827:31: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD_(ULONG,Release)(THIS) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:828:35: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD_(DWORD,GetNextLink)(THIS_ DWORD dwLink) PURE;
+                                   ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:829:37: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD(SetLinkUpdateOptions)(THIS_ DWORD dwLink,DWORD dwUpdateOpt) PURE;
+                                     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:830:37: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD(GetLinkUpdateOptions)(THIS_ DWORD dwLink,DWORD *lpdwUpdateOpt) PURE;
+                                     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:831:30: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD(SetLinkSource)(THIS_ DWORD dwLink,LPSTR lpszDisplayName,ULONG lenFileName,ULONG *pchEaten,WINBOOL fValidateSource) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:832:30: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD(GetLinkSource)(THIS_ DWORD dwLink,LPSTR *lplpszDisplayName,ULONG *lplenFileName,LPSTR *lplpszFullLinkType,LPSTR *lplpszShortLinkType,WINBOOL *lpfSourceAvailable,WINBOOL *lpfIsSelected) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:833:31: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD(OpenLinkSource)(THIS_ DWORD dwLink) PURE;
+                               ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:834:27: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD(UpdateLink)(THIS_ DWORD dwLink,WINBOOL fErrorMessage,WINBOOL fReserved) PURE;
+                           ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:835:27: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD(CancelLink)(THIS_ DWORD dwLink) PURE;
+                           ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:836:30: error: expected declaration specifiers or '...' before 'IOleUILinkInfoA'
+     STDMETHOD(GetLastUpdate)(THIS_ DWORD dwLink,FILETIME *lpLastUpdate) PURE;
+                              ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:839:27: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+   typedef IOleUILinkInfoA *LPOLEUILINKINFOA;
+                           ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:952:5: error: unknown type name 'LPOLEUIOBJINFOW'
+     LPOLEUIOBJINFOW lpObjInfo;
+     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:954:5: error: unknown type name 'LPOLEUILINKINFOW'
+     LPOLEUILINKINFOW lpLinkInfo;
+     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:965:5: error: unknown type name 'LPOLEUIOBJINFOA'
+     LPOLEUIOBJINFOA lpObjInfo;
+     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:967:5: error: unknown type name 'LPOLEUILINKINFOA'
+     LPOLEUILINKINFOA lpLinkInfo;
+     ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:1023:38: error: unknown type name 'LPOLEUILINKCONTAINERW'
+   STDAPI_(WINBOOL) OleUIUpdateLinksW(LPOLEUILINKCONTAINERW lpOleUILinkCntr,HWND hwndParent,LPWSTR lpszTitle,int cLinks);
+                                      ^
+C:/TDM-GCC-64/x86_64-w64-mingw32/include/oledlg.h:1024:38: error: unknown type name 'LPOLEUILINKCONTAINERA'
+   STDAPI_(WINBOOL) OleUIUpdateLinksA(LPOLEUILINKCONTAINERA lpOleUILinkCntr,HWND hwndParent,LPSTR lpszTitle,int cLinks);
+                                      ^
+In file included from ..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9\libs.go:56:0:
+..\..\..\..\..\pkg\mod\github.com\karalabe\usb@v0.0.0-20191104083709-911d15fe12a9/hidapi/windows/hid.c:77:9: warning: unknown option after '#pragma GCC diagnostic' kind [-Wpragmas]
+ #pragma GCC diagnostic ignored "-Wstringop-overflow"
+         ^
+
+Compilation finished with exit code 2
