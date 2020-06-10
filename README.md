@@ -1,3 +1,29 @@
+# 2020-06-10
+
+## Schedule
+
+- [x] 11:30 BST - Rajeev / Sam 1:1
+   - https://meet.google.com/ejo-csxx-ixi
+   - [specs#123 - Clarification on Status node roles](https://github.com/status-im/specs/issues/123)
+- [x] 16:00 BST - Samuel / André 1:1
+   - https://meet.google.com/rij-fgdg-xxe
+   - Notes
+     - [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
+     - [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
+     - Review feedback
+     - Stimbus
+
+## Posts
+
+- [x] [Full Status Archive Nodes - A path to independence and true decentralisation](https://discuss.status.im/t/full-status-archive-nodes-a-path-to-independence-and-true-decentralisation/1747) - `created`
+
+## Reviews
+
+- [x] [vacp2p/specs#142 - rename mailserver to history node](https://github.com/vacp2p/specs/pull/142) - `approved`
+- [x] [status-im/specs#105 - mentions](https://github.com/status-im/specs/pull/105) - `feedback`
+
+---
+
 # 2020-06-09
 
 ## Schedule
