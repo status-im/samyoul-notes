@@ -1,3 +1,15 @@
+# 2020-06-11
+
+## Schedule
+
+- [ ] Sync with Hester about issues
+
+## Reviews
+
+- [ ] [lokalize2android](https://github.com/status-im/lokalize2android/blob/master/lokalize2android.go)
+
+---
+
 # 2020-06-10
 
 ## Schedule
