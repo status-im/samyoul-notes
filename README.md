@@ -2,7 +2,29 @@
 
 ## Schedule
 
-- [ ] Sync with Hester about issues
+- [x] 10:30 BST - Sync with Hester about issues
+   - [Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
+     - Draft PR is created
+     - Sync with arnetheduck about use of `multikey`
+       - Currently the for `multikey` spec doesn't exist and only has basic groundwork 
+   - [Show pending transactions](https://github.com/status-im/status-go/issues/1834)
+     - Outgoing transactions are easy
+     - Incoming transactions inside Status ecosystem are pretty easy
+     - Incoming transactions outside Status are hard
+       - Infra seems to be too expensive, still pending will pursue this less vigorously
+       - I've made a feature request to Infura
+       - Stimbus / Nimbus desktop implementation could solve some of this
+     - **Expand the use case for both contract cases**
+       - Such as incoming ERC-20 and NFT tokens
+   - [SNT and emoji reactions](https://github.com/status-im/status-react/issues/7118)
+     - Split the issue into:
+       - **emoji reactions**
+         - Relatively simple to implement, requires basic message parsing
+       - **SNT reactions**
+         - Requires more difficult implementation(s)
+         - Requires consensus on direction, there a multiple methods
+           - Yenda likes Raiden
+           - Ricardo has worked on contract accounts
 
 ## Reviews
 
