@@ -38,9 +38,13 @@
    - https://meet.google.com/nfd-pare-jke
    - Consider other things to reward users for if onboarding is against iOS terms, as per @AK87's suggestion
 
+## Pulls
+
+- [x] [lokalize2android#1 - Review](https://github.com/status-im/lokalize2android/pull/1) - `commits`, `submitted`
+
 ## Reviews
 
-- [ ] [lokalize2android](https://github.com/status-im/lokalize2android/blob/master/lokalize2android.go)
+- [x] [lokalize2android](https://github.com/status-im/lokalize2android/blob/master/lokalize2android.go) - `feedback`
 
 ---
 
