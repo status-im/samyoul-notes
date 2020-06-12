@@ -1,3 +1,22 @@
+# 2020-06-12
+
+## Issues
+
+- [x] [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937) - `research`
+   - Synced with arnetheduck and cheatfate
+     - `<multicodec integer encoded as libp2p varint><serialized public key>`
+     - identifiers need to be encoded using https://github.com/multiformats/unsigned-varint
+     - keys usable on ETH 1 and ETH 2
+       - `ecp256k1-pub` - `0xe7` - Secp256k1 public key
+       - `bls12_381-g1-pub` - `0xea` - BLS12-381 public key in the G1 field
+       - `bls12_381-g2-pub` - `0xeb` - BLS12-381 public key in the G2 field
+
+## Posts
+
+- [x] [Full Status Archive Nodes - A path to independence and true decentralisation](https://discuss.status.im/t/full-status-archive-nodes-a-path-to-independence-and-true-decentralisation/1747) - `discussed`
+
+---
+
 # 2020-06-11
 
 ## Schedule
