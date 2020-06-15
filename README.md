@@ -1,9 +1,31 @@
+# 2020-06-15
+
+### Schedule
+
+- [x] 13:00 BST - Bi-weekly Core Dev Call
+   - https://meet.google.com/uyn-yfrq-uka
+   - https://notes.status.im/core-dev-call_32?both
+- [x] 14:30 BST - Referral program implementation sync
+   - https://meet.google.com/nfd-pare-jke
+   - Action point - Acquire better metrics
+     - [Peer count](https://grafana.status.im/d/wV77E-4mz/statusd-metrics?orgId=1)
+     - [Mailserver peer counts](https://grafana.status.im/d/gxQG_R1Zk/status-peers?orgId=1&refresh=5m&var-fleet=eth.prod&var-host=mail&var-type=StatusIM&var-platform=android-arm&var-platform=android-arm64&var-platform=darwin-amd64&var-platform=darwin-arm64&var-platform=linux-amd64&var-platform=android-386)
+- [x] 15:00 BST - Referral x Partner Inclusion
+   - https://meet.google.com/cwp-czkp-efk
+
+
+## Reviews
+
+- [x] [specs#105 - mentions](https://github.com/status-im/specs/pull/105) - `approved`
+
+---
+
 # 2020-06-12
 
 ## Issues
 
-- [x] [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937) - `research`
-   - Synced with arnetheduck and cheatfate
+- [x] [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937) - `research`, `commits`
+   - Synced with **@arnetheduck** and **@cheatfate**
      - `<multicodec integer encoded as libp2p varint><serialized public key>`
      - identifiers need to be encoded using https://github.com/multiformats/unsigned-varint
      - keys usable on ETH 1 and ETH 2
@@ -59,7 +81,7 @@
 
 ## Pulls
 
-- [x] [lokalize2android#1 - Review](https://github.com/status-im/lokalize2android/pull/1) - `commits`, `submitted`
+- [x] [lokalize2android#1 - Review](https://github.com/status-im/lokalize2android/pull/1) - `commits`, `submitted`, `merged`
 
 ## Reviews
 
