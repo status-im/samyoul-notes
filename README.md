@@ -13,6 +13,10 @@
 - [x] 15:00 BST - Referral x Partner Inclusion
    - https://meet.google.com/cwp-czkp-efk
 
+## Pulls
+
+- [x] [#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990) - `commits`
+   - Added key type identifier handling
 
 ## Reviews
 
