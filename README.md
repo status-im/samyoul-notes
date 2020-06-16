@@ -16,13 +16,9 @@
    - Added key decompression with key type handling
    - Added handling for '0x' type indentifying
    - Added more robust testing
-   - Less lint for the linting gods
    - make vendor for bls12_381
    - Added bls12-381 compression tests
    - Added decompress key expected results
-   - Refactor of typed and untyped keys in tests
-   - Lint god appeasment
-   - Refactor of sample public keys
    - Implemented bls12-381 decompression
   
 ---
