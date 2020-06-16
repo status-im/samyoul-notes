@@ -1,6 +1,35 @@
+# 2020-06-16
+
+## Schedule
+
+- [x] 14:00 BST - Samuel / André 1:1
+   - https://meet.google.com/pga-udvu-wpk
+   - Notes
+     - [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
+     - [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
+     - [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
+     - Stimbus
+
+## Pulls
+
+- [x] [#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990) - `commits`
+   - Added key decompression with key type handling
+   - Added handling for '0x' type indentifying
+   - Added more robust testing
+   - Less lint for the linting gods
+   - make vendor for bls12_381
+   - Added bls12-381 compression tests
+   - Added decompress key expected results
+   - Refactor of typed and untyped keys in tests
+   - Lint god appeasment
+   - Refactor of sample public keys
+   - Implemented bls12-381 decompression
+  
+---
+
 # 2020-06-15
 
-### Schedule
+## Schedule
 
 - [x] 13:00 BST - Bi-weekly Core Dev Call
    - https://meet.google.com/uyn-yfrq-uka
