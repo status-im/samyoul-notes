@@ -8,12 +8,22 @@
      - https://discuss.status.im/t/decentralized-push-notifications-for-ios/1718/11
      - https://notes.status.im/push-notifications-ios 
 
+## Issues
+
+- [x] [status-im/specs#136 - Document detailing the status-go binding API](https://github.com/status-im/specs/issues/136) - `created`
+
 ## Pulls
 
-- [x] [#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990) - `commits`
+- [x] [#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990) - `commits`, `submitted`
    - Added binary bindings for key de/compression
    - Refactor of func parameters
      - gomobile is a bit tempermental using raw bytes as a parameter, so I've decided to use string only inputs and outputs
+- [x] [status-im/specs#137 - Added public key compression specs](https://github.com/status-im/specs/pull/137) - `submitted`, `commits`
+
+## Reviews
+
+- [x] [go-maven-resolver#4 - return non-zero exit code on resolving failures](https://github.com/status-im/go-maven-resolver/pull/4) - `approved`
+- [x] [#1991 - Use the Hash of the IP address instead of the actual IP address](https://github.com/status-im/status-go/pull/1991) - `approved`, `feedback`
 
 ---
 
