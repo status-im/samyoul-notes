@@ -24,6 +24,7 @@
 
 - [x] [go-maven-resolver#4 - return non-zero exit code on resolving failures](https://github.com/status-im/go-maven-resolver/pull/4) - `approved`
 - [x] [#1991 - Use the Hash of the IP address instead of the actual IP address](https://github.com/status-im/status-go/pull/1991) - `approved`, `feedback`
+- [x] [Sequel Core dev call #32](https://www.youtube.com/watch?v=RRhnbGbQfdc) - `watched`
 
 ---
 
