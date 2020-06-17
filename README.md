@@ -1,3 +1,22 @@
+# 2020-06-17
+
+## Schedule
+
+- [x] 10:00 BST - iOS Notifications
+   - https://meet.google.com/bbc-ppuj-ijz
+   - Notes
+     - https://discuss.status.im/t/decentralized-push-notifications-for-ios/1718/11
+     - https://notes.status.im/push-notifications-ios 
+
+## Pulls
+
+- [x] [#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990) - `commits`
+   - Added binary bindings for key de/compression
+   - Refactor of func parameters
+     - gomobile is a bit tempermental using raw bytes as a parameter, so I've decided to use string only inputs and outputs
+
+---
+
 # 2020-06-16
 
 ## Schedule
@@ -9,6 +28,8 @@
      - [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
      - [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
      - Stimbus
+       - https://discuss.status.im/t/why-stimbus-or-organisational-focus-and-alignment/1753
+       - https://discuss.status.im/t/how-stimbus-or-what-is-needed-to-start-this-work/1754
 
 ## Pulls
 
