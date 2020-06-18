@@ -16,6 +16,12 @@
 
 - [x] [#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990) - `commits`, `discussed`
 - [x] [status-im/specs#137 - Added public key compression specs](https://github.com/status-im/specs/pull/137) - `commits`, `discussed`
+- [x] [#1994 - Added e2e dedicated test endpoints](https://github.com/status-im/status-go/pull/1994) - `draft`
+
+## Reviews
+
+- [x] [status-im/specs#138 - Add audio messages](https://github.com/status-im/specs/pull/138) - `approved`, `feedback`
+- [x] [#1992 - Audio voice files](https://github.com/status-im/status-go/pull/1992) - `feedback`
 
 ---
 
