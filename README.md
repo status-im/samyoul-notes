@@ -1,3 +1,24 @@
+# 2020-06-18
+
+## Schedule
+
+- [x] 14:30 BST - Referral program implementation sync
+   - https://meet.google.com/nfd-pare-jke
+   - https://docs.google.com/document/d/1SHHcKZRVeEf4EzHV1juu_zX0LEfwJvh2Z04QGQYcQXQ/edit
+
+## Ad Hoc
+
+- [x] Created e2e and dev build infura endpoints
+   - [e2e endpoint](https://mainnet.infura.io/v3/a61f40c227824c80892886c0806c748e)
+   - [dev build endpoint](https://mainnet.infura.io/v3/40ec14d9d9384d52b7fbcfecdde4e2c0)
+
+## Pulls
+
+- [x] [#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990) - `commits`, `discussed`
+- [x] [status-im/specs#137 - Added public key compression specs](https://github.com/status-im/specs/pull/137) - `commits`, `discussed`
+
+---
+
 # 2020-06-17
 
 ## Schedule
