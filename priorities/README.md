@@ -19,17 +19,19 @@
      - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
 1) [#1936 - Messengers acquires a lock in some methods for very long time](https://github.com/status-im/status-go/issues/1936)
 1) [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
+   - **Progress:**
+     - [x] [status-go#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990)
+     - [x] [status-im/specs#137 - Added public key compression specs](https://github.com/status-im/specs/pull/137)
    - **Todos:**
      - [x] [Do tests to see average compressed key length](https://github.com/status-im/status-go/issues/1937#issuecomment-624690407)
        - [Results](https://github.com/status-im/status-go/issues/1937#issuecomment-624920237)
      - [x] [Track down iOS URL intent registry for current build](https://github.com/status-im/status-go/issues/1937#issuecomment-628082382)
        - [See](https://github.com/status-im/status-go/issues/1937#issuecomment-632186000)
-     - [x] [Research base58 key length] TODO add link
-     - [x] [Research Multiformat for key versioning] TODO add link
+     - [x] [Research base58 key length](https://github.com/status-im/status-go/issues/1937#issuecomment-638286734)
+     - [x] [Research Multiformat for key versioning](https://github.com/status-im/status-go/issues/1937#issuecomment-638963337)
    - **Impacts**
      - [x] [#10325 - Request compressed keys](https://github.com/status-im/status-react/issues/10325)
 1) Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
-1) [Nimbus on mobile](https://discuss.status.im/t/nimbus-on-mobile/1370)
 
 ---
 
