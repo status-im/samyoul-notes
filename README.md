@@ -1,3 +1,31 @@
+# 2020-06-19
+
+## Schedule
+
+- [x] 14:00 BST - Core Retro
+   - https://meet.google.com/hqw-nsfk-xoq
+   - Notes - https://notes.status.im/tj1gpGX8SFeX1xLMVte-kQ?both
+
+## Ad Hoc
+
+- [x] Created secret infura endpoints for e2e and release builds
+   - [e2e endpoint](https://mainnet.infura.io/v3/a61f40c227824c80892886c0806c748e)
+   - [dev build endpoint](https://mainnet.infura.io/v3/40ec14d9d9384d52b7fbcfecdde4e2c0)
+
+## Pulls
+
+- [x] [status-react#10850 - Updated test endpoint to new test only endpoint](https://github.com/status-im/status-react/pull/10850) - `draft`, `closed`
+   - Used this draft PR to get sample statistics on e2e test RPC call consumption
+     - Initial run showed a consumption of 33,155 RPC calls for a single e2e test run
+     - ![e2e test usage](./attachments/2020-06/2020-06-19_Ethereum_API_IPFS_API_Gateway_ETH_Nodes_as_a_Service_Infura.png)
+
+## Reviews
+
+- [x] [provide INFURA_TOKEN from credentials](https://github.com/status-im/status-react-jenkins/pull/8) - `discussed`, `approved`
+- [x] [status-react#10853 - Feature/use separate e2e token](https://github.com/status-im/status-react/pull/10853) - `approved`
+
+---
+
 # 2020-06-18
 
 ## Schedule
