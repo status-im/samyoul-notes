@@ -9,8 +9,8 @@
 ## Ad Hoc
 
 - [x] Created secret infura endpoints for e2e and release builds
-   - [e2e endpoint](https://mainnet.infura.io/v3/a61f40c227824c80892886c0806c748e)
-   - [dev build endpoint](https://mainnet.infura.io/v3/40ec14d9d9384d52b7fbcfecdde4e2c0)
+   - Status.im (e2e CI)
+   - Status.im (release build)
 
 ## Pulls
 
