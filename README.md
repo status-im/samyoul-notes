@@ -1,3 +1,19 @@
+# 2020-06-22
+
+## Schedule
+
+- [x] 13:00 BST - Town Hall #60 - June 22, 2020 
+   - https://www.youtube.com/watch?v=-bcUQTfNMlk
+- [x] 14:30 BST - Referral program implementation sync
+   - https://meet.google.com/nfd-pare-jke
+
+## Pulls
+
+- [x] [status-im/specs#137 - Added public key compression specs](https://github.com/status-im/specs/pull/137) - `commits`, `discussed`
+- [x] [#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990) - `commits`
+
+---
+
 # 2020-06-19
 
 ## Schedule
