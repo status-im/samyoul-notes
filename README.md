@@ -1,3 +1,11 @@
+# 2020-06-23
+
+## Reviews
+
+- [ ] [Push notification server specs](https://github.com/status-im/specs/pull/139/files)
+
+---
+
 # 2020-06-22
 
 ## Schedule
