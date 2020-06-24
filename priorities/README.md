@@ -9,6 +9,8 @@
 - [5) Compress public key for chat](#5-compress-public-key-for-chat)
 - [6) Protocol Specs](#6-protocol-specs)
 
+---
+
 ### 1) Pending Transactions
 
 [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
@@ -40,6 +42,7 @@
 - **Notes:**
    - [Andre] all the way from the protocol level to the communication with the react app
    - [Hester] Maciej prepared designs for this, you can ask him anything you need about what the expected behavior is supposed to be
+     - [UI Designs](https://www.figma.com/file/aS1ct66VQ6V0cio7vSqS8UoG/Chat?node-id=1239%3A0)
    - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
 
 ### 4) Messengers acquires a lock for very long time
