@@ -1,3 +1,17 @@
+2020-06-24
+
+## Issues
+
+- [x] [status-im/team-core#7 - Allow for smooth sending and receiving of SNT while maintaining privacy](https://github.com/status-im/team-core/pull/7) - `read`
+
+## Pulls
+
+- [x] [status-im/specs#137 - Added public key compression specs](https://github.com/status-im/specs/pull/137) - `merged`
+- [x] [status-im/specs#142 - Add release commit info for Update/key compression](https://github.com/status-im/specs/pull/142) - `submitted`, `merged`
+- [x] [#1995 - Added link to specs for key compression API](https://github.com/status-im/status-go/pull/1995) - `submitted`, `merged`
+
+---
+
 # 2020-06-23
 
 ## Issues

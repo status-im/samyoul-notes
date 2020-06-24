@@ -2,37 +2,71 @@
 
 ## Personal
 
-1) [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
-   - **Todos:**
-     - [ ] Write specs
-       - https://github.com/ethereum/devp2p/blob/master/caps/les.md
-       - https://openethereum.github.io/wiki/Light-Ethereum-Subprotocol-(LES)
-       - https://discuss.status.im/search?q=ultra%20light%20client
-     - [ ] Implement
-   - **Impacts:**
-     - [status-react#3997 - Display pending requests in transactions history](https://github.com/status-im/status-react/issues/3997)
-     - [status-react#9976 - Show pending transactions](https://github.com/status-im/status-react/issues/9976)
-1) [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
-   - **Notes:**
-     - [Andre] all the way from the protocol level to the communication with the react app
-     - [Hester] Maciej prepared designs for this, you can ask him anything you need about what the expected behavior is supposed to be
-     - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
+- [1) Pending Transactions](#1-pending-transactions)
+- [2) `TRANSACTION_COMMANDS` Specs](#2-transaction_commands-specs)
+- [3) Emoji Reactions](#3-emoji-reactions)
+- [4) Messengers acquires a lock for very long time](#4-messengers-acquires-a-lock-for-very-long-time)
+- [5) Compress public key for chat](#5-compress-public-key-for-chat)
+- [6) Protocol Specs](#6-protocol-specs)
+
+### 1) Pending Transactions
+
+[#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
+
+- **Dependencies:**
+  - [`TRANSACTION_COMMANDS` Specs](#2-transaction_commands-specs)
+- **Todos:**
+  - [ ] Write specs
+    - https://github.com/ethereum/devp2p/blob/master/caps/les.md
+    - https://openethereum.github.io/wiki/Light-Ethereum-Subprotocol-(LES)
+    - https://discuss.status.im/search?q=ultra%20light%20client
+  - [ ] Implement
+- **Impacts:**
+  - [status-react#3997 - Display pending requests in transactions history](https://github.com/status-im/status-react/issues/3997)
+  - [status-react#9976 - Show pending transactions](https://github.com/status-im/status-react/issues/9976)
+
+### 2) `TRANSACTION_COMMANDS` Specs
+
+- Transaction Commands
+  - [status-im/team-core#7 - Allow for smooth sending and receiving of SNT while maintaining privacy](https://github.com/status-im/team-core/pull/7)
+    - Original specs for `TRANSACTION_COMMANDS` 
+  - https://github.com/status-im/specs/blob/master/docs/stable/6-payloads.md
+    - Where specs for `TRANSACTION_COMMANDS` needs to go
+
+### 3) Emoji Reactions
+
+[#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
+
+- **Notes:**
+   - [Andre] all the way from the protocol level to the communication with the react app
+   - [Hester] Maciej prepared designs for this, you can ask him anything you need about what the expected behavior is supposed to be
+   - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
+
+### 4) Messengers acquires a lock for very long time
+
 1) [#1936 - Messengers acquires a lock in some methods for very long time](https://github.com/status-im/status-go/issues/1936)
-1) [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
-   - **Progress:**
-     - [x] [status-go#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990)
-     - [x] [status-im/specs#137 - Added public key compression specs](https://github.com/status-im/specs/pull/137)
-   - **Todos:**
-     - [x] [Do tests to see average compressed key length](https://github.com/status-im/status-go/issues/1937#issuecomment-624690407)
-       - [Results](https://github.com/status-im/status-go/issues/1937#issuecomment-624920237)
-     - [x] [Track down iOS URL intent registry for current build](https://github.com/status-im/status-go/issues/1937#issuecomment-628082382)
-       - [See](https://github.com/status-im/status-go/issues/1937#issuecomment-632186000)
-     - [x] [Research base58 key length](https://github.com/status-im/status-go/issues/1937#issuecomment-638286734)
-     - [x] [Research Multiformat for key versioning](https://github.com/status-im/status-go/issues/1937#issuecomment-638963337)
-     - [ ] Once specs are merged add link to the specs in the `status-go` code
-   - **Impacts**
-     - [x] [#10325 - Request compressed keys](https://github.com/status-im/status-react/issues/10325)
-1) Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
+
+### 5) Compress public key for chat
+
+[#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
+
+- **Progress:**
+  - [x] [status-go#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990)
+  - [x] [status-im/specs#137 - Added public key compression specs](https://github.com/status-im/specs/pull/137)
+- **Todos:**
+  - [x] [Do tests to see average compressed key length](https://github.com/status-im/status-go/issues/1937#issuecomment-624690407)
+    - [Results](https://github.com/status-im/status-go/issues/1937#issuecomment-624920237)
+  - [x] [Track down iOS URL intent registry for current build](https://github.com/status-im/status-go/issues/1937#issuecomment-628082382)
+    - [See](https://github.com/status-im/status-go/issues/1937#issuecomment-632186000)
+  - [x] [Research base58 key length](https://github.com/status-im/status-go/issues/1937#issuecomment-638286734)
+  - [x] [Research Multiformat for key versioning](https://github.com/status-im/status-go/issues/1937#issuecomment-638963337)
+  - [x] Once specs are merged add link to the specs in the `status-go` code
+- **Impacts**
+  - [x] [#10325 - Request compressed keys](https://github.com/status-im/status-react/issues/10325)
+
+### 6) Protocol Specs
+
+Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
 
 ---
 
