@@ -1,8 +1,17 @@
 # 2020-06-23
 
+## Issues
+
+- [x] [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
+   - Laid out specs for emoji reactions 
+
+## Pulls
+
+- [x] [#1990 - Feature/key compression](https://github.com/status-im/status-go/pull/1990) - `merged`
+
 ## Reviews
 
-- [ ] [Push notification server specs](https://github.com/status-im/specs/pull/139/files)
+- [x] [Push notification server specs](https://github.com/status-im/specs/pull/139/files) - `approved`, `feedback`
 
 ---
 
