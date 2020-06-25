@@ -1,11 +1,16 @@
 # Priorities
 
+- [Personal](#personal)
+- [Team](#team)
+- [Reading List](#reading-list)
+- [Resolved](#resolved)
+
 ## Personal
 
 - [1) Pending Transactions](#1-pending-transactions)
 - [2) `TRANSACTION_COMMANDS` Specs](#2-transaction_commands-specs)
 - [3) Emoji Reactions](#3-emoji-reactions)
-- [3) SNT Reactions](#4-snt-reactions)
+- [4) SNT Reactions](#4-snt-reactions)
 - [5) Messengers acquires a lock for very long time](#5-messengers-acquires-a-lock-for-very-long-time)
 - [6) Compress public key for chat](#6-compress-public-key-for-chat)
 - [7) Protocol Specs](#7-protocol-specs)
@@ -72,6 +77,7 @@
   - [x] [Research base58 key length](https://github.com/status-im/status-go/issues/1937#issuecomment-638286734)
   - [x] [Research Multiformat for key versioning](https://github.com/status-im/status-go/issues/1937#issuecomment-638963337)
   - [x] Once specs are merged add link to the specs in the `status-go` code
+  - [ ] Implement multiformat parsing for website
 - **Impacts**
   - [x] [#10325 - Request compressed keys](https://github.com/status-im/status-react/issues/10325)
 
