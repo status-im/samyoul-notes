@@ -5,9 +5,10 @@
 - [1) Pending Transactions](#1-pending-transactions)
 - [2) `TRANSACTION_COMMANDS` Specs](#2-transaction_commands-specs)
 - [3) Emoji Reactions](#3-emoji-reactions)
-- [4) Messengers acquires a lock for very long time](#4-messengers-acquires-a-lock-for-very-long-time)
-- [5) Compress public key for chat](#5-compress-public-key-for-chat)
-- [6) Protocol Specs](#6-protocol-specs)
+- [3) SNT Reactions](#4-snt-reactions)
+- [5) Messengers acquires a lock for very long time](#5-messengers-acquires-a-lock-for-very-long-time)
+- [6) Compress public key for chat](#6-compress-public-key-for-chat)
+- [7) Protocol Specs](#7-protocol-specs)
 
 ---
 
@@ -45,11 +46,18 @@
      - [UI Designs](https://www.figma.com/file/aS1ct66VQ6V0cio7vSqS8UoG/Chat?node-id=1239%3A0)
    - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
 
-### 4) Messengers acquires a lock for very long time
+### 4) SNT Reactions
+
+[#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
+
+- **Notes:**
+  - [See Emoji reactions](#3-emoji-reactions)
+
+### 5) Messengers acquires a lock for very long time
 
 1) [#1936 - Messengers acquires a lock in some methods for very long time](https://github.com/status-im/status-go/issues/1936)
 
-### 5) Compress public key for chat
+### 6) Compress public key for chat
 
 [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
 
@@ -67,7 +75,7 @@
 - **Impacts**
   - [x] [#10325 - Request compressed keys](https://github.com/status-im/status-react/issues/10325)
 
-### 6) Protocol Specs
+### 7) Protocol Specs
 
 Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/status-react/issues/10384)
 
