@@ -1,3 +1,24 @@
+# 2020-06-29
+
+## Schedule
+
+- [x] 13:00 BST - Bi-weekly Core Dev Call
+   - https://meet.google.com/uyn-yfrq-uka
+   - **Notes**
+     - [Agenda Core dev call #33](https://github.com/status-im/pm/issues/58)
+     - [Status Core Dev Call 32, action items](https://notes.status.im/core-dev-call_32#%E2%98%91%EF%B8%8F-ACTION-ITEMS)
+     - [Video recording](https://www.youtube.com/watch?v=czW_lvr6h7c)
+- [x] 14:30 BST - Referral program implementation sync
+   - https://meet.google.com/nfd-pare-jke
+   
+## Reviews
+
+- [x] [Jarrad's Sabbatical Plans](https://drive.google.com/file/d/18w59ctQGHPST2Bfr5FUtCJPhUDNhpijk/view) - `watched`
+- [x] [Separate keystore dir per multiaccount](https://github.com/status-im/status-go/pull/1993) - `feedback`
+- [x] [Add encrypted access tokens](https://github.com/status-im/specs/pull/143)
+
+---
+
 # 2020-06-26
 
 ## AFK
