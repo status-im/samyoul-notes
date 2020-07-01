@@ -81,7 +81,6 @@ Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/sta
 
 ## Reading List
 
-- [ ] [How :desktop_computer Desktop & Mobile should connect?](https://discuss.status.im/t/how-desktop-mobile-should-connect/1668)
 - [ ] [Feature request category](https://discuss.status.im/t/feature-request-category/1698)
 - [ ] [Why ‘Stimbus’ or Organisational Focus and Alignment](https://discuss.status.im/t/why-stimbus-or-organisational-focus-and-alignment/1753)
 - [ ] [How Stimbus or what is needed to start this work](https://discuss.status.im/t/how-stimbus-or-what-is-needed-to-start-this-work/1754)
