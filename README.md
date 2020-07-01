@@ -2,7 +2,26 @@
 
 ## Schedule
 
-- [x] 
+- [x] 13:00 BST - Stimbus Iteration meeting
+   - https://meet.google.com/fyn-zcxi-yua
+   - **Notes:**
+     - Resulting tasks
+       - [compile nim-status as a static library](https://github.com/status-im/nim-status/issues/6)
+       - [test nim-status in status react (proof of concept)](https://github.com/status-im/nim-status/issues/7)
+       - [build & include nim-status in status-react nix](https://github.com/status-im/nim-status/issues/8)
+       - [**add nim tests for nim-status / shim**](https://github.com/status-im/nim-status/issues/9)
+         - Assigned to me
+- [x] 14:00 BST - Samuel / André 1:1
+   - https://meet.google.com/pga-udvu-wpk
+   - **Notes:**
+     - [Consistently flaky Jenkins unit tests](https://github.com/status-im/status-go/issues/1978)
+       - TestPeerPoolSimulationSuite race condition fail, [see here for details](https://github.com/status-im/status-go/issues/1978#issuecomment-652389480)
+     - [Paired programming tools](https://floobits.com/plans)
+     - [Loon](https://github.com/andremedeiros/loon)
+
+## Issues
+
+- [x] [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
 
 ---
 
@@ -23,7 +42,11 @@
 
 - [x] [Jarrad's Sabbatical Plans](https://drive.google.com/file/d/18w59ctQGHPST2Bfr5FUtCJPhUDNhpijk/view) - `watched`
 - [x] [Separate keystore dir per multiaccount](https://github.com/status-im/status-go/pull/1993) - `feedback`
-- [x] [Add encrypted access tokens](https://github.com/status-im/specs/pull/143)
+- [x] [Add encrypted access tokens](https://github.com/status-im/specs/pull/143) - `read`
+
+## Issues
+
+- [x] [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
 
 ---
 
@@ -37,7 +60,9 @@
 
 # 2020-06-25
 
+## Issues
 
+- [x] [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
 
 ---
 
