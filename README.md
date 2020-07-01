@@ -2,7 +2,11 @@
 
 ## Ad Hoc
 
-- [x] **Infura** - Feature request - Export of usage stats and greater detailed stats
+- [x] **Infura**
+   - Feature request
+     - Chased ETA on pending transactions feature
+     - Export of usage stats and greater detailed stats
+   - Gathered usage stats for the last week over all active endpoints
 
 ## Posts
 
