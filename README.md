@@ -14,6 +14,9 @@
 - [x] 14:00 BST - Samuel / André 1:1
    - https://meet.google.com/pga-udvu-wpk
    - **Notes:**
+     - [Compress public key for chat](https://github.com/status-im/status-go/issues/1937)
+       - [Functionality merged](https://github.com/status-im/status-go/pull/1990)
+       - [Specs merged](https://github.com/status-im/specs/pull/137)
      - [Consistently flaky Jenkins unit tests](https://github.com/status-im/status-go/issues/1978)
        - TestPeerPoolSimulationSuite race condition fail, [see here for details](https://github.com/status-im/status-go/issues/1978#issuecomment-652389480)
      - [Paired programming tools](https://floobits.com/plans)
