@@ -27,7 +27,7 @@
 [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
 
 - **Dependencies:**
-  - [`TRANSACTION_COMMANDS` Specs](#2-transaction_commands-specs)
+  - [`TRANSACTION_COMMANDS` Specs](#3-transaction_commands-specs)
 - **Todos:**
   - [ ] Write specs
     - https://github.com/ethereum/devp2p/blob/master/caps/les.md
@@ -61,7 +61,7 @@
 [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
 
 - **Notes:**
-  - [See Emoji reactions](#3-emoji-reactions)
+  - [See Emoji reactions](#4-emoji-reactions)
 
 ### 6) Messengers acquires a lock for very long time
 
