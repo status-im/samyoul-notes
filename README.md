@@ -1,3 +1,20 @@
+# 2020-07-03
+
+## Schedule
+
+- [ ] 13:00 BST - Tech Stack overview
+   - https://meet.google.com/kji-uqni-xvh
+- [ ] 14:00 BST - Core Retro
+   - https://meet.google.com/hqw-nsfk-xoq
+- [ ] 15:30 BST - Referral program implementation sync
+   - https://meet.google.com/nfd-pare-jke
+   
+## Issues
+
+- [ ] [nim-status#9 - add nim tests for nim-status / shim](https://github.com/status-im/nim-status/issues/9)
+
+---
+
 # 2020-07-02
 
 ## Schedule
@@ -18,6 +35,7 @@
 ## Issues
 
 - [x] [nim-status#9 - add nim tests for nim-status / shim](https://github.com/status-im/nim-status/issues/9) - `scoping`
+- [x] [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
 
 ---
 
@@ -34,6 +52,7 @@
 ## Issues
 
 - [x] [nim-status#9 - add nim tests for nim-status / shim](https://github.com/status-im/nim-status/issues/9) - `scoping`
+- [x] [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
 
 ## Posts
 
