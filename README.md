@@ -15,6 +15,9 @@
       - https://notes.status.im/QtIhyz5AQnOnf3tUrBCP3w#
       - https://discuss.status.im/t/waku-version-2-pitch/1776
 
+## Issues
+
+- [x] [nim-status#9 - add nim tests for nim-status / shim](https://github.com/status-im/nim-status/issues/9) - `scoping`
 
 ---
 
@@ -28,8 +31,16 @@
      - Export of usage stats and greater detailed stats
    - Gathered usage stats for the last week over all active endpoints
 
+## Issues
+
+- [x] [nim-status#9 - add nim tests for nim-status / shim](https://github.com/status-im/nim-status/issues/9) - `scoping`
+
 ## Posts
 
 - [x] [Desktop paths forward, a choose your own adventure?](https://discuss.status.im/t/desktop-paths-forward-a-choose-your-own-adventure/1666) - `read`
    - What a monster
 - [x] [How :desktop_computer Desktop & Mobile should connect?](https://discuss.status.im/t/how-desktop-mobile-should-connect/1668) - `read`, `discussed`
+
+## Reviews
+
+- [x] [Add encrypted access tokens](https://github.com/status-im/specs/pull/143) - `approved`, `feedback`

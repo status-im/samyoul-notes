@@ -18,6 +18,7 @@
 | `research`    | Denotes that an item was researched for wider understanding      |
 | `resubmitted` | Denotes that an item was submitted for review again              |
 | `reapproved`  | Denotes that an item was approved again, needed after a change   |
+| `scoping`     | Denotes that an item was scoped for how much work needs doing    |
 | `submitted`   | Denotes that an item was submitted for review                    |
 | `watched`     | Denotes that an item was watched. Example a video lecture        |
 | `voted`       | Denotes that an item was voted on. Example feature prioritising  |
