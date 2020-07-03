@@ -2,12 +2,25 @@
 
 ## Schedule
 
-- [ ] 13:00 BST - Tech Stack overview
+- [x] 13:00 BST - Tech Stack overview
    - https://meet.google.com/kji-uqni-xvh
-- [ ] 14:00 BST - Core Retro
+   - **Notes :**
+     - Marketing want to meet monthly to ask user questions
+     - Marketing say that the 3 random words is a major problem for users in latin america
+- [x] 14:00 BST - Core Retro
    - https://meet.google.com/hqw-nsfk-xoq
-- [ ] 15:30 BST - Referral program implementation sync
+   - **Notes:**
+     - https://notes.status.im/wBMVTDGPQxyEc6SdKb2KBA?both
+     - https://discuss.status.im/c/features/51
+- [x] 15:30 BST - Referral program implementation sync
    - https://meet.google.com/nfd-pare-jke
+   - **Notes :**
+     - https://github.com/status-im/referral-service/pull/1/files
+
+## Feature Requests
+
+- [x] [Add Local Contact Names](https://discuss.status.im/t/add-local-contact-names/1789) - `created`, `discussed`
+- [x] [3 Word Pseudonym Alternative](https://discuss.status.im/t/add-local-contact-names/1792) - `created`, `discussed`
    
 ## Issues
 
