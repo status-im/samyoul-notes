@@ -1,3 +1,29 @@
+# 2020-07-06
+
+## Schedule
+
+- [x] 11:00 BST -  Samuel / Vitaliy - Stimbus Sync
+   - https://meet.google.com/rzn-pect-cdw
+   - **Notes :**
+     - https://github.com/status-im/nim-status/issues/12
+     - https://github.com/vacp2p/specs/blob/master/specs/waku/waku-rpc-api.md
+- [x] 14:00 BST - Vac / Waku v2 PM
+   - https://meet.google.com/xzi-onqc-gdx
+   - **Notes :**
+     - [Vac Notes](https://notes.status.im/Kt7iRwy1TeCfNzcJGnt3Ag)
+     - [Waku v2 Notes](https://notes.status.im/QtIhyz5AQnOnf3tUrBCP3w?both#)
+     - [Project track](https://github.com/vacp2p/research/projects/1)
+       - https://github.com/status-im/nim-waku/issues/38
+       - https://github.com/status-im/nim-status/issues/12
+       - https://github.com/status-im/nim-waku/issues/39
+       - https://github.com/vacp2p/specs/issues/145
+
+## Reviews
+
+- [x] [vacp2p/specs#146 - Add missing packet types to abnf + abnf minor fixes](https://github.com/vacp2p/specs/pull/146)
+
+---
+
 # 2020-07-03
 
 ## Schedule
