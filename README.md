@@ -22,6 +22,10 @@
 
 - [x] [vacp2p/specs#146 - Add missing packet types to abnf + abnf minor fixes](https://github.com/vacp2p/specs/pull/146)
 
+## Feature Requests
+
+- [x] [3 Word Pseudonym Alternative](https://discuss.status.im/t/add-local-contact-names/1792) - `discussed`
+ 
 ---
 
 # 2020-07-03
