@@ -7,15 +7,25 @@
 
 ## Personal
 
+- [4) Emoji Reactions](#4-emoji-reactions)
 - [1) Add nim tests for nim-status](#1-add-nim-tests-for-nim-status)
 - [2) Pending Transactions](#2-pending-transactions)
 - [3) `TRANSACTION_COMMANDS` Specs](#3-transaction_commands-specs)
-- [4) Emoji Reactions](#4-emoji-reactions)
 - [5) SNT Reactions](#5-snt-reactions)
 - [6) Messengers acquires a lock for very long time](#6-messengers-acquires-a-lock-for-very-long-time)
 - [7) Protocol Specs](#7-protocol-specs)
 
 ---
+
+### 4) Emoji Reactions
+
+[#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
+
+- **Notes:**
+   - [Andre] all the way from the protocol level to the communication with the react app
+   - [Hester] Maciej prepared designs for this, you can ask him anything you need about what the expected behavior is supposed to be
+     - [UI Designs](https://www.figma.com/file/aS1ct66VQ6V0cio7vSqS8UoG/Chat?node-id=1239%3A0)
+   - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
 
 ### 1) Add nim tests for nim-status
 
@@ -48,16 +58,6 @@
   - https://github.com/status-im/specs/blob/master/docs/stable/6-payloads.md
     - Where specs for `TRANSACTION_COMMANDS` needs to go
 
-### 4) Emoji Reactions
-
-[#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
-
-- **Notes:**
-   - [Andre] all the way from the protocol level to the communication with the react app
-   - [Hester] Maciej prepared designs for this, you can ask him anything you need about what the expected behavior is supposed to be
-     - [UI Designs](https://www.figma.com/file/aS1ct66VQ6V0cio7vSqS8UoG/Chat?node-id=1239%3A0)
-   - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
-
 ### 5) SNT Reactions
 
 [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
@@ -84,6 +84,5 @@ Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/sta
 
 ## Reading List
 
-- [ ] [Feature request category](https://discuss.status.im/t/feature-request-category/1698)
 - [ ] [Why ‘Stimbus’ or Organisational Focus and Alignment](https://discuss.status.im/t/why-stimbus-or-organisational-focus-and-alignment/1753)
 - [ ] [How Stimbus or what is needed to start this work](https://discuss.status.im/t/how-stimbus-or-what-is-needed-to-start-this-work/1754)
