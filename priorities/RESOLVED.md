@@ -2,9 +2,9 @@
 
 ## Reading List
 
-- [x] [Feature request category](https://discuss.status.im/t/feature-request-category/1698) - `2020-07-07`
-- [x] [Desktop paths forward, a choose your own adventure?](https://discuss.status.im/t/desktop-paths-forward-a-choose-your-own-adventure/1666) - `2020-07-01`
-- [x] [How :desktop_computer Desktop & Mobile should connect?](https://discuss.status.im/t/how-desktop-mobile-should-connect/1668) - `2020-07-01`
+- [x] `2020-07-07` - [Feature request category](https://discuss.status.im/t/feature-request-category/1698) 
+- [x] `2020-07-01` - [Desktop paths forward, a choose your own adventure?](https://discuss.status.im/t/desktop-paths-forward-a-choose-your-own-adventure/1666)
+- [x] `2020-07-01` - [How :desktop_computer Desktop & Mobile should connect?](https://discuss.status.im/t/how-desktop-mobile-should-connect/1668)
 
 ## Tasks
 
