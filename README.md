@@ -2,9 +2,11 @@
 
 ## Schedule
 
-- [ ] 13:00 BST - Stimbus Iteration meeting
+- [x] 13:00 BST - Stimbus Iteration meeting
    - https://meet.google.com/fyn-zcxi-yua
-
+   - **Notes :**
+     - [Add tests & documentation - accounts methods (delete import, derive/generate new accounts, identicon, alias)](https://github.com/status-im/nim-status/issues/15)
+     - [Add tests & documentation - Mailservers methods](https://github.com/status-im/nim-status/issues/18)
 
 ## Reviews
 

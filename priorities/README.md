@@ -21,6 +21,9 @@
 
 [nim-status#9- add nim tests for nim-status](https://github.com/status-im/nim-status/issues/9)
 
+- [Add tests & documentation - accounts methods (delete import, derive/generate new accounts, identicon, alias)](https://github.com/status-im/nim-status/issues/15)
+- [Add tests & documentation - Mailservers methods](https://github.com/status-im/nim-status/issues/18)
+
 ### 2) Pending Transactions
 
 [#1834 - Show pending transactions](https://github.com/status-im/status-go/issues/1834)
