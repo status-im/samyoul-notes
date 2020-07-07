@@ -1,17 +1,12 @@
 # Resolved Priorities
 
-## 2020-07-07
+## Reading List
 
-### Reading List
+- [x] [Feature request category](https://discuss.status.im/t/feature-request-category/1698) - `2020-07-07`
+- [x] [Desktop paths forward, a choose your own adventure?](https://discuss.status.im/t/desktop-paths-forward-a-choose-your-own-adventure/1666) - `2020-07-01`
+- [x] [How :desktop_computer Desktop & Mobile should connect?](https://discuss.status.im/t/how-desktop-mobile-should-connect/1668) - `2020-07-01`
 
-- [x] [Feature request category](https://discuss.status.im/t/feature-request-category/1698)
-
-## 2020-07-01
-
-### Reading List
-
-- [x] [Desktop paths forward, a choose your own adventure?](https://discuss.status.im/t/desktop-paths-forward-a-choose-your-own-adventure/1666)
-- [x] [How :desktop_computer Desktop & Mobile should connect?](https://discuss.status.im/t/how-desktop-mobile-should-connect/1668)
+## Tasks
 
 ### Compress public key for chat
 
