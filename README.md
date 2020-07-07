@@ -1,3 +1,18 @@
+# 2020-07-07
+
+## Schedule
+
+- [ ] 13:00 BST - Stimbus Iteration meeting
+   - https://meet.google.com/fyn-zcxi-yua
+
+
+## Reviews
+
+- [x] [status-im/universal-links-handler#42 - add support for compressed secp256k1 keys encoded with base58btc](https://github.com/status-im/universal-links-handler/pull/42) - `approved`, `feedback`
+- [x] [#1993 - Separate keystore dir per multiaccount](https://github.com/status-im/status-go/pull/1993) - `feedback`
+
+---
+
 # 2020-07-06
 
 ## Schedule
@@ -20,7 +35,7 @@
 
 ## Reviews
 
-- [x] [vacp2p/specs#146 - Add missing packet types to abnf + abnf minor fixes](https://github.com/vacp2p/specs/pull/146)
+- [x] [vacp2p/specs#146 - Add missing packet types to abnf + abnf minor fixes](https://github.com/vacp2p/specs/pull/146) - `approved`
 
 ## Feature Requests
 
