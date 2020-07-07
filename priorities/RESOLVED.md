@@ -1,5 +1,11 @@
 # Resolved Priorities
 
+## 2020-07-07
+
+### Reading List
+
+- [x] [Feature request category](https://discuss.status.im/t/feature-request-category/1698)
+
 ## 2020-07-01
 
 ### Reading List
@@ -22,7 +28,8 @@
   - [x] [Research base58 key length](https://github.com/status-im/status-go/issues/1937#issuecomment-638286734)
   - [x] [Research Multiformat for key versioning](https://github.com/status-im/status-go/issues/1937#issuecomment-638963337)
   - [x] Once specs are merged add link to the specs in the `status-go` code
-  - [ ] Implement multiformat parsing for website
+  - [x] Implement multiformat parsing for website
+    - See https://github.com/status-im/universal-links-handler/pull/42
 - **Impacts**
   - [x] [#10325 - Request compressed keys](https://github.com/status-im/status-react/issues/10325)
 
