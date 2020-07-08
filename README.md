@@ -1,3 +1,16 @@
+# 2020-07-08
+
+## Schedule
+
+- [x] 16:00 BST - Samuel / André 1:1
+   - https://meet.google.com/rij-fgdg-xxe
+
+## Pulls
+
+- [x] [Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
+
+---
+
 # 2020-07-07
 
 ## Schedule
@@ -7,6 +20,10 @@
    - **Notes :**
      - [Add tests & documentation - accounts methods (delete import, derive/generate new accounts, identicon, alias)](https://github.com/status-im/nim-status/issues/15)
      - [Add tests & documentation - Mailservers methods](https://github.com/status-im/nim-status/issues/18)
+
+## Pulls
+
+- [x] [Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `draft`
 
 ## Reviews
 
