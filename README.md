@@ -2,7 +2,27 @@
 
 ## Schedule
 
-- [x] 14:30 BST - 
+- [x] 14:30 BST - Referral program implementation sync
+   - https://meet.google.com/nfd-pare-jke
+   - **Notes :**
+     - [Referral service process flow](https://github.com/status-im/referral-service/blob/master/docs/flow.png)
+     - [Redash public dashboard](https://app.redash.io/statusim/public/dashboards/X60ZkzAvangmfR2zav4u8id9pEfJ2RigbmYRMPkC?p_Range=2020-07-07--2020-07-09&p_Referral%20Value=0&p_Registration%20Type=%5B%22AdvertiserRegistration%22%2C%22DappRegistration%22%5D&p_Starterpack%20Value=0)
+     - https://test-referral.status.im/admin
+- [x] 15:00 BST - André / Samuel / Gheorghe Emoji reaction sync
+   - https://meet.google.com/smt-edcw-eag
+   - **Notes :**
+     - [Emoji Reactions Issue](https://github.com/status-im/status-react/issues/7118#issuecomment-656159782)
+     - [`status-react` waku message object](https://github.com/status-im/status-react/blob/develop/src/status_im/transport/message/protocol.cljs#L17)
+     - [`status-go` implementation draft](https://github.com/status-im/status-go/pull/1999/files)
+     - [How `status-go` sends messages](https://github.com/status-im/status-go/blob/develop/protocol/messenger.go#L1389)
+
+## Pulls
+
+- [x] [Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
+
+## Reviews
+
+- [x] [#1993 - Separate keystore dir per multiaccount](https://github.com/status-im/status-go/pull/1993) - `approved`
 
 ---
 
@@ -12,6 +32,10 @@
 
 - [x] 16:00 BST - Samuel / André 1:1
    - https://meet.google.com/rij-fgdg-xxe
+   - **Notes :**
+     - https://www.twitch.tv/essial/video/669015586
+     - https://github.com/OpenDiablo2/OpenDiablo2
+     - https://opendiablo2.com/
 
 ## Pulls
 
