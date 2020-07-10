@@ -1,6 +1,9 @@
 # 2020-07-10
 
+## Pulls
 
+- [x] [Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `submitted`, `commits`
+- [x] [status-im/specs#145 - Added EmojiReaction payload types](https://github.com/status-im/specs/pull/145) - `submitted`
 
 ## Reviews
 
