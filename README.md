@@ -1,3 +1,13 @@
+# 2020-07-13
+
+## Review
+
+- [x] [Waku v2 / waku](https://notes.status.im/QtIhyz5AQnOnf3tUrBCP3w) - `read`
+   - [Sketch out status-waku module](https://github.com/status-im/nim-status/issues/12)
+     - Reviewed work on this item
+
+---
+
 # 2020-07-10
 
 ## Pulls
