@@ -1,4 +1,52 @@
+# 2020-07-15
+
+- [x] 10:15 BST - Samuel | Oskar
+   - https://meet.google.com/bdx-ooje-pim
+   - **Notes :**
+     - https://miro.com/app/board/o9J_kuuReug=/
+     - https://github.com/status-im/nim-status/issues/12
+     - https://github.com/status-im/nim-waku/blob/master/waku/node/v1/wakunode.nim#L156
+
+---
+
+# 2020-07-14
+
+## Schedule
+
+- [x] 09:30 BST - Vitaliy / Samuel
+   - https://meet.google.com/ucw-oiwz-zcm 
+   - **Notes :**
+     - https://github.com/status-im/nim-status/issues/12
+- [x] 13:00 BST - Stimbus Iteration meeting
+   - https://meet.google.com/fyn-zcxi-yua
+   - **Notes :**
+     - https://github.com/vacp2p/research/projects/1?add_cards_query=is%3Aopen
+- [x] 14:00 BST - Samuel / André 1:1
+   - https://meet.google.com/pga-udvu-wpk
+   - **Notes :**
+     - https://github.com/status-im/nim-status/issues/12
+   
+## Pulls
+
+- [x] [Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
+
+---
+
 # 2020-07-13
+
+## Schedule
+
+- [ ] 10:00 BST - Vac / Waku v2 PM - *Unable to attend*
+   - https://meet.google.com/xzi-onqc-gdx
+   - [notes](https://notes.status.im/QtIhyz5AQnOnf3tUrBCP3w?both#)
+- [x] 14:30 BST - Referral program implementation sync
+   - https://meet.google.com/nfd-pare-jke
+   - **Notes :**
+     - [starterpack-service#43 - feat: events + ETH/ERC20 attributions](https://github.com/status-im/starterpack-service/pull/43)
+
+## Pulls
+
+- [x] [Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
 
 ## Review
 
