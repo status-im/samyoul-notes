@@ -7,6 +7,11 @@
      - https://github.com/status-im/nim-status/issues/12
      - https://github.com/status-im/nim-waku/blob/master/waku/node/v1/wakunode.nim#L156
 
+## Issues
+
+- [ ] [nim-status#12 - Sketch out status-waku module](https://github.com/status-im/nim-status/issues/12)
+   - Create process flow document for steps of implementing waku v2 into the nim-status code
+
 ---
 
 # 2020-07-14
@@ -20,7 +25,8 @@
 - [x] 13:00 BST - Stimbus Iteration meeting
    - https://meet.google.com/fyn-zcxi-yua
    - **Notes :**
-     - https://github.com/vacp2p/research/projects/1?add_cards_query=is%3Aopen
+     - [Stimbus task board](https://app.zenhub.com/workspaces/stimbus-5efb239198af4e001e85a041/board?repos=194023285)
+     - [vacp2p / waku v2 board](https://github.com/vacp2p/research/projects/1?add_cards_query=is%3Aopen)
 - [x] 14:00 BST - Samuel / André 1:1
    - https://meet.google.com/pga-udvu-wpk
    - **Notes :**
