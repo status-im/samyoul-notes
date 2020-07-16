@@ -1,3 +1,19 @@
+# 2020-07-16
+
+## Schedule
+
+- [x] 10:00 BST - nim-waku
+   - https://meet.google.com/fnh-bbna-yke
+   - **Notes :**
+     - https://github.com/status-im/nim-status/issues/12
+     - https://github.com/status-im/nim-waku/blob/master/waku/node/v1/wakunode.nim#L156
+     
+## Reviews
+
+- [x] [1.5 social media assets](https://www.figma.com/file/VCRaqiSj7B8QvDFqcmUBW4/1.5-assets?node-id=15%3A2) - `approved`
+
+---
+
 # 2020-07-15
 
 - [x] 10:15 BST - Samuel | Oskar
@@ -11,6 +27,10 @@
 
 - [ ] [nim-status#12 - Sketch out status-waku module](https://github.com/status-im/nim-status/issues/12)
    - Create process flow document for steps of implementing waku v2 into the nim-status code
+
+## Reviews
+
+- [x] [starterpack-service#43 - feat: events + ETH/ERC20 attributions](https://github.com/status-im/starterpack-service/pull/43) - `feedback`, `approved`, `discussed`
 
 ---
 
