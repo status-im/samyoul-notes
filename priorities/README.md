@@ -86,3 +86,6 @@ Specs for [status-react#10384 - Protocol specs](https://github.com/status-im/sta
 
 - [ ] [Why ‘Stimbus’ or Organisational Focus and Alignment](https://discuss.status.im/t/why-stimbus-or-organisational-focus-and-alignment/1753)
 - [ ] [How Stimbus or what is needed to start this work](https://discuss.status.im/t/how-stimbus-or-what-is-needed-to-start-this-work/1754)
+- [ ] [The Keys to Privacy at Status](https://docs.google.com/document/d/1r8tHGYiWw1__uy8b-T8FMrf-VACXJeV4yPMheEpRXsQ/edit#heading=h.foffmq12en67)
+- [ ] [User growth and retention - comment](https://discuss.status.im/t/user-growth-and-retention/1782/23)
+- [ ] [On remote communication](https://discuss.status.im/t/on-remote-communication/1819)
