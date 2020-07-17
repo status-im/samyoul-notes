@@ -1,3 +1,19 @@
+# 2020-07-17
+
+## Schedule
+
+- 14:00 BST - Core Retro
+   - https://meet.google.com/hqw-nsfk-xoq
+   - **Notes :**
+     - https://notes.status.im/dWT8-0QpTyWkwtsYWYJkiQ?both
+     - https://www.getfeedback.com/ for discuss topics
+   
+## Pulls
+
+- [x] [Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
+
+---
+
 # 2020-07-16
 
 ## Schedule
@@ -7,7 +23,16 @@
    - **Notes :**
      - https://github.com/status-im/nim-status/issues/12
      - https://github.com/status-im/nim-waku/blob/master/waku/node/v1/wakunode.nim#L156
+- [x] 14:30 BST - Referral program implementation sync
+   - https://meet.google.com/nfd-pare-jke
+   - **Notes :**
+     - [Retention metrics](https://redash.status.im/public/dashboards/xW7MDsRond61MEGEs4je0pIvancb4hOitjkh5HV9?org_slug=default&p_Range.start=2020-06-01&p_Range.end=2020-07-15)
+     - [Referral dashboard](https://redash.status.im/public/dashboards/4gpfZ0MgrH0fRRq8wyJzDGXXbyRJROoo0BDXZStg?org_slug=default&p_Range=d_this_week&p_Type=%5B%22AdvertiserRegistration%22,%22ChatRegistration%22%5D&p_Referral%20Value=1&p_Starterpack%20Value=10)
      
+## Pulls
+
+- [x] [Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
+   
 ## Reviews
 
 - [x] [1.5 social media assets](https://www.figma.com/file/VCRaqiSj7B8QvDFqcmUBW4/1.5-assets?node-id=15%3A2) - `approved`
