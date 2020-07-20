@@ -1,3 +1,21 @@
+# 2020-07-20
+
+## Schedule
+
+- [x] 10:00 BST - Vac / Waku v2 PM
+   - https://meet.google.com/xzi-onqc-gdx
+   - **Notes :** 
+     - [Notes](https://notes.status.im/QtIhyz5AQnOnf3tUrBCP3w?both#)
+     - Detail the blockers and 
+- [x] 14:30 BST - Referral program implementation sync
+  - https://meet.google.com/nfd-pare-jke
+   
+## Pulls
+
+- [x] [Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
+
+---
+
 # 2020-07-17
 
 ## Schedule
