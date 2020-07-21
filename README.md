@@ -1,3 +1,16 @@
+# 2020-07-21
+
+## Schedule
+
+- [x] 13:00 BST - Stimbus Iteration meeting
+   - https://meet.google.com/dpr-nawf-uwt
+
+## Reviews
+
+- [x] [statusd-bots#14 - x-check-mailserver: add --datadir flag](https://github.com/status-im/statusd-bots/pull/14) - `approved`
+
+---
+
 # 2020-07-20
 
 ## Schedule
