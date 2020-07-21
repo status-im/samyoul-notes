@@ -4,6 +4,10 @@
 
 - [x] 13:00 BST - Stimbus Iteration meeting
    - https://meet.google.com/dpr-nawf-uwt
+   
+## Pulls
+
+- [x] [Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
 
 ## Reviews
 
