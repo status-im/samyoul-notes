@@ -1,3 +1,30 @@
+# 2020-07-22
+
+## Schedule
+
+- [x] 16:00 BST - Samuel / André 1:1
+   - https://meet.google.com/rij-fgdg-xxe
+   - **Notes :**
+     - https://www.pullrequest.com/pricing/
+     - DnD Things
+       - https://www.heroforge.com/
+       - [Skinny Minis](https://www.kickstarter.com/projects/skinny-minis/skinny-minis-a-new-type-of-miniature-for-tabletop-rpgs)
+       - [Digital Map Case](https://www.youtube.com/watch?v=qzCywpFgw60)
+       - https://encounter.plus/
+       - https://dungeoninabox.com/
+       - [Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/)
+       - [Wyrmwood gaming table](https://wyrmwoodgaming.com/furniture/prophecy/)
+
+## Issues
+
+- [ ] [@Samuel did you end up creating issues for blockers wrt query/persistance? (not related to waku v2 per se, but useful to know)](https://discordapp.com/channels/624205794384281629/723487577973456896/735322355177357322)
+   
+## Pulls
+
+- [x] [#1999 - Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
+
+---
+
 # 2020-07-21
 
 ## Schedule
