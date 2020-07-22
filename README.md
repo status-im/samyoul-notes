@@ -5,6 +5,7 @@
 - [x] 16:00 BST - Samuel / André 1:1
    - https://meet.google.com/rij-fgdg-xxe
    - **Notes :**
+     - Discuss end of trial feedback. (super good feedback)
      - https://www.pullrequest.com/pricing/
      - DnD Things
        - https://www.heroforge.com/
