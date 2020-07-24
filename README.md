@@ -1,15 +1,33 @@
+# 2020-07-24
+
+## Pulls
+
+- [x] [#1999 - Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
+
+---
+
 # 2020-07-23
 
 ## Schedule
 
-- [ ] 1
-- [ ] 2
-- [ ] 3
+- [x] 14:30 BST - Referral program implementation sync
+   - https://meet.google.com/nfd-pare-jke
+- [x] 15:00 BST - Push Notifications Talk
+   - https://meet.google.com/dqu-tqub-pwz
+   - [#1997 - Push notification implementation](https://github.com/status-im/status-go/pull/1997)
+- [x] 17:00 BST - André / Samuel
+   - https://meet.google.com/ipw-ipni-gaq
+   - [#1997 - Push notification implementation](https://github.com/status-im/status-go/pull/1997)
+   
+## Pulls
+
+- [x] [#1999 - Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
 
 ## Reviews
 
 - [x] [statusd-bots#15 - add --privkey flag to not use multiple enodes](https://github.com/status-im/statusd-bots/pull/15) - `feedback`, `approved`
 - [ ] [#1997 - Push notification implementation](https://github.com/status-im/status-go/pull/1997) - `read`
+- [x] [#2003 - Update README re Whisper/Waku](https://github.com/status-im/status-go/pull/2003) - `approved`
 
 ---
 
