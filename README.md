@@ -1,3 +1,18 @@
+# 2020-07-23
+
+## Schedule
+
+- [ ] 1
+- [ ] 2
+- [ ] 3
+
+## Reviews
+
+- [x] [statusd-bots#15 - add --privkey flag to not use multiple enodes](https://github.com/status-im/statusd-bots/pull/15) - `feedback`, `approved`
+- [ ] [#1997 - Push notification implementation](https://github.com/status-im/status-go/pull/1997) - `read`
+
+---
+
 # 2020-07-22
 
 ## Schedule
