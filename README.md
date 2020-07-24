@@ -1,5 +1,11 @@
 # 2020-07-24
 
+## Schedule
+
+- [x] 17:00 BST - Andrea / Samuel 1:1
+   - https://meet.google.com/nka-eiji-yjh
+   - [#1999 - Emoji Reactions](https://github.com/status-im/status-go/pull/1999)
+
 ## Pulls
 
 - [x] [#1999 - Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
