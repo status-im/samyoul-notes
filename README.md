@@ -1,3 +1,11 @@
+# 2020-07-26 (Sunday)
+
+## Pulls
+
+- [x] [#1999 - Emoji Reactions](https://github.com/status-im/status-go/pull/1999) - `commits`
+
+---
+
 # 2020-07-25 (Saturday)
 
 ## Pulls
