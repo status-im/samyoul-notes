@@ -8,6 +8,20 @@
 
 ## Tasks
 
+### Emoji Reactions
+
+[#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
+
+- **Notes:**
+   - [Andre] all the way from the protocol level to the communication with the react app
+   - [Hester] Maciej prepared designs for this, you can ask him anything you need about what the expected behavior is supposed to be
+     - [UI Designs](https://www.figma.com/file/aS1ct66VQ6V0cio7vSqS8UoG/Chat?node-id=1239%3A0)
+   - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
+- [PR](https://github.com/status-im/status-go/pull/1999)
+- [Merge commit](https://github.com/status-im/status-go/commit/14e426f39fb2d3196fec40f6c96dd22c0fe73923)
+
+---
+
 ### Compress public key for chat
 
 [#1937 - Compress public key for chat](https://github.com/status-im/status-go/issues/1937)

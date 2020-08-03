@@ -7,7 +7,6 @@
 
 ## Personal
 
-1. [Emoji Reactions](#emoji-reactions)
 1. [Add nim tests for nim-status](#add-nim-tests-for-nim-status)
 1. [Pending Transactions](#pending-transactions)
 1. [`TRANSACTION_COMMANDS` Specs](#transaction_commands-specs)
@@ -16,16 +15,6 @@
 1. [Protocol Specs](#protocol-specs)
 
 ---
-
-### Emoji Reactions
-
-[#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
-
-- **Notes:**
-   - [Andre] all the way from the protocol level to the communication with the react app
-   - [Hester] Maciej prepared designs for this, you can ask him anything you need about what the expected behavior is supposed to be
-     - [UI Designs](https://www.figma.com/file/aS1ct66VQ6V0cio7vSqS8UoG/Chat?node-id=1239%3A0)
-   - [Hester] Also, fyi, in planning this is just Emoji reactions, the original and full feature plan is to include SNT reactions, only for this we first need account contracts so you can set rules for transaction signing
 
 ### Add nim tests for nim-status
 
