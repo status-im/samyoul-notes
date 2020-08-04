@@ -1,3 +1,11 @@
+# 2020-08-04
+
+## Schedule
+
+- [x] 15:00 - 17:00 BST - Mission Sync Hester / Samuel
+
+---
+
 # 2020-08-03
 
 ## Schedule
