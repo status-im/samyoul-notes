@@ -1,3 +1,11 @@
+# 2020-08-06
+
+- [x] 13:00 BST - Roadmap planning workshop - Next steps
+   - https://meet.google.com/rrx-rjwg-qpg
+   - https://docs.google.com/spreadsheets/d/1w6ohP7RQY6am4Vpac-43YUuBIIENIe_h09GfESCPy1k/edit#gid=1462389450
+
+---
+
 # 2020-08-05
 
 ## Schedule
