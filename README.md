@@ -1,3 +1,11 @@
+# 2020-08-07
+
+## Reviews
+
+- [x] [#2013 - Feature/group chat invitation](https://github.com/status-im/status-go/pull/2013) - `feedback`
+
+---
+
 # 2020-08-06
 
 - [x] 13:00 BST - Roadmap planning workshop - Next steps
