@@ -1,3 +1,27 @@
+# 2020-08-10
+
+## Schedule
+
+- [x] 13:00 BST - Bi-weekly Core Dev Call
+   - https://meet.google.com/uyn-yfrq-uka
+   - **Notes :**
+     - https://boardgamegeek.com/boardgame/159473/quartermaster-general
+     - https://github.com/status-im/status-react/issues/8512#issuecomment-670151370
+     - https://3box.io/products/profiles
+     - https://github.com/status-im/status-react/pull/10910
+- [x] 15:00 BST - Kick-off 'Local names'
+   - https://meet.google.com/pwz-spxv-cxj
+   - **Notes :**
+     - https://github.com/status-im/status-react/issues/11046
+     - https://www.figma.com/file/TNCyHKtR3sx5EL6YznFWUa4O/Profile?node-id=4066%3A7400
+
+## Issues
+
+- [x] [Add local contact names](https://github.com/status-im/status-react/issues/11046) - `comments`
+  - [Added responses to team concerns](https://github.com/status-im/status-react/issues/11046#issuecomment-670623942)     
+
+---
+
 # 2020-08-07
 
 ## Reviews
