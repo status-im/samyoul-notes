@@ -17,7 +17,7 @@
 
 ## Issues
 
-- [x] [Add local contact names](https://github.com/status-im/status-react/issues/11046) - `comments`
+- [x] [Add local contact names](https://github.com/status-im/status-react/issues/11046) - `discussed`, `scoping`
   - [Added responses to team concerns](https://github.com/status-im/status-react/issues/11046#issuecomment-670623942)     
 
 ---
