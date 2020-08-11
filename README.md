@@ -1,3 +1,11 @@
+# 2020-08-11
+
+## Schedule
+
+- Add details of the schedule
+
+---
+
 # 2020-08-10
 
 ## Schedule
