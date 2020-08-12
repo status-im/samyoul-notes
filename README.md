@@ -17,6 +17,7 @@
        - https://github.com/status-im/murmur
        - [Waku Typescript lib](https://github.com/vacp2p/waku-ts)
      - **Pre-existing proposals**
+       - Embeddable read only feeds
        - [Status APIs](https://notes.status.im/z0AMSnl-S7mTqQR9FfR3ng#)
        - [`status-react` - Chat api](https://github.com/status-im/status-react/pull/10910)
      - **private key management**
