@@ -2,7 +2,28 @@
 
 ## Schedule
 
-- Add details of the schedule
+- [x] 14:00 BST - Samuel / André 1:1
+   - https://meet.google.com/pga-udvu-wpk
+   - **Notes :**
+     - Contact name functionality
+     - Chat in Status
+     - Alice is Missing
+     - Drivethrough RPG
+- [x] 14:30 BST - Kick-off 'Status chat inside dapps'
+   - https://meet.google.com/umi-xeiu-hso
+   - **Notes :**
+     - Feature Epic - [Status chat inside dapps](https://github.com/status-im/status-react/issues/11044)
+     - **Waku in browser solutions**
+       - https://github.com/status-im/murmur
+       - [Waku Typescript lib](https://github.com/vacp2p/waku-ts)
+     - **Pre-existing proposals**
+       - [Status APIs](https://notes.status.im/z0AMSnl-S7mTqQR9FfR3ng#)
+       - [`status-react` - Chat api](https://github.com/status-im/status-react/pull/10910)
+     - **private key management**
+       - https://walletconnect.org/
+     - **Use cases**
+       - https://gov.yearn.finance/t/idea-move-to-gasless-voting/1039/14
+       - https://github.com/status-im/gasless-democracy
 
 ---
 
