@@ -1,3 +1,28 @@
+# 2020-08-12
+
+- [x] 14:00 BST - Kick-off 'In-app notifications'
+   - https://meet.google.com/pxe-obgh-udo
+   - **Notes :**
+     - Epic [In-app notifications](https://github.com/status-im/status-react/issues/10547)
+     - [Feature Document](https://docs.google.com/document/d/162zAXBtTPQeKKvxccW7ukC8I2a2ZhBgTOVDPT-JWvOA/edit#)
+- [x] 15:00 BST - Kick off 'Profile photo'
+   - https://meet.google.com/edn-eonp-csm
+   - **Notes :**
+     - Epic [Add profile photo](https://github.com/status-im/status-react/issues/11047)
+     - [Feature Document](https://docs.google.com/document/d/1FeTNuluM7rF7kAIkc38rE1p7gTwirZHhPC-Q7P0FTwM/edit#heading=h.3o4bb8dnf05)
+     - [Miro notifiable events](https://miro.com/app/board/o9J_kn6l1NQ=/)
+     - [Designs](https://www.figma.com/file/aS1ct66VQ6V0cio7vSqS8UoG/Chat?node-id=1405%3A2407)
+     - Discussion of user display names:
+       - The group agreed that adding only profile photos would be seen as delivering half a feature, and that the other half of this feature is allowing the user the ability to chose their own display name.
+       - Need to write document detailing
+         - Threat modeling for display name
+         - Show rationale for why a display name would be good
+         - Add an element of uniqueness, `<display_name> + <first_8_chars_of_pubkey>`, "Jupiter King 0xeb18d99c..."
+- [x] 16:00 BST - Referral program implementation sync
+   - https://meet.google.com/nfd-pare-jke 
+
+---
+
 # 2020-08-11
 
 ## Schedule
@@ -12,7 +37,7 @@
 - [x] 14:30 BST - Kick-off 'Status chat inside dapps'
    - https://meet.google.com/umi-xeiu-hso
    - **Notes :**
-     - Feature Epic - [Status chat inside dapps](https://github.com/status-im/status-react/issues/11044)
+     - **Feature Epic** - [Status chat inside dapps](https://github.com/status-im/status-react/issues/11044)
      - **Waku in browser solutions**
        - https://github.com/status-im/murmur
        - [Waku Typescript lib](https://github.com/vacp2p/waku-ts)
@@ -20,9 +45,9 @@
        - Embeddable read only feeds
        - [Status APIs](https://notes.status.im/z0AMSnl-S7mTqQR9FfR3ng#)
        - [`status-react` - Chat api](https://github.com/status-im/status-react/pull/10910)
-     - **private key management**
+     - **Private key management**
        - https://walletconnect.org/
-     - **Use cases**
+     - **Potential use cases**
        - https://gov.yearn.finance/t/idea-move-to-gasless-voting/1039/14
        - https://github.com/status-im/gasless-democracy
 
