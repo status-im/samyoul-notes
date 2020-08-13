@@ -1,3 +1,11 @@
+# 2020-08-13
+
+## Pulls
+
+- [x] [#2016 - Fixes a minor rebase quirk](https://github.com/status-im/status-go/pull/2016) - `submitted`, `merged`
+
+---
+
 # 2020-08-12
 
 - [x] 14:00 BST - Kick-off 'In-app notifications'
