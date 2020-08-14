@@ -1,3 +1,14 @@
+# 2020-08-14
+
+## Schedule
+
+- [x] 14:00 BST - Core Retro
+   - https://meet.google.com/hqw-nsfk-xoq
+   - **Notes :**
+     - https://notes.status.im/uqCj7Q6lTIqslxKUlmxELQ?both
+
+---
+
 # 2020-08-13
 
 ## Pulls
