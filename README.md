@@ -1,3 +1,11 @@
+# 2020-08-17
+
+## Reviews
+
+- [x] [#2009 - Add topic and contact code propagation](https://github.com/status-im/status-go/pull/2009) - `approved`, `feedback`
+
+---
+
 # 2020-08-14
 
 ## Schedule
