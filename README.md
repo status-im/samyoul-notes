@@ -4,6 +4,11 @@
 
 - [x] [#2009 - Add topic and contact code propagation](https://github.com/status-im/status-go/pull/2009) - `approved`, `feedback`
 
+## Schedule
+
+- [x] 14:30 BST - Referral program implementation sync
+  - https://meet.google.com/nfd-pare-jke
+
 ---
 
 # 2020-08-14
