@@ -1,8 +1,17 @@
 # 2020-08-18
 
+## Issues
+
+- [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047) - `discussed`, `scoped`, `draft`
+   - [Created specs](https://notes.status.im/CQ-GGYmAR3aM8qUABgedWg?both)
+
 ## Reviews
 
 - [x] [#2013 - Feature/group chat invitation](https://github.com/status-im/status-go/pull/2013) - `feedback`
+- [x] [#2009 - Add topic and contact code propagation](https://github.com/status-im/status-go/pull/2009) - `discussed`
+- [x] [#2017 - Fix mark messages seen](https://github.com/status-im/status-go/pull/2017) - `discussed`
+- [x] [#2018 - Handle wallet initialization](https://github.com/status-im/status-go/pull/2018) - `approved`
+
 
 ---
 
