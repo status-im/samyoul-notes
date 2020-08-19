@@ -1,3 +1,11 @@
+# 2020-08-19
+
+## Issues
+
+- [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047) - `discussed`
+
+---
+
 # 2020-08-18
 
 ## Issues
