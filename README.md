@@ -1,9 +1,31 @@
+# 2020-08-25
+
+## Pulls
+
+- [x] [status-im/specs#145 - Added EmojiReaction payload types](https://github.com/status-im/specs/pull/145) - `commits`, `merged`
+- [x] [status-im/specs#146 - Updated release commit data](https://github.com/status-im/specs/pull/147/files) - `submitted`
+
+## Reviews
+
+- [x] [status-im/go-ethereum#90 - Merge patches 0000, 0040, and 0044 #1772](https://github.com/status-im/go-ethereum/pull/90) - `approved`
+- [x] [#2023 - [#11046] Add local contact names](https://github.com/status-im/status-go/pull/2023) - `feedback`
+  - Rename "Nickname" to "LocalNickname" or add documentation to make explicit that a "Nickname" is only for local use
+    - This will make a distinction from "DisplayNames" in the case these are implemented. 
+- [x] [#2013 - Feature/group chat invitation](https://github.com/status-im/status-go/pull/2013) - `feedback`
+
+---
+
 # 2020-08-24
 
-// Add Dev call meeting notes
+## Issues
 
 - [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047) - `discussed`
   - https://notes.status.im/vk29m0ZjT1WClNR1BR8msg?both
+
+## Schedule
+
+- [x] []()
+// Add Dev call meeting notes
 
 ---
 
@@ -11,27 +33,29 @@
 
 ## Pulls
 
-- [x] [Status Avatars](https://github.com/status-im/avatar) - `created`
+- [x] [Status Avatars (Prototype)](https://github.com/status-im/avatar) - `created`
 
 ---
 
 # 2020-08-20
 
+## Schedule
 // Add Referal meeting
 
+- [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047) - `discussed`
 // Add spec v2
 
 ---
 
 # 2020-08-19
 
-// Add Andre meeting
-
 ## Issues
 
 - [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047) - `discussed`
-
 // Add spec v2
+
+## Schedule
+// Add Andre meeting
 
 ---
 
@@ -40,7 +64,7 @@
 ## Issues
 
 - [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047) - `discussed`, `scoped`, `draft`
-   - [Created specs](https://notes.status.im/CQ-GGYmAR3aM8qUABgedWg?both)
+   - [Created specs v1](https://notes.status.im/CQ-GGYmAR3aM8qUABgedWg?both)
 
 ## Reviews
 
@@ -48,7 +72,6 @@
 - [x] [#2009 - Add topic and contact code propagation](https://github.com/status-im/status-go/pull/2009) - `discussed`
 - [x] [#2017 - Fix mark messages seen](https://github.com/status-im/status-go/pull/2017) - `discussed`
 - [x] [#2018 - Handle wallet initialization](https://github.com/status-im/status-go/pull/2018) - `approved`
-
 
 ---
 
