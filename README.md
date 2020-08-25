@@ -13,6 +13,22 @@
     - This will make a distinction from "DisplayNames" in the case these are implemented. 
 - [x] [#2013 - Feature/group chat invitation](https://github.com/status-im/status-go/pull/2013) - `feedback`
 
+## Schedule
+
+- [x] 13:15 BST - Maciej / Samuel
+  - https://meet.google.com/uzm-jfnh-hpf
+  - [Profile Puppets](https://notes.status.im/vk29m0ZjT1WClNR1BR8msg?both)
+- [x] 14:00 BST - Jonathan / Samuel / Maciej
+  - https://meet.google.com/aau-kakz-zhp
+  - **Notes :**
+    - [Profile Puppets](https://notes.status.im/vk29m0ZjT1WClNR1BR8msg?both)
+    - [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047)
+    - [#2013 - Feature/group chat invitation](https://github.com/status-im/status-go/pull/2013)
+  - Action points
+    - create a discuss post about display names
+    - write up profile photos v2.5 and why profile photos don't work
+    - make some notes about embedded vector / SVG files
+
 ---
 
 # 2020-08-24
@@ -24,8 +40,9 @@
 
 ## Schedule
 
-- [x] []()
-// Add Dev call meeting notes
+- [x] 13:00 BST - Bi-weekly Core Dev Call 34
+  - https://meet.google.com/uyn-yfrq-uka
+  - [Notes](https://notes.status.im/core-dev-call_34?both)
 
 ---
 
@@ -39,11 +56,15 @@
 
 # 2020-08-20
 
-## Schedule
-// Add Referal meeting
+## Issues
 
 - [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047) - `discussed`
-// Add spec v2
+  - [Specs v2](https://notes.status.im/oUChlPB3Q2aUPLYBSjq6MQ?both)
+
+## Schedule
+
+- [x] 14:30 BST - Referral program implementation sync
+  - https://meet.google.com/nfd-pare-jke
 
 ---
 
@@ -52,10 +73,12 @@
 ## Issues
 
 - [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047) - `discussed`
-// Add spec v2
+  - [Specs v2](https://notes.status.im/oUChlPB3Q2aUPLYBSjq6MQ?both)
 
 ## Schedule
-// Add Andre meeting
+
+- [x] 16:00 BST - Samuel / André 1:1
+  - https://meet.google.com/rij-fgdg-xxe
 
 ---
 
