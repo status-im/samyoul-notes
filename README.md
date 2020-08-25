@@ -1,5 +1,10 @@
 # 2020-08-25
 
+## Issues
+
+- [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047) - `discussed`
+  - [Vector based profile images](https://notes.status.im/0MWyryTPQleMWe31K0L7gg?both)
+
 ## Pulls
 
 - [x] [status-im/specs#145 - Added EmojiReaction payload types](https://github.com/status-im/specs/pull/145) - `commits`, `merged`
