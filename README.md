@@ -1,3 +1,15 @@
+# 2020-08-26
+
+## Reviews
+
+- [x] [#2025 - Honor FullNode config in waku](https://github.com/status-im/status-go/pull/2025) - `approved`
+
+## Schedule
+
+// TODO
+
+---
+
 # 2020-08-25
 
 ## Issues
