@@ -1,3 +1,15 @@
+# 2020-08-27
+
+## Reviews
+
+- [x] [#2022 - Enable push notifications by default](https://github.com/status-im/status-go/pull/2022) - `feedback`, `approved`
+
+## Schedule
+
+// TODO
+
+---
+
 # 2020-08-26
 
 ## Reviews
