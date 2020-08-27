@@ -8,6 +8,14 @@
 
 ## Tasks
 
+### Add local contact names
+
+[#11046 - Add local contact names](https://github.com/status-im/status-react/issues/11046)
+
+- Handled by Andrey
+
+---
+
 ### Emoji Reactions
 
 [#7118 - SNT and emoji reactions**](https://github.com/status-im/status-react/issues/7118)
