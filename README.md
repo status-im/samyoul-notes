@@ -1,3 +1,11 @@
+# 2020-08-28
+
+## Schedule
+
+ // TODO
+
+---
+
 # 2020-08-27
 
 ## Reviews
@@ -20,6 +28,20 @@
 
 // TODO
 
+- [x] 13:00 BST - Simon / Samuel
+  - https://meet.google.com/ujm-fqst-wec
+  - **References**
+    - [How desktop_computer Desktop & Mobile should connect?](https://discuss.status.im/t/how-desktop-mobile-should-connect/1668)
+    - [Figma design for sync](https://www.figma.com/file/Mr3rqxxgKJ2zMQ06UAKiWL/%F0%9F%92%AC-Chat%E2%8E%9CDesktop?node-id=1944%3A0)
+  - **Action Points**
+    - Make process flow for QR code sync
+    - Make process flow unsyncron
+    - Make process flow for installation of sync multiple
+    - make process flow for unsyncron for multiple devices
+- [x] 14:00 BST - Planning catch up Samuel < > Hester
+- [x] 15:00 BST - Referral program implementation sync
+- [x] 16:30 BST - Andrea / Samuel
+  
 ---
 
 # 2020-08-25
