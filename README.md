@@ -1,3 +1,9 @@
+# 2020-08-31
+
+UK Public bank holiday
+
+---
+
 # 2020-08-28
 
 ## Schedule
@@ -39,6 +45,7 @@
     - Make process flow for installation of sync multiple
     - make process flow for unsyncron for multiple devices
 - [x] 14:00 BST - Planning catch up Samuel < > Hester
+  - 
 - [x] 15:00 BST - Referral program implementation sync
 - [x] 16:30 BST - Andrea / Samuel
   
