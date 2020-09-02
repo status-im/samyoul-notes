@@ -8,7 +8,15 @@ UK Public bank holiday
 
 ## Schedule
 
- // TODO
+- [x] 14:00 BST - Core Retro
+  - https://meet.google.com/hqw-nsfk-xoq
+  - **Notes :**
+    - Cancelled, but Jakub, Vitaliy and I discussed some things
+      - profile images
+      - device to device contact data transfer
+        - via light flashing morse code
+        - via morse code sound and microphone
+        - NFC  
 
 ---
 
@@ -20,7 +28,17 @@ UK Public bank holiday
 
 ## Schedule
 
-// TODO
+- [x] 14:30 BST - Validation profile pics
+  - https://meet.google.com/woa-rzhz-nhf
+  - **Notes :**
+    - Would like to discuss the best way to validate the concept of avatars and how they can impact retention. 
+    - Million dollar question: Will they result in more people using Status more often?
+    - Rough compromise:- How many people familiar with Status opt for custom Avatars over their default avatar?- How many people opt for a custom avatar over a custom profile picture?
+    - Creating a prototype for 2 variations:
+      - allow selection between the 3 options as part of onboarding 
+      - allow selection between the 3 options as part of Profile editing, after having seen a chat where others use the avatar
+    - [Profile Avatars](https://docs.google.com/presentation/d/1rP9YaeBYPqXgLVX1jkY1cFy1kExzg535YKo1VI7oSQk/edit#slide=id.p)
+
 
 ---
 
@@ -31,8 +49,6 @@ UK Public bank holiday
 - [x] [#2025 - Honor FullNode config in waku](https://github.com/status-im/status-go/pull/2025) - `approved`
 
 ## Schedule
-
-// TODO
 
 - [x] 13:00 BST - Simon / Samuel
   - https://meet.google.com/ujm-fqst-wec
@@ -45,9 +61,20 @@ UK Public bank holiday
     - Make process flow for installation of sync multiple
     - make process flow for unsyncron for multiple devices
 - [x] 14:00 BST - Planning catch up Samuel < > Hester
-  - 
+  - https://meet.google.com/ssc-rnmz-ptw
+  - [Issues assigned to me](https://app.zenhub.com/workspaces/status-5729dbcd8c3f63656a8f6eaa/board?assignees=samyoul&filterLogic=any&repos=52308441)
+  - [Machine to machine messaging via Waku](https://docs.google.com/document/d/1Vhw8frG-iWCFTKPTTNu9u_gqhKf_WFVUwli2RBkYZDA/edit)
+  - [Profile Avatars](https://docs.google.com/presentation/d/1rP9YaeBYPqXgLVX1jkY1cFy1kExzg535YKo1VI7oSQk/edit#slide=id.p)
 - [x] 15:00 BST - Referral program implementation sync
+  - https://meet.google.com/nfd-pare-jke
 - [x] 16:30 BST - Andrea / Samuel
+  - https://meet.google.com/vfo-uaoq-ynx
+  - **Notes :**
+    - [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047)
+      - [Vector based profile images](https://notes.status.im/0MWyryTPQleMWe31K0L7gg?both)
+      - [Specs v2](https://notes.status.im/oUChlPB3Q2aUPLYBSjq6MQ?both)
+    - The best option is to use avatars as you can attach the avatar to every message.
+    - Image can work but only in the context that the image data can be heavily compressed, or accessed from a trustable URL.
   
 ---
 
