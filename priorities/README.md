@@ -7,16 +7,28 @@
 
 ## Personal
 
-1. [Add nim tests for nim-status](#add-nim-tests-for-nim-status)
 1. [1.8 - Add profile photo](#add-profile-photo)
-1. [1.8 - Status chat inside dapps](#status-chat-inside-dapps)
+1. [Improved device syncing](#improved-device-syncing)
 1. [Pending Transactions](#pending-transactions)
 1. [`TRANSACTION_COMMANDS` Specs](#transaction_commands-specs)
 1. [SNT Reactions](#snt-reactions)
 1. [Messengers acquires a lock for very long time](#messengers-acquires-a-lock-for-very-long-time)
 1. [Protocol Specs](#protocol-specs)
+1. [Add nim tests for nim-status](#add-nim-tests-for-nim-status)
+1. [1.8 - Status chat inside dapps](#status-chat-inside-dapps)
 
 ---
+
+### Improved device syncing
+
+- **References**
+  - [How desktop_computer Desktop & Mobile should connect?](https://discuss.status.im/t/how-desktop-mobile-should-connect/1668)
+  - [Figma design for sync](https://www.figma.com/file/Mr3rqxxgKJ2zMQ06UAKiWL/%F0%9F%92%AC-Chat%E2%8E%9CDesktop?node-id=1944%3A0)
+- **Action Points**
+  - Make process flow for QR code sync
+  - Make process flow unsyncron
+  - Make process flow for installation of sync multiple
+  - make process flow for unsyncron for multiple devices
 
 ### Add profile photo
 
