@@ -1,3 +1,26 @@
+# 2020-09-07
+
+## PRs
+
+- [x] [status-im/specs#147 - Updated release commit data](https://github.com/status-im/specs/pull/147) - `merged`
+
+## Reviews
+
+- [x] [#2030 - Add push notifications for mentions](https://github.com/status-im/status-go/pull/2030) - `approved`, `discussed`
+
+## Schedule
+
+- [x] 13:00 BST - Bi-weekly Core Dev Call
+  - https://meet.google.com/uyn-yfrq-uka
+  - **Notes :**
+    - https://github.com/status-im/pm/issues/60
+    - https://notes.status.im/core-dev-call_35
+- [x] 14:30 BST - Referral program implementation sync
+  - https://meet.google.com/nfd-pare-jke
+  - https://redash.status.im/login?next=https%3A%2F%2Fredash.status.im%2Fdashboard%2Freferrals%3Fp_Range%3Dd_this_week%26p_Type%3D%5B%22AdvertiserRegistration%22%5D%26p_Referral+Value%3D1%26p_Starterpack+Value%3D10
+
+---
+
 # 2020-09-04
 
 ## Issues
