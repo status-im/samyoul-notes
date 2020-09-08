@@ -1,3 +1,17 @@
+# 2020-09-08
+
+## Pulls
+
+- [x] [status-im/specs#149 - Updated draft payload spec to stable](https://github.com/status-im/specs/pull/149) - `submitted`
+
+## Reviews
+
+- [x] [status-im/specs#148 - Add mentions push notifications](https://github.com/status-im/specs/pull/148) - `approved`
+- [x] [#2031 - ci: keep only last 10 builds to reduce size](https://github.com/status-im/status-go/pull/2031) - `approved`
+- [x] [#2023 - Add local contact names](https://github.com/status-im/status-go/pull/2023) - `feedback`
+
+---
+
 # 2020-09-07
 
 ## PRs
