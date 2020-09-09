@@ -1,8 +1,23 @@
+# 2020-09-09
+
+## Pulls
+
+- [x] [status-im/specs#150 - Introduction of ChatMessageIdentity](https://github.com/status-im/specs/pull/150) - `submitted`, `commits`
+
+## Reviews
+
+- [x] [#2033 - Add index to emoji reactions](https://github.com/status-im/status-go/pull/2033) - `approved`
+- [x] [#2032 - Soft blacklist peer ids](https://github.com/status-im/status-go/pull/2032) - `approved`
+- [x] [#2034 - [mentions] ParsedText in quoted message](https://github.com/status-im/status-go/pull/2034) - `approved`
+
+---
+
 # 2020-09-08
 
 ## Pulls
 
 - [x] [status-im/specs#149 - Updated draft payload spec to stable](https://github.com/status-im/specs/pull/149) - `submitted`
+- [x] [status-im/specs#150 - Introduction of ChatMessageIdentity](https://github.com/status-im/specs/pull/150) - `commits`
 
 ## Reviews
 
