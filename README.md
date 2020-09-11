@@ -1,6 +1,36 @@
+# 2020-09-11
+
+## Pulls
+
+- [x] [identicon-nim-lang#1 - Pattern matching filtering](https://github.com/status-im/identicon-nim-lang/pull/1/files) - `draft`, `commits`
+
+## Reviews
+
+- [x] [identicon-nim-lang#2 - make ip banning dynamic](https://github.com/status-im/identicon-nim-lang/pull/2) - `approved`
+- [x] [#2037 - Add API functions to store pending transaction data](https://github.com/status-im/status-go/pull/2037) - `approved`
+
+## Schedule
+
+- [x] 14:00 BST - Core Retro
+  - https://meet.google.com/hqw-nsfk-xoq
+  - [Notes](https://notes.status.im/core-retro-2020-09-11?both)
+
+---
+
 # 2020-09-10
 
-// TODO
+## Reviews
+
+- [x] [#2037 - Add API functions to store pending transaction data](https://github.com/status-im/status-go/pull/2037) - `feedback`
+
+## Schedule
+
+- [x] 14:00 BST - Team meeting
+  - https://meet.google.com/tqu-uezm-qrz
+  - Andre announced stepping down as team lead and leaving Status
+  - Andrea announced as new team lead
+- [x] 17:00 BST - Spam discussion meeting
+  - On discord
 
 ---
 
