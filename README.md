@@ -1,13 +1,17 @@
 # 2020-09-15
 
+## Reviews
+
+- [x] [#2043 - [#2042] Wrong ERC20 decimal rounding in "Set max"](https://github.com/status-im/status-go/pull/2043) - `feedback`
+
 ## Schedule
 
 - [x] 10:00 BST - Profile images follow up
   - https://meet.google.com/evu-bjmx-fii
   - **Notes :**
     - **Profile photos**
-      - [Add profile photo](https://github.com/status-im/status-react/issues/11047)
-      - [Introduction of ChatMessageIdentity](https://github.com/status-im/specs/pull/150)
+      - [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047)
+      - [status-im/specs#150 - Introduction of ChatMessageIdentity](https://github.com/status-im/specs/pull/150)
     - **Spam mitigation**
       - [Spam analysis doc](https://docs.google.com/spreadsheets/d/1zQDH3PsrB4-utnykzNZsCO87sxNKD7i94DRYjGAKs5I/edit#gid=0)
       - [Organization channels doc](https://docs.google.com/document/d/1U1IKxwJdCrFqJSU6tCxi3cmjLLtc61vuBJUvz-1Q5uo/edit#)
@@ -25,8 +29,8 @@
 - [x] 15:00 BST - Andrea / Samuel
   - https://meet.google.com/kit-itkp-evr
   - **Notes :**
-    - [Add profile photo](https://github.com/status-im/status-react/issues/11047)
-    - [Introduction of ChatMessageIdentity](https://github.com/status-im/specs/pull/150)
+    - [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047)
+    - [status-im/specs#150 - Introduction of ChatMessageIdentity](https://github.com/status-im/specs/pull/150)
 
 ---
 
