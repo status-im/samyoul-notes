@@ -1,8 +1,32 @@
-# 2020-09-14
+# 2020-09-15
 
 ## Schedule
 
-// TODO
+- [x] 10:00 BST - Profile images follow up
+  - https://meet.google.com/evu-bjmx-fii
+  - **Notes :**
+    - **Profile photos**
+      - [Add profile photo](https://github.com/status-im/status-react/issues/11047)
+      - [Introduction of ChatMessageIdentity](https://github.com/status-im/specs/pull/150)
+    - **Spam mitigation**
+      - [Spam analysis doc](https://docs.google.com/spreadsheets/d/1zQDH3PsrB4-utnykzNZsCO87sxNKD7i94DRYjGAKs5I/edit#gid=0)
+      - [Organization channels doc](https://docs.google.com/document/d/1U1IKxwJdCrFqJSU6tCxi3cmjLLtc61vuBJUvz-1Q5uo/edit#)
+
+---
+
+# 2020-09-14
+
+## Review
+
+- [x] [Public Chat Moderation Implementation](https://notes.status.im/public-chat-moderation-implementation?both) - `feedback`
+
+## Schedule
+
+- [x] 15:00 BST - Andrea / Samuel
+  - https://meet.google.com/kit-itkp-evr
+  - **Notes :**
+    - [Add profile photo](https://github.com/status-im/status-react/issues/11047)
+    - [Introduction of ChatMessageIdentity](https://github.com/status-im/specs/pull/150)
 
 ---
 
