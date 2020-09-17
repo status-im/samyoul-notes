@@ -1,5 +1,9 @@
 # 2020-09-17
 
+## Pulls
+
+- [x] [Image Resizer (Prototype)](https://github.com/status-im/image-resizer) - `created`
+
 ## Reviews
 
 - [x] [#2043 - [#2042] Wrong ERC20 decimal rounding in "Set max"](https://github.com/status-im/status-go/pull/2043) - `research`, `discussed`
