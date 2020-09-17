@@ -3,6 +3,8 @@
 ## Reviews
 
 - [x] [#2043 - [#2042] Wrong ERC20 decimal rounding in "Set max"](https://github.com/status-im/status-go/pull/2043) - `research`, `discussed`
+- [x] [#2039 - add wallet favourites](https://github.com/status-im/status-go/pull/2039) - `approved`
+- [x] [#2041 - Feature/use mailservers](https://github.com/status-im/status-go/pull/2041) - `approved`, `feeback`
 
 ---
 
@@ -22,7 +24,7 @@
 
 ## Schedule
 
-- [x] 10:00 BST - Profile images follow up
+- [x] 10:00 BST - Profile images follow up (Hester / Samuel)
   - https://meet.google.com/evu-bjmx-fii
   - **Notes :**
     - **Profile photos**
