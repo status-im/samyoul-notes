@@ -1,3 +1,16 @@
+# 2020-09-18
+
+## Issues
+
+- [x] [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047) - `discussed`, `research`
+
+
+## Pulls
+
+- [x] [Image Resizer (Prototype)](https://github.com/status-im/image-resizer) - `commits`
+
+---
+
 # 2020-09-17
 
 ## Pulls
