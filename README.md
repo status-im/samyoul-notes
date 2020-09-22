@@ -1,8 +1,18 @@
+# 2020-09-22
+
+## Schedule
+
+- [x] 11:00 BST - Carly / Samuel
+  - // TODO
+
+---
+
 # 2020-09-21
 
 ## Schedule
 
-// TODO
+- [x] 13:00 BST -
+- [x] 14:00 BST - 
 
 ---
 
