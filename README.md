@@ -1,9 +1,37 @@
+# 2020-09-23
+
+## Schedule
+
+- [x] 14:00 BST - Andrea / Samuel 1:1
+  - https://meet.google.com/mbc-gude-bqk
+  - **Notes :**
+    - Device pairing and syncing
+      - https://notes.status.im/7BCBZ0D5RQigwKin4hhZFw
+      - https://discuss.status.im/t/how-desktop-mobile-should-connect/1668
+    - Profile images
+      - https://github.com/status-im/status-react/issues/11047
+      - cap small images to 5kb
+      - cap large images to 32kb
+    - Interview discussion for new react dev
+
+---
+
 # 2020-09-22
 
 ## Schedule
 
 - [x] 11:00 BST - Carly / Samuel
-  - // TODO
+  - https://meet.google.com/yho-wbce-nmp
+  - **Notes :**
+    - Confused by not being able to choose a username
+      - Why forced to use the 3 word pseudonym
+    - Tried to get ENS, no confirmation
+    - Telegram has option during call that shows 4 emojis that both users can optionally confirm with each other to ensure the connection is secure
+    - Asked 3 people to sign up
+      - Boyfriend signed up no problem
+      - 2 crypto trader friends couldn't work out how to accept a contact request
+    - [3 Word Pseudonym Alternative](https://discuss.status.im/t/3-word-pseudonym-alternative/1792)
+    - public key serialisation and compact encoding
 
 ---
 
@@ -11,8 +39,14 @@
 
 ## Schedule
 
-- [x] 13:00 BST -
-- [x] 14:00 BST - 
+- [x] 13:00 BST - Bi-weekly Core Dev Call
+  - https://meet.google.com/uyn-yfrq-uka
+  - **Notes :**
+    - https://notes.status.im/core-dev-call_36
+- [x] 14:00 BST - L2 Options
+  - https://meet.google.com/piq-tnjw-rjh
+  - **Notes :**
+    - https://docs.google.com/spreadsheets/d/1f3fxve8HM1vbr1n9Idc1Mo4QpvlLKi5NITOd8cf1eLw/edit#gid=0
 
 ---
 
