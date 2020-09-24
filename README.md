@@ -1,3 +1,15 @@
+# 2020-09-24
+
+## Schedule
+
+- [x] 15:00 BST Design review display names
+  - https://meet.google.com/zzp-ynku-ird
+  - **Notes :**
+    - https://www.figma.com/file/TNCyHKtR3sx5EL6YznFWUa4O/Profile?node-id=510%3A3116
+    - https://notes.status.im/FBukdAD4Sy2G2dLTSKeOCg
+
+---
+
 # 2020-09-23
 
 ## Schedule
