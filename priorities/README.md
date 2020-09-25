@@ -14,7 +14,6 @@
 1. [SNT Reactions](#snt-reactions)
 1. [Messengers acquires a lock for very long time](#messengers-acquires-a-lock-for-very-long-time)
 1. [Protocol Specs](#protocol-specs)
-1. [Add nim tests for nim-status](#add-nim-tests-for-nim-status)
 1. [1.8 - Status chat inside dapps](#status-chat-inside-dapps)
 
 ---
@@ -46,13 +45,6 @@
 ### Status chat inside dapps
 
 [#11044 - Status chat inside dapps](https://github.com/status-im/status-react/issues/11044)
-
-### Add nim tests for nim-status
-
-[nim-status#9- add nim tests for nim-status](https://github.com/status-im/nim-status/issues/9)
-
-- [Add tests & documentation - accounts methods (delete import, derive/generate new accounts, identicon, alias)](https://github.com/status-im/nim-status/issues/15)
-- [Add tests & documentation - Mailservers methods](https://github.com/status-im/nim-status/issues/18)
 
 ### Pending Transactions
 
