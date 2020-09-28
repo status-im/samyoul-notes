@@ -1,3 +1,19 @@
+# 2020-09-25
+
+## Reviews
+
+- [x] [#2048 - [Fix: #2027] Migrate db to shorter path name](https://github.com/status-im/status-go/pull/2048) - `approved`
+- [x] [#2049 - Count runes and not characters](https://github.com/status-im/status-go/pull/2049) - `approved`
+
+## Schedule
+
+- [x] 14:00 BST - Core Retro
+  - https://meet.google.com/hqw-nsfk-xoq
+  - **Notes :**
+    - https://notes.status.im/core-retro-2020-09-25?both
+
+---
+
 # 2020-09-24
 
 ## Schedule
