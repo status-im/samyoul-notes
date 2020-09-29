@@ -1,3 +1,13 @@
+# 2020-09-29
+
+## PR
+
+- [x] [status-im/spec#149 - Updated draft payload spec to stable](https://github.com/status-im/specs/pull/149) - `discussed`
+- [x] [status-im/specs#150 - Introduction of ChatIdentity](https://github.com/status-im/specs/pull/150) - `commits`
+- [x] [#2051 - Profile Images](https://github.com/status-im/status-go/pull/2051) - `created`
+
+---
+
 # 2020-09-28
 
 ## Pulls
