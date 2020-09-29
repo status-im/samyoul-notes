@@ -1,3 +1,15 @@
+# 2020-09-28
+
+## Pulls
+
+- [Unique Name Generator](https://github.com/status-im/unique-name-generator)
+  - Attempted solution to finding a security feature that:
+    - Isn't English words
+    - Is something that a human brain will recognise
+    - Has enough entropy to be hard to casually find collisions
+
+---
+
 # 2020-09-25
 
 ## Reviews
