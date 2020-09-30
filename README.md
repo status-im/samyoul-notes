@@ -1,6 +1,30 @@
+# 2020-09-30
+
+## PRs
+
+- [x] [#2051 - Profile Images](https://github.com/status-im/status-go/pull/2051) - `commits`
+
+
+## Schedule
+
+- [x] 11:00 BST - Shivek Khurana - interview - Status.im
+  - https://meet.google.com/jua-ecpp-qik
+  - **Notes :**
+    - Good interview
+    - Time travelling databases
+    - https://en.wikipedia.org/wiki/Temporal_database
+    - https://www.keycloak.org/
+- [x] 14:00 BST - Samuel / Andrea 1-to-1
+  - https://meet.google.com/rhy-trwc-ybb
+  - **Notes :**
+    - Shivek interview
+    - [#2051 - Profile Images](https://github.com/status-im/status-go/pull/2051)
+
+---
+
 # 2020-09-29
 
-## PR
+## Pulls
 
 - [x] [status-im/spec#149 - Updated draft payload spec to stable](https://github.com/status-im/specs/pull/149) - `discussed`
 - [x] [status-im/specs#150 - Introduction of ChatIdentity](https://github.com/status-im/specs/pull/150) - `commits`
