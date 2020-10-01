@@ -1,9 +1,8 @@
 # 2020-09-30
 
-## PRs
+## Pulls
 
 - [x] [#2051 - Profile Images](https://github.com/status-im/status-go/pull/2051) - `commits`
-
 
 ## Schedule
 
