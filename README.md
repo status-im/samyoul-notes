@@ -1,6 +1,18 @@
+# 2020-10-06
+
+## Pulls 
+
+- [x] [#2051 - Profile Images](https://github.com/status-im/status-go/pull/2051) - `commits`
+
+## Reviews
+
+- [x] [#2026 - Local notifications](https://github.com/status-im/status-go/pull/2026) - `approved`, `discussed`
+
+---
+
 # 2020-10-05
 
-## Review
+## Reviews
 
 - [x] [DAP.PS DApp directory development proposal](https://docs.google.com/document/d/1CjInfsoz1ofzUElxslhoFyurP_puYeSsjS41H_lb72g/edit) - `read`
 
