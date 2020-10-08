@@ -1,8 +1,16 @@
+# 2020-10-08
+
+## Pulls 
+
+- [x] [#2051 - Profile Images](https://github.com/status-im/status-go/pull/2051) - `commits`
+
+---
+
 # 2020-10-07
 
-## Pulls
+## Pulls 
 
-// TODO
+- [x] [#2051 - Profile Images](https://github.com/status-im/status-go/pull/2051) - `commits`
 
 ## Schedule
 
