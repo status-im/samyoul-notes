@@ -1,3 +1,11 @@
+# 2020-10-12
+
+## BUIDL
+
+- [x] [Why and How zk-SNARK Works: Definitive Explanation](https://arxiv.org/pdf/1906.07221.pdf)
+
+---
+
 # 2020-10-09
 
 ## Pulls
