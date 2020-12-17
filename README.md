@@ -1,3 +1,13 @@
+# 2020-12-17
+
+## Pulls
+
+- [x] [#2100 - Expand Local Notifications](https://github.com/status-im/status-go/pull/2100) - `commits`, `research`
+  - https://notes.status.im/notifications-android
+  - Currently have a bug that I think is caused by a the jsonMarshal func not working as intented, need to resolve this next before proceeding
+
+---
+
 # 2020-12-16
 
 ## Pulls
@@ -25,3 +35,4 @@
       - [App Freezing when user sends message after changing profile image](https://github.com/status-im/status-react/pull/11347#issuecomment-746252933)
     - *`status-go` notifications improvement*
       - Adding `Notifications` field to `MessageResponse` struct and parsing in the `PublisherSignalHandler`
+  
