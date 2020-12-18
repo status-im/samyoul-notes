@@ -1,3 +1,23 @@
+# 2020-12-18
+
+## Ad Hoc
+
+- [x] Resolve weird issue on my machine where make vendor has started throwing `modvendor: command not found`
+  - Caused by an Apple update https://stackoverflow.com/a/59138750/1700106
+  - Solution was to rename `./bash_profile` to `./zprofile`
+- [x] Compile list of known technical debt in `status-go`
+  - [Document Here](https://notes.status.im/cLQWkUEbTQmsIvUGAyj95A)
+  - Based on the `//TODO` items in the code
+  - Gone through all directories up to `protocol`, need to finish `protocol`, all `protocol` sub directories and all remaining directories
+
+## Schedule
+
+- [x] 14:00 GMT - Core Retro
+  - https://meet.google.com/hqw-nsfk-xoq
+  - A review / summary of the year.
+
+---
+
 # 2020-12-17
 
 ## Pulls
