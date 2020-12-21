@@ -1,3 +1,14 @@
+# 2020-12-21
+
+## Review
+
+- [x] [#2046 - Communities](https://github.com/status-im/status-go/pull/2046) - `approved`
+- [x] [status-im/specs#150 - Feature/org channels](https://github.com/status-im/specs/pull/151) - `feedback`
+  - Discussing primarily the functionality related to the `grant` concept
+  - [details](https://github.com/status-im/specs/pull/151#discussion_r546714736)
+  
+---
+
 # 2020-12-18
 
 ## Ad Hoc
