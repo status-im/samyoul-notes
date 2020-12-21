@@ -10,6 +10,11 @@
   - Based on the `//TODO` items in the code
   - Gone through all directories up to `protocol`, need to finish `protocol`, all `protocol` sub directories and all remaining directories
 
+## Review
+
+- [x] [#2046 - Communities](https://github.com/status-im/status-go/pull/2046) - `feedback`
+  - Initial review require a deeper review of the core functionality
+
 ## Schedule
 
 - [x] 14:00 GMT - Core Retro
