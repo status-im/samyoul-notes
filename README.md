@@ -1,5 +1,11 @@
 # 2020-12-22
 
+## AdHoc
+
+- Quirk that prevented tests from running
+  - `xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun`
+  - [Solution](https://ma.ttias.be/mac-os-xcrun-error-invalid-active-developer-path-missing-xcrun/)
+
 ## Pulls
 
 - [x] [#2100 - Expand Local Notifications](https://github.com/status-im/status-go/pull/2100) - `debugging`
