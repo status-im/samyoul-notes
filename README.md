@@ -1,4 +1,22 @@
+# 2020-12-22
+
+## Pulls
+
+- [x] [#2100 - Expand Local Notifications](https://github.com/status-im/status-go/pull/2100) - `debugging`
+  - Resolved the weird bug where adding `MarshalJSON()` to the `Notification` struct would result in a fail
+    - Initially I thought that the problem was because the `signal.send()` was handling the `json.Marshalling` in a strange way
+    - The real bug was in `signal.send()` and caused by the new `Body.Type` field not being set.
+    - This wasn't immediately obvious because `signal.send()` uses a logger to record errors and the logger wasn't printing to the terminal, therefore a failed marshal resulted in an error not about the thing that had actually gone wrong, adding lots of `spew.Dumps()` helped
+    - A minor note the `signal` package has some weird structure, for example setting and getting a package var as a kind of global, therefore maintaining an implicit "package state".    
+
+---
+
 # 2020-12-21
+
+## Pulls
+
+- [x] [#2100 - Expand Local Notifications](https://github.com/status-im/status-go/pull/2100) - `debugging`
+  - Working on a weird bug where adding `MarshalJSON()` to the `Notification` struct would result in a fail.
 
 ## Review
 
