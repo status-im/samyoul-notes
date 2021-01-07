@@ -1,3 +1,17 @@
+# 2020-12-23
+
+## Pulls
+
+- [x] [#2100 - Expand Local Notifications](https://github.com/status-im/status-go/pull/2100) - `commits`
+
+
+## Schedule
+
+- [x] 14:00 GMT - Samuel & Andrea 1-to-1
+  - https://meet.google.com/rhy-trwc-ybb
+
+---
+
 # 2020-12-22
 
 ## AdHoc
