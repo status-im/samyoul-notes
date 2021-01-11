@@ -1,3 +1,21 @@
+# 2021-01-11
+
+## Pulls
+- [x] [#2100 - Expand Local Notifications](https://github.com/status-im/status-go/pull/2100) - `commits`, `submitted`
+
+## Reviews
+- [x] [#2112 - Cache waku messages](https://github.com/status-im/status-go/pull/2112) - `approved`
+- [x] [#2111 - Send abridged version of history with messages in group chats](https://github.com/status-im/status-go/pull/2111) - `approved`
+
+---
+
+# 2021-01-08
+
+## Pulls
+- [x] [#2100 - Expand Local Notifications](https://github.com/status-im/status-go/pull/2100) - `commits`
+
+---
+
 # 2021-01-07
 
 # Reviews
@@ -16,13 +34,19 @@
   - [Document Here](https://notes.status.im/cLQWkUEbTQmsIvUGAyj95A?view)
   - Now can be done automatically with the help of the [Todos To Docs](https://github.com/status-im/todo-to-docs)
 
+---
+
 # 2021-01-06
 
 // TODO
 
+---
+
 # 2021-01-05
 
 // TODO
+
+---
 
 # 2021-01-04
 
