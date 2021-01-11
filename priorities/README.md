@@ -7,7 +7,6 @@
 
 ## Personal
 
-1. [1.8 - Add profile photo](#add-profile-photo)
 1. [Improved device syncing](#improved-device-syncing)
 1. [Pending Transactions](#pending-transactions)
 1. [`TRANSACTION_COMMANDS` Specs](#transaction_commands-specs)
@@ -28,19 +27,6 @@
   - Make process flow unsyncron
   - Make process flow for installation of sync multiple
   - make process flow for unsyncron for multiple devices
-
-### Add profile photo
-
-[status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047)
-
-- **Notes :**
-  - Avatars
-    - [Avatar introduction](https://notes.status.im/vk29m0ZjT1WClNR1BR8msg?both)
-    - [Avatar renderer experiment / prototype](https://github.com/status-im/avatar)
-  - Profile Images
-    - [Research on vector based profile images](https://notes.status.im/0MWyryTPQleMWe31K0L7gg?both)
-    - [Profile images spec V2](https://notes.status.im/oUChlPB3Q2aUPLYBSjq6MQ?both)
-    - [Profile images spec V1](https://notes.status.im/CQ-GGYmAR3aM8qUABgedWg?both)
 
 ### Status chat inside dapps
 

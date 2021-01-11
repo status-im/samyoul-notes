@@ -1,5 +1,20 @@
 # Resolved Priorities
 
+### Add profile photo
+
+[status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047)
+
+- **Notes :**
+  - Avatars
+    - [Avatar introduction](https://notes.status.im/vk29m0ZjT1WClNR1BR8msg?both)
+    - [Avatar renderer experiment / prototype](https://github.com/status-im/avatar)
+  - Profile Images
+    - [Research on vector based profile images](https://notes.status.im/0MWyryTPQleMWe31K0L7gg?both)
+    - [Profile images spec V2](https://notes.status.im/oUChlPB3Q2aUPLYBSjq6MQ?both)
+    - [Profile images spec V1](https://notes.status.im/CQ-GGYmAR3aM8qUABgedWg?both)
+
+---
+
 ## Reading List
 
 - [x] `2020-07-07` - [Feature request category](https://discuss.status.im/t/feature-request-category/1698) 
