@@ -1,7 +1,49 @@
+# 2021-01-25
+
+## PRs
+- [x] [Crypto On Ramps](https://github.com/status-im/crypto-on-ramps) - `commits`
+  - Addresses [status-react#11644 - Add list of website where you can buy crypto](https://github.com/status-im/status-react/issues/11644)
+
+## Reviews
+- [x] [#2126 - Pass topics to mailserver cursor](https://github.com/status-im/status-go/pull/2126) - `approved`
+- [x] [#2125 - fix "Pending" status for messages in private group chat](https://github.com/status-im/status-go/pull/2125) - `approved`, `discussed`
+- [x] [#2122 - Add export/import methods](https://github.com/status-im/status-go/pull/2122) - `approved`
+- [x] [#2121 - Clean topics that we don't listen to](https://github.com/status-im/status-go/pull/2121) - `approved`
+- [x] [#2127 - Fix segmentation failure on mailserver](https://github.com/status-im/status-go/pull/2127) - `approved`
+- [x] [#2120 - Use personal topic for push notification registration](https://github.com/status-im/status-go/pull/2120) - `approved`
+- [x] [#2119 - Skip wrapping emojis in private group chats](https://github.com/status-im/status-go/pull/2119) - `feedback`
+
+## Schedule
+- [x] 14:30 BST - Q1 Core Priorities (Andrea and Sam)
+  - https://meet.google.com/mnb-bnzo-ydj?
+  - **Crypto onboarding**
+    - https://github.com/status-im/status-react/issues/11644
+    - https://www.figma.com/file/XUehMnhyD1FGcWzvGz6SXqvh/Wallet?node-id=10672%3A43638
+
+---
+
+# All the intervening day
+
+- Sleep training my daughter
+
+---
+
+# 2021-01-12
+
+## Pulls
+- [x] [#2100 - Expand Local Notifications](https://github.com/status-im/status-go/pull/2100) - `commits`, `merged`
+- [x] [Animated Image Manipulation](https://github.com/status-im/animated-image-manipulation) - `commits`
+  - **Issues :**
+    - Re-encoding resized gifs give an error `fail to encode gif lzw: input byte too large for the litWidth`
+    - Resizer changes the image type from `image.Paletted` to `image.RGBA64`, (which may be related to the above issue)
+
+---
+
 # 2021-01-11
 
 ## Pulls
 - [x] [#2100 - Expand Local Notifications](https://github.com/status-im/status-go/pull/2100) - `commits`, `submitted`
+- [x] Continued work on basic gif manipulation repo, for researching gif profile images and gif type chat messages
 
 ## Reviews
 - [x] [#2112 - Cache waku messages](https://github.com/status-im/status-go/pull/2112) - `approved`
@@ -13,6 +55,7 @@
 
 ## Pulls
 - [x] [#2100 - Expand Local Notifications](https://github.com/status-im/status-go/pull/2100) - `commits`
+- [x] Began work on basic gif manipulation repo, for researching gif profile images and gif type chat messages
 
 ---
 
