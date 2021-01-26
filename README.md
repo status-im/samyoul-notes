@@ -1,3 +1,20 @@
+# 2021-01-26
+
+## AdHoc
+- [x] Setting up `status-react`
+
+## PRs
+- [x] [Crypto On Ramps](https://github.com/status-im/crypto-on-ramps) - `commits`
+  - Changed json from `kebab-case` to `camelCase`
+- [x] [#2131 - Adding Crypto On Ramp API Endpoint to Wallet Service](https://github.com/status-im/status-go/pull/2131) - `created`, `commits`
+
+## Reviews
+- [x] [#2128 - Confirmation setting fixed for mailservers](https://github.com/status-im/status-go/pull/2128) - `approved`, `feedback`
+- [x] [#2129 - Confirmations processing fixed on client side](https://github.com/status-im/status-go/pull/2129) - `approved`
+- [x] [#2130 - Add back notification code](https://github.com/status-im/status-go/pull/2130) - `approved`
+
+---
+
 # 2021-01-25
 
 ## PRs
@@ -22,7 +39,7 @@
 
 ---
 
-# All the intervening day
+# All the intervening days
 
 - Sleep training my daughter
 
