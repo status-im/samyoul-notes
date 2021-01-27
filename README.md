@@ -1,7 +1,31 @@
+# 2021-01-27
+
+## AdHoc
+- [x] Anonymous Metrics info from Shivek
+  - [Background overview](https://discuss.status.im/t/waku-based-analytics/2082)
+  - [System Overview](https://miro.com/app/board/o9J_lY7ZiUI=/)
+  - [Data we want to collect](https://docs.google.com/spreadsheets/d/1dGX57QbnRrSGHdz49vG0JevEmbPQbgRdQ0ROe1ZULRQ/edit#gid=0)
+  - [Hester's notes](https://notes.status.im/anonymous-metrics)
+  - [Frontend implementation draft](https://notes.status.im/s/Gae7Ocb28)
+
+## PRs
+- [x] [#2131 - Adding Crypto On Ramp API Endpoint to Wallet Service](https://github.com/status-im/status-go/pull/2131) - `commits`
+
+## Schedule
+- [x] 13:30 GMT - Fiat <> Crypto Onramp Sync
+  - https://meet.google.com/pzc-efwz-nyj
+  - [Notes](https://notes.status.im/eTU27ajnSteRWYCoCceYCQ?both)
+- [x] 14:00 GMT - Andrea & Samuel 1-to-1
+  - https://meet.google.com/rhy-trwc-ybb
+  - Intro to building out new features in `status-react`
+
+---
+
 # 2021-01-26
 
 ## AdHoc
 - [x] Setting up `status-react`
+- [x] Learning the ways of Clojure 
 
 ## PRs
 - [x] [Crypto On Ramps](https://github.com/status-im/crypto-on-ramps) - `commits`
@@ -12,6 +36,10 @@
 - [x] [#2128 - Confirmation setting fixed for mailservers](https://github.com/status-im/status-go/pull/2128) - `approved`, `feedback`
 - [x] [#2129 - Confirmations processing fixed on client side](https://github.com/status-im/status-go/pull/2129) - `approved`
 - [x] [#2130 - Add back notification code](https://github.com/status-im/status-go/pull/2130) - `approved`
+
+## Schedule
+- [x] status react set up (Andrea & Samuel)
+  - https://meet.google.com/cjk-pdjc-xew
 
 ---
 
