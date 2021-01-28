@@ -1,3 +1,17 @@
+# 2021-01-28
+
+## PRs
+- [x] [#2131 - Adding Crypto On Ramp API Endpoint to Wallet Service](https://github.com/status-im/status-go/pull/2131) - `commits`, `submitted`
+
+## Reviews
+- [x] [#2136 - Make sure tokens balance can be fetched](https://github.com/status-im/status-go/pull/2136) - `approved`, `feedback`
+
+## Schedule
+- [x] 09:00 GMT - Pairing `status-react` (Andrea & Samuel)
+  - https://meet.google.com/xdm-ecdg-fyq
+
+---
+
 # 2021-01-27
 
 ## AdHoc
