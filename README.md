@@ -1,3 +1,20 @@
+# 2021-01-29
+
+## AdHoc
+- [x] Preparation for anonymous metrics and scoping go implementation
+
+## Schedule
+- [x] 09:00 GMT - Pairing `status-react` (Andrea & Samuel)
+  - https://meet.google.com/zrn-ovoh-tdk
+- [x] 13:00 GMT - Sync anonymous metrics
+  - https://meet.google.com/boj-gnpj-qoc
+  - https://notes.status.im/anonymous-metrics
+- [x] 14:00 GMT - Core Retro
+  - https://meet.google.com/hqw-nsfk-xoq
+  - https://notes.status.im/core-retro-2021-01-29?both
+
+---
+
 # 2021-01-28
 
 ## PRs
