@@ -1,3 +1,20 @@
+# 2021-02-03
+
+## Reviews
+- [x] [#2123 - 🐱 Giphy and Tenor preview data](https://github.com/status-im/status-go/pull/2123) - `approved`
+
+## PRs
+- [x] [#2142 - Adding Transactions messages to the localnotifications](https://github.com/status-im/status-go/pull/2142) - `submitted`, `commits`
+
+## Schedule
+- [x] 13:30 GMT - Fiat <> Crypto Onramp Sync
+  - https://meet.google.com/pzc-efwz-nyj
+- [x] 14:00 GMT - pairing on ramp
+  - https://meet.google.com/rhy-trwc-ybb
+  - https://github.com/status-im/status-react/pull/11698
+
+---
+
 # 2021-02-02
 
 ## Pulls
