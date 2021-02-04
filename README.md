@@ -1,3 +1,15 @@
+# 2021-02-04
+
+## PRs
+- [x] Private profile images
+
+## Schedule
+- [x] 14:15 GMT - pairing on ramp
+  - https://meet.google.com/rhy-trwc-ybb
+  - https://github.com/status-im/status-react/pull/11698
+
+---
+
 # 2021-02-03
 
 ## Reviews
