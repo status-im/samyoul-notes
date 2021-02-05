@@ -1,3 +1,15 @@
+# 2021-02-05
+
+## PRs
+- [x] Private profile images
+
+## Schedule
+- [x] 14:30 GMT - pairing on ramp
+  - https://meet.google.com/mdh-xxms-acy
+  - https://github.com/status-im/status-react/pull/11698
+
+---
+
 # 2021-02-04
 
 ## PRs
@@ -5,7 +17,7 @@
 
 ## Schedule
 - [x] 14:15 GMT - pairing on ramp
-  - https://meet.google.com/rhy-trwc-ybb
+  - https://meet.google.com/gck-mdax-bdz
   - https://github.com/status-im/status-react/pull/11698
 
 ---
