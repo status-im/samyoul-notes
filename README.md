@@ -1,3 +1,10 @@
+# 2021-02-08
+
+## PRs
+- [x] Private profile images
+
+---
+
 # 2021-02-05
 
 ## PRs
