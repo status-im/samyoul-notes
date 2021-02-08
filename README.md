@@ -9,6 +9,7 @@
 
 ## PRs
 - [x] Private profile images
+- [x] [status-react#11698 buy crypto](https://github.com/status-im/status-react/pull/11698) - `commits`
 
 ## Schedule
 - [x] 14:30 GMT - pairing on ramp
