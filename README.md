@@ -22,6 +22,8 @@
 
 ## PRs
 - [x] Private profile images
+- [x] [Crypto On Ramps](https://github.com/status-im/crypto-on-ramps) - `commits`
+  - Added `hostname` field to on-ramp object
 
 ## Schedule
 - [x] 14:15 GMT - pairing on ramp
