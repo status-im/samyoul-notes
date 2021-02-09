@@ -1,4 +1,20 @@
+# 2021-02-09
+
+## PRs
+- [x] Private profile images
+- [x] [#2142 - Adding Transactions messages to the localnotifications](https://github.com/status-im/status-go/pull/2142) - `commits`
+
+## Reviews
+- [x] [#2145 - \[wallet\] Merge blocks ranges when possible](https://github.com/status-im/status-go/pull/2145) - `feedback`, `approved`
+
+---
+
 # 2021-02-08
+
+## Ad Hoc
+- [x] [#2142 - Adding Transactions messages to the localnotifications](https://github.com/status-im/status-go/pull/2142)
+  - Debugging client not receiving notification message
+  - Debugging `status-go` returning nil `Chat` and `Contact`s
 
 ## PRs
 - [x] Private profile images
