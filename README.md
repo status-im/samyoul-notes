@@ -1,3 +1,13 @@
+# 2021-02-10
+
+## Schedule
+- [x] 13:30 GMT - Fiat <> Crypto Onramp Sync
+  - https://meet.google.com/pzc-efwz-nyj
+- [x] 14:00 GMT - Andrea & Samuel 1-to-1
+  - https://meet.google.com/rhy-trwc-ybb
+
+---
+
 # 2021-02-09
 
 ## PRs
