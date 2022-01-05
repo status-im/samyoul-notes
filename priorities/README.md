@@ -1,17 +1,23 @@
 # Priorities
 
 - [Personal](#personal)
+  - [Current](#current)
+  - [Lower Priorities](#lower-priorities)
 - [Team](#team)
 - [Reading List](#reading-list)
 - [Resolved](./RESOLVED.md)
 
 ## Personal
 
+### Current
+
 1. [Improved device syncing](#improved-device-syncing)
+
+### Lower Priorities
+
 1. [Pending Transactions](#pending-transactions)
 1. [`TRANSACTION_COMMANDS` Specs](#transaction_commands-specs)
 1. [SNT Reactions](#snt-reactions)
-1. [Messengers acquires a lock for very long time](#messengers-acquires-a-lock-for-very-long-time)
 1. [Protocol Specs](#protocol-specs)
 1. [1.8 - Status chat inside dapps](#status-chat-inside-dapps)
 
@@ -62,11 +68,6 @@
 
 - **Notes:**
   - [See Emoji reactions](RESOLVED.md#emoji-reactions)
-
-### Messengers acquires a lock for very long time
-
-1) [#1936 - Messengers acquires a lock in some methods for very long time](https://github.com/status-im/status-go/issues/1936)
-
 
 ### Protocol Specs
 

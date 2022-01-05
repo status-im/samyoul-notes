@@ -1,5 +1,11 @@
 # Resolved Priorities
 
+### Messengers acquires a lock for very long time
+
+1) [#1936 - Messengers acquires a lock in some methods for very long time](https://github.com/status-im/status-go/issues/1936)
+  - Resolved with https://github.com/status-im/status-go/pull/2181
+  - Merged in with https://github.com/status-im/status-go/pull/2199
+
 ### Add profile photo
 
 [status-react#11047 - Add profile photo](https://github.com/status-im/status-react/issues/11047)
