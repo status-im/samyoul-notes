@@ -12,8 +12,11 @@
 
 ## Schedule
 
-- [ ] 15:00 – 16:00 - Mobile Retro
+- [x] 15:00 – 16:00 - Mobile Retro
   - https://meet.google.com/ozd-mhvv-dzr
+  - **Notes**
+    - https://notes.status.im/core-retro-2022-01-05
+    - privacy preserving contacts - https://signal.org/blog/private-contact-discovery/
 
 ---
 
