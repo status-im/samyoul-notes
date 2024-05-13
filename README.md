@@ -2,13 +2,13 @@
 
 ## Pulls
 
-- [ ] [Sync Settings](https://github.com/status-im/status-go/pull/2478) - `commits`
+- [x] [Sync Settings](https://github.com/status-im/status-go/pull/2478) - `commits`
 
 ## Reviews
 
-- [ ] [#2477 - fix membership requests on synced devices](https://github.com/status-im/status-go/pull/2477)
-- [ ] [#2474 - chore: execute nodecfg migration as part of db migrations](https://github.com/status-im/status-go/pull/2474)
-- [ ] [#2470 - feat: extract node config from settings to individual tables](https://github.com/status-im/status-go/pull/2470)
+- [x] [#2477 - fix membership requests on synced devices](https://github.com/status-im/status-go/pull/2477)
+- [x] [#2474 - chore: execute nodecfg migration as part of db migrations](https://github.com/status-im/status-go/pull/2474)
+- [x] [#2470 - feat: extract node config from settings to individual tables](https://github.com/status-im/status-go/pull/2470)
 
 ## Schedule
 
