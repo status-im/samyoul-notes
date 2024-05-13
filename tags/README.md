@@ -1,7 +1,7 @@
 # Tags
 
 | Name          | Description                                                      |
-| ------------- | ---------------------------------------------------------------- |
+|---------------|------------------------------------------------------------------|
 | `addressed`   | Denotes that an item has received resolving attention            |
 | `approved`    | Related to Pull Request (PR) requests for review                 |
 | `closed`      | Denotes that an item was closed to further discussion            |
