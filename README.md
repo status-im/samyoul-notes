@@ -6,6 +6,7 @@
   - I've analysed the main components of the wallet router, see here:
     - [wallet/Router file analysis](./analysis/wallet_router.md)
     - [wallet/Router struct usage](./analysis/wallet_router_usage.md)
+    - [wallet/Router `newSuggestedRoutes()`](./analysis/wallet_router_newSuggestedRoutes.md)
 
 ## Schedule
 - I raised an axe to the crew meetings, swung hard and true. Toppled and prostrate they settled motionless. Tonight we revel in the light of their embers!
