@@ -17,7 +17,7 @@
   - Represents a transaction path including details like from/to networks, fees, and estimated costs.
 - `Router`
   - Manages routing of transactions using different bridges defined for various transaction types.
-  - [Usage analysis](./wallet_router_usage.md)
+  - [Usage analysis](./usage.md)
   - **Functions:**
     - `requireApproval()`
       - Determines if token approval is required before executing a transaction over a bridge.
@@ -30,7 +30,7 @@
       - Determines if a specified blockchain network's Chain ID is present within a given list of Chain IDs
     - `newSuggestedRoutes()`
       - newSuggestedRoutes function is a crucial part of the route selection and optimization process routing transactions across potentially complex network paths.
-      - [Detailed Analysis of `newSuggestedRoutes()`](./wallet_router_newSuggestedRoutes.md)
+      - [Detailed Analysis of `newSuggestedRoutes()`](./newSuggestedRoutes.md)
 
 # Transaction Handling
 - The code handles transactions through various bridges which abstract the different transaction types.

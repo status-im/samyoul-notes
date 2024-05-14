@@ -1,5 +1,7 @@
 # Initialisation
-The `Router` struct is only initialised in one place in the application, in `wallet/api.go`:
+The `Router` struct is only initialised in one place in the application, in `wallet/api.go`.
+
+The consumption complexity is very low:
 
 ```go
 func NewAPI(s *Service) *API {
