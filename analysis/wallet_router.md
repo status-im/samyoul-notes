@@ -25,6 +25,12 @@
       - Fetch balance of ERC20 or ERC1155 tokens respectively.
     - `suggestedRoutes()`
       - Suggests possible transaction routes based on constraints like disabled or preferred chain IDs, and calculates fees and estimated transaction times.
+  - **Exclusive Utility Functions:**
+    - `containsNetworkChainID()`
+      - Determines if a specified blockchain network's Chain ID is present within a given list of Chain IDs
+    - `newSuggestedRoutes()`
+      - newSuggestedRoutes function is a crucial part of the route selection and optimization process routing transactions across potentially complex network paths.
+      - [Detailed Analysis of `newSuggestedRoutes()`](./wallet_router_newSuggestedRoutes.md)
 
 # Transaction Handling
 - The code handles transactions through various bridges which abstract the different transaction types.
