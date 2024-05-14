@@ -17,6 +17,7 @@
   - Represents a transaction path including details like from/to networks, fees, and estimated costs.
 - `Router`
   - Manages routing of transactions using different bridges defined for various transaction types.
+  - [Usage analysis](./wallet_router_usage.md)
   - **Functions:**
     - `requireApproval()`
       - Determines if token approval is required before executing a transaction over a bridge.
