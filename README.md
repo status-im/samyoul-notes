@@ -1,4 +1,17 @@
-# 2022-05-13
+# 2024-05-14
+
+## Scoping
+
+- Wallet Router
+  - I've analysed the main components of the wallet router, see here:
+    - [wallet/router analysis](./analysis/wallet_router.md)
+
+## Schedule
+- I raised an axe to the crew meetings, swung hard and true. Toppled and prostrate they settled motionless. Tonight we revel in the light of their embers!
+
+---
+
+# 2024-05-13
 
 ## Scoping
 
