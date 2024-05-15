@@ -105,9 +105,10 @@ This function aims to filter routes based on "locked amounts" specified for each
 
 ### Potential Improvements:
 - **Optimise the Inner Loops:**
-  - The calculation of restAmountIn could be optimized. Instead of recalculating it for each path in the route, it could be calculated once per route and then adjusted for each path.
+  - The calculation of `restAmountIn` could be optimized. Instead of recalculating it for each path in the route, it could be calculated once per route and then adjusted for each path.
 - **Memoisation:**
   - If the routes and locked amounts do not change frequently, we could use memoisation to cache results for certain input combinations and possibly improve performance.
+  - [The Wikipedia about memoisation](https://en.wikipedia.org/wiki/Memoization)
 - **Concurrency:**
   - Processing routes in parallel could speed up the filtering significantly.
 
@@ -116,7 +117,10 @@ The function is complex and handles a lot of logic, which might make it hard to 
 
 It could benefit from being broken down into smaller, more manageable functions that handle specific parts of the logic. Example the setup of `fromIncluded` and `fromExcluded`, or the calculations of `requiredAmountIn` and `restAmountIn`.
 
-TODO - Add a suggested function PR.
+- [see my suggested structure for `filterRoutes`](./code/filterRoutes.go)
+  - I've split the different nested functions apart to me the code more modular and testable.
+  - I've also renamed "level1Filter" and "level2Filter" to "NetworkComplianceFilter" and "CapacityValidationFilter"
+    - Just to make the purpose of these more understandable.
 
 ### Error Handling:
 There is no error handling or validation for the inputs (checking for nil pointers, etc.).

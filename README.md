@@ -1,5 +1,9 @@
 # 2024-05-15
 
+## Coding
+- `filterRoutes` is a very complex function, and it is very difficult to read. I've split it apart and named the levels of filter after what they do rather when they happen.
+  - [See here for details](./analysis/wallet/Router/code/filterRoutes.go)
+
 ## Reviews
 
 - https://github.com/status-im/status-go/pull/5159
