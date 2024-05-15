@@ -1,10 +1,20 @@
+# 2024-05-15
+
+## Scoping
+
+- Wallet Router
+  - Complete analysis for the `findBest` function:
+    - [See here for details `findBest`](./analysis/wallet/Router/newSuggestedRoutes.md#findbest)
+
+---
+
 # 2024-05-14
 
 ## Scoping
 
 - Wallet Router
   - I've analysed the main components of the wallet router, see here:
-    - [wallet/Router file analysis](./analysis/wallet/Router/overview.md)
+    - [wallet/Router file analysis](./analysis/wallet/Router/README.md)
     - [wallet/Router struct usage](./analysis/wallet/Router/usage.md)
     - [wallet/Router `newSuggestedRoutes()`](./analysis/wallet/Router/newSuggestedRoutes.md)
 
