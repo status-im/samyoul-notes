@@ -1,10 +1,18 @@
 # 2024-05-15
 
+## Reviews
+
+- https://github.com/status-im/status-go/pull/5159
+  - I gave a rather thorough review of Sale's raft PR
+  - This PR attempts to resolve or more easily identify problems with the Router by reducing the surface area of the code.
+
 ## Scoping
 
 - Wallet Router
   - Complete analysis for the `findBest` function:
     - [See here for details `findBest`](./analysis/wallet/Router/newSuggestedRoutes.md#findbest)
+  - Completed analysis of the `filterRoutes` function:
+    - [See here for details `filterRoutes`](./analysis/wallet/Router/newSuggestedRoutes.md#filterroutes)
 
 ---
 

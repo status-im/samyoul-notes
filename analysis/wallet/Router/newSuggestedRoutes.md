@@ -24,7 +24,7 @@ A list of potential paths that have been pre-determined as possible routes for t
 ### `fromLockedAmount map[uint64]*hexutil.Big`
 A map indicating amounts locked or reserved on specific networks, possibly affecting the viability of certain paths.
 
-### `filterRoutes` and [`findBest`](#findbest)
+### [`filterRoutes`](#filterRoutes) and [`findBest`](#findbest)
 Helper functions that might be used within `newSuggestedRoutes` to filter out infeasible paths and then select the optimal path based on the criteria. These functions represent core logic for determining the best routes from a set of candidates.
 
 TODO Additional analysis is required for both of these.
@@ -54,7 +54,7 @@ The function searches for the route with the minimum total cost.
 - 5: Return Value:
   - After processing all `routes`, it returns the route with the lowest total cost as `best`. 
 
-### Review
+### Analysis
 The function is straightforward, and finds the route with the lowest cost. However, I've highlighted a few potential improvements to consider:
 
 - Precision and Performance:
@@ -70,3 +70,53 @@ The function is straightforward, and finds the route with the lowest cost. Howev
 - Flexibility:
   - Currently, the function only minimises cost. If we need to optimise other metrics (e.g. speed, shortest path, etc)
   - We could consider passing in a comparator function as an argument.
+
+---
+
+## `filterRoutes`
+
+This function aims to filter routes based on "locked amounts" specified for each network (chain ID) and the required `amountIn`. It uses `fromLockedAmount` to constrain two main levels of filtering to determine which routes are viable.
+
+### Function stages:
+- 1: Initial Check:
+  - If the `fromLockedAmount` map is empty, it immediately returns all the routes as valid because there are no constraints to apply.
+- 2: First Level of Filtering (`filteredRoutesLevel1`):
+  - It initializes `fromIncluded` and `fromExcluded` maps based on the `fromLockedAmount` values:
+    - If the locked amount for a chain ID is zero, that chain ID is marked as excluded.
+    - If the locked amount is non-zero, that chain ID needs to be included, and the route must pass through it.
+  - For each route, it checks:
+    - If any of the route's paths are on an excluded chain ID (`fromExcluded`), the route is marked **not** OK (`routeOk = false`).
+    - If a path's chain ID is in `fromIncluded`, it marks that chain ID as having been included in the route.
+    - Finally, it ensures that all required (`fromIncluded`) chain IDs are indeed part of the route. If any are missing, the route is marked **not** OK.
+  - Only routes that are marked OK are passed to the next level of filtering.
+- 3: Second Level of Filtering (`filteredRoutesLevel2`):
+  - For each route that passed the first level:
+    - 1: checks every path in the route against the `fromLockedAmount` to determine if the remaining routes can satisfy the locked amount conditions.
+    - 2: calculates `requiredAmountIn` by subtracting the locked amount for the path's chain ID from the total `amountIn`.
+    - 3: then calculates `restAmountIn` by summing the `MaxAmountIn` of all other paths in the route, excluding the current one.
+    - 4: If `restAmountIn` (the total potential input from other paths) is sufficient to cover `requiredAmountIn`, it "locks" the amount for that path.
+      - It could be worth renaming the word "lock" to something like "allocates" or "assigns"
+    - 5: Else, the route is marked **not** OK (`routeOk = false`).
+  - Routes that pass this check are added to `filteredRoutesLevel2`.
+
+## Analysis:
+### Efficiency Concerns:
+- The function performs nested loops over potentially large sets of routes and paths, which can be computationally intensive, especially with the additional checks and conditions within each loop.
+
+### Potential Improvements:
+- **Optimise the Inner Loops:**
+  - The calculation of restAmountIn could be optimized. Instead of recalculating it for each path in the route, it could be calculated once per route and then adjusted for each path.
+- **Memoisation:**
+  - If the routes and locked amounts do not change frequently, we could use memoisation to cache results for certain input combinations and possibly improve performance.
+- **Concurrency:**
+  - Processing routes in parallel could speed up the filtering significantly.
+
+### Maintainability:
+The function is complex and handles a lot of logic, which might make it hard to maintain or debug.
+
+It could benefit from being broken down into smaller, more manageable functions that handle specific parts of the logic. Example the setup of `fromIncluded` and `fromExcluded`, or the calculations of `requiredAmountIn` and `restAmountIn`.
+
+TODO - Add a suggested function PR.
+
+### Error Handling:
+There is no error handling or validation for the inputs (checking for nil pointers, etc.).
