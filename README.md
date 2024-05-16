@@ -1,3 +1,43 @@
+# 2024-05-16
+
+## Issues
+
+- [Remove torrent dependencies at build time for mobile #5146](https://github.com/status-im/status-go/issues/5146) `scoped`
+  - Identified where the imports are present in the code
+    - https://github.com/status-im/status-go/issues/5146#issuecomment-2114657333
+  - Identified a viable implementation approach.
+    - https://github.com/status-im/status-go/issues/5146#issuecomment-2115244124
+  - Further work needs to be done to scope how the restructuring of something as big and important as the Communities Manager.
+    - Initialisation of the Communities Manager should be written in dedicated platform-centric files.
+      - Calling the Torrent logic should be done via a callback function within the dedicated file.
+      - As little code as possible should be in the platform-centric files.
+    - Torrent logic should be stripped out and moved into a dedicated file.
+      - Add build restrictions to the torrent file.
+
+## Reviews
+
+- https://github.com/status-im/status-go/pull/5159 `approved`, `feedback`
+  - A re-review after Sale made some changes in response to all of the feedback given.
+  - I've suggested one opinion based change based on function signature complexity, aside from that I've approved the PR.
+
+## Schedule
+
+- [x] 11:00 - 12:00 : Andrea and Samuel 1:1
+  - https://meet.google.com/rhy-trwc-ybb
+  - <details>
+    <summary style="color:red;">Confidential</summary>
+      <img src="./attachments/2024-05/200w.gif" title="Dennis Nedry - Jurassic Park" alt="&quot;Ah ah aaaah. You didn't say the magic word.&quot;"/>
+    </details>
+- [x] 13:00 - 13:30 : mobile-core planning
+  - https://meet.google.com/azr-ppob-obc
+  - Team stand-ups
+  - Reviewed current milestone goals
+  - Discussed next release cut timeline
+  - Overview of longer term milestone goals
+  - Brief discussion about how much I don't care about github issue labels.
+
+---
+
 # 2024-05-15
 
 ## Coding
