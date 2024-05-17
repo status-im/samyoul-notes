@@ -2,10 +2,11 @@
 
 ## Pulls
 
-- https://github.com/status-im/status-go/pull/5177
+- [Router Filter Modularisation #5177](https://github.com/status-im/status-go/pull/5177) `created`, `commits`, `research`, `scoping`
   - I've implemented the modularisation of the `filterRoutesV2` function.
   - In addition, I've added tests to check the functionality works as expected:
-    - TODO add list
+    - The list is a bit huge, so look at this comment:
+      - https://github.com/status-im/status-go/pull/5177#issuecomment-2118233055
   - Some tests are failing, [see here for details](./attachments/2024-05/filter_test_results.md)
 
 # 2024-05-16
