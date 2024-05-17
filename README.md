@@ -1,3 +1,13 @@
+# 2024-05-17
+
+## Pulls
+
+- https://github.com/status-im/status-go/pull/5177
+  - I've implemented the modularisation of the `filterRoutesV2` function.
+  - In addition, I've added tests to check the functionality works as expected:
+    - TODO add list
+  - Some tests are failing, [see here for details](./attachments/2024-05/filter_test_results.html)
+
 # 2024-05-16
 
 ## Issues
