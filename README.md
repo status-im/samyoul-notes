@@ -6,7 +6,7 @@
   - I've implemented the modularisation of the `filterRoutesV2` function.
   - In addition, I've added tests to check the functionality works as expected:
     - TODO add list
-  - Some tests are failing, [see here for details](./attachments/2024-05/filter_test_results.html)
+  - Some tests are failing, [see here for details](./attachments/2024-05/filter_test_results.md)
 
 # 2024-05-16
 
