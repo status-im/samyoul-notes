@@ -1,3 +1,13 @@
+# 2024-05-20
+
+## Pulls
+
+- [Router Filter Modularisation #5177](https://github.com/status-im/status-go/pull/5177)
+  - REsolved a number of weird corruption issues with my local repo of `status-go`, see the comments from today:
+    - https://github.com/status-im/status-go/pull/5177#issuecomment-2120187378
+
+---
+
 # 2024-05-17
 
 ## Pulls
