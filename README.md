@@ -1,3 +1,57 @@
+# 2024-05-21
+
+## Pulls
+
+- [Router Filter Modularisation #5177](https://github.com/status-im/status-go/pull/5177)
+  - Fixes to capacity logic
+
+## Schedule
+
+- [x] SendModal designs review : 10:00 – 12:00
+  - https://meet.google.com/qdq-wrzq-mha
+  - Meeting notes
+    - https://www.notion.so/Wallet-Desktop-Core-Sync-638b257c27c8493bb6e0552e0c64d969
+    - https://www.figma.com/design/FkFClTCYKf83RJWoifWgoX/Wallet-v2?node-id=23480-273462&t=fubB8mAUPncc0Upv-0
+  - **Attendees:**
+    - Sale (Facilitator)
+    - Alisher
+    - Ben
+    - Magnus
+    - Michal C
+    - Myself
+  - A very in depth meeting reviewing the send flows of desktop.
+  - **Key Decisions:**
+    - Reduce the scope of the Send, Bridge and Swap UI designs for 2.30
+    - UI and design to work together
+      - Desktop UI should detail what is feasible for the 2.30 release
+      - Alisher and Ben are supportive of facilitating a highly iterative framework.
+      - Alisher and Ben will adapt sending flows as required
+    - Michal and Sale would discuss the best process for improving the UI while at the same time being able to deliver something. Include Noelia
+    - Identified distinctions between the concepts of backend `Router` and UI `Router`
+      - Backend `Router` is a logic model for sending blockchain tokens. This model contains functionality that manages:
+        - Calculating the best path for any given transaction requirements:
+          - From address(es)
+          - To address(es)
+          - From network(s)
+          - To network(s)
+          - From token type(s)
+          - To token type(s)
+        - The `Router` is capable of using multiple input tokens and addresses to plan a route to multiple output addresses and tokens.
+          - The `Router` determines which swaps and bridges may be required to achieve the goal
+      - Backend `Router` can be called by multiple UI components:
+        - Bridging
+        - Sending
+        - Swapping
+      - Backend `Router` handles all of these transaction types internally.
+      - UI `Router` is a complex high level UI component that allows a user to plan with great detail which tokens, addresses and networks they wish for a transaction (or series of transactions to take).
+      - UI `Router` is part of the UI bridging functionality.
+- [x] mobile-core retro : 13:00 – 14:00
+  - https://meet.google.com/hci-mahx-rfr
+  - Meeting document
+    - https://docs.google.com/document/d/1wDJQMYj-Q7jqY_JbE0Ev5ZlnbzmGInlKp5RGU-FnLC8/edit
+
+---
+
 # 2024-05-20
 
 ## Pulls
