@@ -3,8 +3,17 @@
 ## Pulls
 
 - [Router Filter Modularisation #5177](https://github.com/status-im/status-go/pull/5177)
-  - REsolved a number of weird corruption issues with my local repo of `status-go`, see the comments from today:
+  - Resolved a number of weird corruption issues with my local repo of `status-go`, see the comments from today:
     - https://github.com/status-im/status-go/pull/5177#issuecomment-2120187378
+  - Work on resolving some of the logic issues
+
+## Schedule
+
+- [x] 13:00 – 13:45 : bi-weekly status-go call
+  - https://meet.google.com/gbq-tyqe-vju
+  - Stand-ups
+  - Discussion about changes required for Wallet Router to accommodate swap functionality.
+  - Discussion about the stability work done on Wallet Router.
 
 ---
 
