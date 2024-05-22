@@ -4,6 +4,8 @@
 
 - [Router Filter Modularisation #5177](https://github.com/status-im/status-go/pull/5177)
   - Fixes to capacity logic
+    - handling for nil pointers added.
+  - updated the tests, quite a considerable amount change on this.
 
 ## Schedule
 
