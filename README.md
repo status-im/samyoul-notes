@@ -1,3 +1,24 @@
+# 2024-05-22
+
+## Pulls
+
+- [Router Filter Modularisation #5177](https://github.com/status-im/status-go/pull/5177)
+  - Resolved a boat load of test scenario issues
+    - I'm very nearly finished now. However, I do need reviewers to pay super close attention to the test cases and check that the intent of the functions is matched by the cases.
+  - The full list of changes is available in the PR commit.
+
+## Scoping
+
+- ₿♢Ξ Revenue, Revenue, Revenue Ξ♢₿
+  - https://www.notion.so/Monetisation-6421841be37c4343a4342e6715924c91
+  - Did refinement to some of my market analysis and monetisation recommendations for Status
+
+## Ad Hoc
+
+- Confirming details about my EthCC presentation
+
+---
+
 # 2024-05-21
 
 ## Pulls
