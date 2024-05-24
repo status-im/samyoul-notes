@@ -1,3 +1,58 @@
+# 2024-05-24
+
+## Issues
+
+- [Check Validity of fromLockedAmount in SuggestedRoutesV2 #5227](https://github.com/status-im/status-go/issues/5227) `created`
+  - Follow-on work to ensure the robustness of the wider Wallet `Router` functionality. 
+
+## Pulls
+
+- [Router Filter Modularisation #5177](https://github.com/status-im/status-go/pull/5177)
+  - Finished! 🎉 Ready for full review
+  - Big commit implementing additional test cases to make the test suite as comprehensive as I can.
+    - That doesn't mean it is fully comprehensive
+  - Addressed feedback
+  - Resolved insufficient rest test case issue
+  - Implemented `testing.T` `t.Logf` test level logging
+  - Implemented pure `zap` debug logging for all relevant filter functions.
+
+## Schedule
+
+- [x] 10:30 – 11:30 : Desktop Send modal review
+  - https://meet.google.com/pow-qyes-pcv
+  - "A meeting to dispel doubts about the design and current state of SendModal."
+  - **Attendees:**
+    - Michal C (Facilitator)
+    - Alisher
+    - Ben
+    - Brian
+    - John (Lea)
+    - Sale
+    - Myself
+  - **Summary:**
+    - Discussion clarifying the rules and requirements of the desktop designs for sending tokens.
+      - No agreement yet on where to capture the rules
+    - Initially some confusion on the distinction between multichain send "without bridge" and "bridging"
+      - Confusion as sending over multiple chains requires bridging
+      - Clarity eventually given; references to "bridging" is a term for a specific UI action and not an implementation behaviour.
+        - ie in the UI context bridging refers to the user pressing a "bridging" button to perform an explicit bridging action.
+        - ⚠️ Attention. Devs and QAs particularly should be mindful of this.
+    - Emphasised that the app should mint `ERC1155` rather than `ERC721` tokens
+      - Confirmation that this is the case was suggested.
+    - Highlighted that there is an inconsistency with the current desktop app functionality verse the intention of the design.
+      - Locking behaviour for values on specific chains does not work as the product design intended
+        - Full requirements not yet provided, expected to follow.
+        - Additional clarification and validation likely to be needed
+      - Discussed that `ERC1155` tokens of the same kind should be grouped together.
+        - Unclear if designs and requirements for this feature exist in the form needed by Desktop UI.
+        - Dario has mentioned in chat: > "*This is mostly a backend effort with relatively high complexity (define a special kind of token for these "community ERC721 we want to treat as ERC1155" ones, do the grouping backend-side when fetching them, do the un-grouping backend-side when sending, ensure no side effects in activity). I see low chances of swap-team being able to work on + finish that for 2.30, unless it's prioritized over Swap.*"
+          - https://discord.com/channels/1210237582470807632/1217175558522278008/1242844033873739837
+        - So this intent is / has been expressed somewhere.
+    - Brief update from Brian and me.
+      - The call expressed a blithesome response to the update that the Wallet Router filter modularisation and test suite was complete and ready for review.
+
+---
+
 # 2024-05-23
 
 ## Pulls
