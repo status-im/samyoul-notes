@@ -1,3 +1,33 @@
+# 2024-05-23
+
+## Pulls
+
+- [Router Filter Modularisation #5177](https://github.com/status-im/status-go/pull/5177)
+  - Resolved a boat load of test scenario issues
+    - I'm super seriously very nearly finished now.
+    - However, I do need reviewers to pay super close attention to the test cases and check that the intent of the functions is matched by the cases.
+  - The full list of changes is available in the PR commits.
+
+## Schedule
+- [x] 11:00 - 12:00 : Andrea and Samuel 1:1
+  - https://meet.google.com/rhy-trwc-ybb
+  - <details>
+    <summary style="color:red;">Confidential</summary>
+      <img src="./attachments/2024-05/200w.gif" title="Dennis Nedry - Jurassic Park" alt="&quot;Ah ah aaaah. You didn't say the magic word.&quot;"/>
+    </details>
+- [x] 13:00 – 13:30 : mobile-core planning
+  - https://meet.google.com/azr-ppob-obc
+  - Stand-ups
+  - Discussion of next week's aims and prioritising for release
+  - John Ngei is the 🤘 `mobilecore` 🤘 release manager for `v2.29` 🎉
+  - Agreed that we should have a weekly standup document:
+    - We will use the document that Mariia created:
+      - https://www.notion.so/Stand-ups-74686c0ec06e4f64a130136db9771f84
+    - Anyone can create a new weekly document using the magic template button.
+      - Template : https://www.notion.so/Week-Beginning-63e5359505d74d3da8b3f93608544317
+
+---
+
 # 2024-05-22
 
 ## Pulls
