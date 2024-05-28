@@ -1,3 +1,9 @@
+# 2024-05-27
+
+AFK - Spring public holiday 
+
+---
+
 # 2024-05-24
 
 ## Issues
@@ -35,7 +41,7 @@
     - Initially some confusion on the distinction between multichain send "without bridge" and "bridging"
       - Confusion as sending over multiple chains requires bridging
       - Clarity eventually given; references to "bridging" is a term for a specific UI action and not an implementation behaviour.
-        - ie in the UI context bridging refers to the user pressing a "bridging" button to perform an explicit bridging action.
+        - ie in the UI context bridging refers to the user pressing a "bridging" button to perform an explicit bridging action. Not the required routing performed by `status-go` Wallet `Router`.
         - ⚠️ Attention. Devs and QAs particularly should be mindful of this.
     - Emphasised that the app should mint `ERC1155` rather than `ERC721` tokens
       - Confirmation that this is the case was suggested.
