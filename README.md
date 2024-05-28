@@ -1,6 +1,43 @@
+# 2024-05-28
+
+## Issues
+
+- [Refactor `fromIncluded` and `fromExcluded` Maps to Slices in Route Validation Logic](https://github.com/status-im/status-go/issues/5241) - `created`
+- [Refactor and Simplify `hasSufficientCapacityV2` Logic to Ensure Correct Path Amount Validation](https://github.com/status-im/status-go/issues/5244) - `created`
+- [Check Validity of `fromLockedAmount` in `SuggestedRoutesV2`](https://github.com/status-im/status-go/issues/5227) - `updated`
+
+## Pulls
+
+- [Router Filter Modularisation #5177](https://github.com/status-im/status-go/pull/5177) -`merged`
+  - Addressed feedback, mostly consisting of follow-on issues for various logic improvements.
+    - https://github.com/status-im/status-go/issues/5227
+    - https://github.com/status-im/status-go/issues/5241
+    - https://github.com/status-im/status-go/issues/5244
+  - Note: I would prefer to merge the existing logic first, even if this logic is incorrect, because this is how original logic works.
+    - I just want to make sure that we have a clear history of changes from the original into whatever version we end with.
+  - I need to rewrite the commit names to follow the new convention.
+    - https://github.com/status-im/status-go/pull/5177#issuecomment-2134929345
+  - Merged!
+
+## Schedule
+
+- 12:00 – 12:30 : mobile-core planning
+  - https://meet.google.com/azr-ppob-obc
+  - Stand-ups
+    - https://www.notion.so/Week-Beginning-20aeca44ce2045058d472784e02aed45
+  - Discussed priorities for this week:
+    - 2.29 Release
+    - 2.30 priorities:
+      - Performance
+      - Installation file size, get under 100mb
+      - Stablise and polish communities and wallet functionality
+      - Help where needed.
+
+---
+
 # 2024-05-27
 
-AFK - Spring public holiday 
+AFK - Spring public holiday 🚂🚃🚃🚃
 
 ---
 
