@@ -1,3 +1,54 @@
+# 2024-05-29
+
+## Documents
+
+- Implementing User Stories
+  - https://www.notion.so/About-implementing-user-stories-fc6bc6b81e54461c85cd1b793cae4e22
+  - I was given the privilege of previewing and reviewing this stable draft of Status' unified approach to User Stories.
+
+## Issues
+
+- [Remove torrent dependencies at build time for mobile #5146](https://github.com/status-im/status-go/issues/5146)
+  - Begun working on this issue.
+
+## Pulls
+
+- [Removing torrent from mobile build #5257](https://github.com/status-im/status-go/pull/5257) - `commits`
+  - Initial migration of all torrent dependent code
+    - Code moved into new `TorrentManager`. This is BROKEN! The code is not ready to use so don't use it, lots more work to do. Biggest problem is that the torrent management in `Manager` is very tightly coupled to sending encrypting etc. All of that needs to be prised apart
+  - Ensured move of all torrent funcs and structs
+    - I also ensured that the order of functions matches the original code, to make comparison easier during review.
+
+## Schedule
+
+Note details of this below call were shared in the Snow Blowers' chat and in the general `status-go` Discord / Status channel.
+
+- 12:00 – 13:00 : ❄🔥 Snow Blowers (status-go flaky tests) Sync Call
+  - https://meet.google.com/cvh-crfd-uji
+  - Igor presented his intent to make diff test coverage at 50% per PR REQUIRED.
+  - Attendees:
+    - Igor (facilitator)
+    - Patryk
+    - Myself
+  - Summary
+    - Discussed the latest nightly flaky results:
+      - https://ci.status.im/job/status-go/job/tests-nightly/235/Reports/
+      - https://ci.status.im/job/status-go/job/tests-nightly/235/
+      - We agreed to target all of the `TestMessengerCommunitiesTokenPermissionsSuite` flakes
+        - [See the log file for more details](./attachments/2024-05/2024-05-29_02:48:00_nightly.log)
+    - We agreed to activate REQUIRED and considered a number of points that would need to be addressed.
+      - Generated files should be ignored
+      - Test coverage of 50% should be reasonable and not burdensome while effective at enforcing necessary code quality.
+      - We have a mechanism to override the requirement in EXTREME cases
+    - QA should be given visibility of this work
+    - [Make codeclimate diff coverage test reports Required #5254](https://github.com/status-im/status-go/issues/5254)
+      - [fix missing value of keyuid for old mobile user #5203](https://github.com/status-im/status-go/pull/5203) A case where the tests are present and seem to be robust but Codeclimate reports that the test coverage is only 36% (this case is notable because it seems unfair, may need investigation)
+      - [refactor_: ExtractTokenCriteria -> extractContractAddressesByChain #5226](https://github.com/status-im/status-go/pull/5226) A case where code changes are made but have no Codeclimate test coverage report
+      - [Direct settings updates (API) #5237](https://github.com/status-im/status-go/pull/5237) A case with 0% coverage
+      - [Router Filter Modularisation and Test suite #5177](https://github.com/status-im/status-go/pull/5177) A case with 100% coverage 😉
+
+---
+
 # 2024-05-28
 
 ## Issues
