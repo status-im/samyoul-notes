@@ -1,3 +1,28 @@
+# 2024-05-30
+
+## Pulls
+
+- [Removing torrent from mobile build #5257](https://github.com/status-im/status-go/pull/5257) - `commits`, `scoping`
+  - Resolved TorrentManager dep injection
+    - [I mapped out the details of the deps](https://github.com/status-im/status-go/pull/5257#issuecomment-2139207967)
+    - I'm not particularly proud of this work. I've just passed in all the deps as vars, there are way too many concerns handled by the TorrentManager that I don't know what is the best approach to removing them. I've even resorted to declaring an 'Publisher' interface to handle all the 'publish()' calls the TorrentManager makes. Next up I need to resolved the communities Manager API, because I've removed all of its end points. The TorrentManager needs to be a lot more simple than it is.
+  - Scoping of the TorrentManager API usage
+    - [mapping of the API usage here](https://github.com/status-im/status-go/pull/5257#issuecomment-2140527523)
+    - This is so tightly wound into the workings of both `Messenger` and `communities`.`Manager`.
+
+## Schedule
+- [x] 11:00 - 12:00 : Andrea and Samuel 1:1
+  - https://meet.google.com/rhy-trwc-ybb
+  - <details>
+    <summary style="color:red;">*Magic word*</summary>
+      <img src="./attachments/2024-05/200w.gif" title="Dennis Nedry - Jurassic Park" alt="&quot;Ah ah aaaah. You didn't say the magic word.&quot;"/>
+    </details>
+- [x] 15:00 – 16:00 : mobile-core retro
+  - https://meet.google.com/hci-mahx-rfr
+  - Cancelled. Release season merits no retrospection!
+
+---
+
 # 2024-05-29
 
 ## Documents
