@@ -1,3 +1,27 @@
+# 2024-05-31
+
+## Pulls
+
+- [Removing torrent from mobile build #5257](https://github.com/status-im/status-go/pull/5257) - `commits`, `scoping`
+  - I've fully split Manager from `TorrentManager`
+    - I've removed any mention or dependency of `TorrentManager` from `Manager`. There is still more work to do, but `Messenger` now communicates directly with a `TorrentManager` rather than asking the `communities` `Manager` to handle it.
+    - I've ensured that `LogStdout()` is only called from `TorrentManager` and removed entirely from `Manager`, this functionality seems to be some kind of debug tool specifically for torrent related functionality.
+    - Next I need to focus on functions within `Messenger` that call a `TorrentManager` and see how to isolate these from the main flows.
+    - I also need fix the tests that are broken.
+    - I also need to refactor `torrentClientReady()` so that it is a function of `TorrentManager`, this may allow for pushing more functions into `TorrentManager` which will lead to better torrent encapsulation.
+  - Made `torrentClientReady()` belong to `TorrentManager`
+  - Unexported all exported funcs not used externally in `TorrentManager`
+  - Mapped for restructure torrent specific `Messenger` functionality
+    - https://github.com/status-im/status-go/pull/5257#issuecomment-2142460289
+  - Mapped entire `TorrentManager` API Usage
+    - https://github.com/status-im/status-go/pull/5257#issuecomment-2142881649
+    - This will augment the restructure of torrent specific `Messenger` functionality, as `Messenger` is split across multiple go files.
+    - Once this is done I can identify 2 key things:
+      1. What `Messenger` functionality can be pushed into `TorrentManager`
+      2. What the bare minimum `TorrentManager` interface signature needs to be.
+
+---
+
 # 2024-05-30
 
 ## Pulls
