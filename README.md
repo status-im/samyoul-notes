@@ -1,3 +1,23 @@
+# 2024-06-05
+
+## Pulls
+
+- [Removing torrent from mobile build #5257](https://github.com/status-im/status-go/pull/5257) - `commits`
+  - Added pre 1.17 build commands
+  - [Had a number of frustrating build fails](https://github.com/status-im/status-go/issues/5146#issuecomment-2149259488)
+  - Copy and pasted Andrea's work
+    - https://github.com/status-im/status-go/pull/5295
+    - FFS Andrea spent 10 minutes looking at this and fixed what I'd spent 2 hours rage quitting about.
+  - Fixed torrent tests
+    - This was annoying
+  - Resolved rebase conflicts :)
+
+## Ad Hoc
+
+- Got gold star approved for EthCC
+
+---
+
 # 2024-06-04
 
 ## Pulls
