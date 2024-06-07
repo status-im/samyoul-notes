@@ -1,3 +1,39 @@
+# 2024-06-06
+
+## Pulls
+
+- [Removing torrent from mobile build #5257](https://github.com/status-im/status-go/pull/5257) - `commits`
+  - Readied this PR for review, and requested reviews
+  - Gave proper attribution and full context
+  - Replaced entirely `LogStdout` with default `logger`
+  - Replaced `fmt.Sprintf` usage from `zap.logger` calls
+  - Explicitly cast `ManagerSuite.torrentManager`
+    - Instead of using the `TorrentContract` interface I've set the field to expicitly declare as `*TorrentManager`. This removes all the random type casting used in the tests. I also removed all the usages of `buildTorrentConfig()` as we build the test suite with the torrent config now.
+  - Renamed **ManagerMobile to **ManagerNop
+  - Renamed Torrent to Archive
+    - I've renamed `TorrentManager` to `ArchiveManager`, `ArchiveManager` to `ArchiveFileManager`, `TorrentContract` to `ArchiveService`, `ArchiveContract` to `ArchiveFileService`. I've also renamed all init functions and struct fields to the appropriate archive-centric naming.
+  - Renamed archive files to archive_file
+  - Renamed torrent files to archive
+  - Fixed failing tests
+  - Gave a defence of my approach and acknowledgment of its failings
+    - https://github.com/status-im/status-go/pull/5257#issuecomment-2152326864
+
+## Reviews
+
+- [Add timeout to call rpc endpoint #5285](https://github.com/status-im/status-go/pull/5285) - `approved`
+- [decreased limits for concurrent requests and rps](https://github.com/status-im/status-go/pull/5253) - `approved`, `feedback`
+- [status-go integration tests](https://github.com/status-im/status-go/pull/5302) - `approved`
+
+## Schedule
+- [x] 11:00 - 12:00 : Andrea and Samuel 1:1
+  - https://meet.google.com/rhy-trwc-ybb
+  - <details>
+    <summary style="color:red;">*Knock knock*</summary>
+      <img src="./attachments/2024-05/200w.gif" title="Dennis Nedry - Jurassic Park" alt="&quot;Ah ah aaaah. You didn't say the magic word.&quot;"/>
+    </details>
+
+---
+
 # 2024-06-05
 
 ## Pulls
