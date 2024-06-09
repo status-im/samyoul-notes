@@ -1,3 +1,25 @@
+# 2024-06-07
+
+## Issues
+
+- [Remove torrent dependencies at build time for mobile `#5146`](https://github.com/status-im/status-go/issues/5146) - `closed`
+- [Refactor `Messenger` to Delegate Archive Management to `communities.Manager` `#5313`](https://github.com/status-im/status-go/issues/5313) - `created`
+- [Check Validity of `fromLockedAmount` in `SuggestedRoutesV2` `#5227`](https://github.com/status-im/status-go/issues/5227) - `scoping`
+- [Refactor, Split and Clean Up Exported Functions in `ArchiveManager` `#5316`](https://github.com/status-im/status-go/issues/5316) - `created`
+
+## Pulls
+
+- [Test PR to check that removing torrent code from status-go will give us a smaller APK #20393](https://github.com/status-im/status-mobile/pull/20393) - `created`, `discussed`, `closed`
+  - A PR to prove that my work on [Removing torrent from mobile build #5257](https://github.com/status-im/status-go/pull/5257) actually does what we expect it to do.
+  - IT DOES!!! https://github.com/status-im/status-mobile/pull/20393
+    - 🎉 Android APK **93.7mb** 🎉
+    - 🎉 iOS IPA **55.7mb** 🎉
+- [Removing torrent from mobile build #5257](https://github.com/status-im/status-go/pull/5257) - `commits`, `merged`
+  - Refactored NewArchiveManager to use config pattern
+  - MERGED!
+
+---
+
 # 2024-06-06
 
 ## Pulls
