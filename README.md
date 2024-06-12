@@ -1,3 +1,27 @@
+# 2024-06-11
+
+## Schedule
+
+- 10:00 – 11:00 : Samuel / Arwen
+  - https://meet.google.com/rzt-mota-sez
+- 12:00 – 12:45 : mobile-core planning
+  - https://meet.google.com/azr-ppob-obc
+  - [Meeting notes](https://www.notion.so/Planning-Call-Notes-ca3508af11414f9aa71a31d4496de2cd)
+  - Action Points:
+    - Ensure clear requirements and thorough testing for V1 to V2 migrations.
+    - Address keycard functionalities and ensure funds are usable post-migration.
+    - Update project board regularly and prioritize visible UI issue fixes.
+    - Plan for assisting notifications and potentially enabling features post extensive QA.
+    - Consider user feedback quality for upcoming release and prepare for app store readiness by version 2.30.
+
+## Ad Hoc
+
+- Research into extending existing TLS server functionality to support local WebSockets
+  - Short story is we can, we just need to make a light(ish) weight wrapper / handler for handling the WS protocol.
+  - I've got some basic code, but it doesn't work at the moment. I'll push a new repo tomorrow
+
+---
+
 # 2024-06-10
 
 ## Issues
@@ -21,6 +45,7 @@
 - [chore_: use the old name for backward compatibility #5325](https://github.com/status-im/status-go/pull/5325) - `approved`
   - This PR fixed the wallet related regression reported by Tetiana
   - See this comment for detail https://github.com/status-im/status-go/pull/5325#pullrequestreview-2108807269
+  - Also see: https://github.com/status-im/status-go/pull/5310
 
 ---
 
