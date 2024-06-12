@@ -1,3 +1,29 @@
+# 2024-06-10
+
+## Issues
+
+- [Check Validity of `fromLockedAmount` in `SuggestedRoutesV2` `#5227`](https://github.com/status-im/status-go/issues/5227) - `addressed`
+  - Resolved with `#5323`
+
+## Pulls
+
+- [Added test suite for `validateInputData()` `#5323`](https://github.com/status-im/status-go/pull/5323) - `created`, `commits`
+  - Added validation to prevent all excluded networks
+  - Added full test cases for validateInputData
+    - For full details of the test cases please view the PR description https://github.com/status-im/status-go/pull/5323
+- [Reported regression, suspect `#5310` is the cause, investigatory PR - `5324`](https://github.com/status-im/status-go/pull/5324) - `created`, `closed`
+- [Mobile build counterpart of reverting `#5310` - `#20419`](https://github.com/status-im/status-mobile/pull/20419) - `created`, `closed`
+  - This PR confirmed that `#5310` was the source of the wallet regression.
+  - Sale took charge of the fix and resolved this issue in his PR #5325
+
+## Reviews
+
+- [chore_: use the old name for backward compatibility #5325](https://github.com/status-im/status-go/pull/5325) - `approved`
+  - This PR fixed the wallet related regression reported by Tetiana
+  - See this comment for detail https://github.com/status-im/status-go/pull/5325#pullrequestreview-2108807269
+
+---
+
 # 2024-06-07
 
 ## Issues
@@ -11,7 +37,7 @@
 
 - [Test PR to check that removing torrent code from status-go will give us a smaller APK #20393](https://github.com/status-im/status-mobile/pull/20393) - `created`, `discussed`, `closed`
   - A PR to prove that my work on [Removing torrent from mobile build #5257](https://github.com/status-im/status-go/pull/5257) actually does what we expect it to do.
-  - IT DOES!!! https://github.com/status-im/status-mobile/pull/20393
+  - IT DOES!!! https://github.com/status-im/status-mobile/pull/20393#issuecomment-2154562874
     - 🎉 Android APK **93.7mb** 🎉
     - 🎉 iOS IPA **55.7mb** 🎉
 - [Removing torrent from mobile build #5257](https://github.com/status-im/status-go/pull/5257) - `commits`, `merged`
