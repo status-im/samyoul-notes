@@ -1,3 +1,36 @@
+# 2024-06-12
+
+## Pulls
+
+- [status-go-websockets](https://github.com/status-im/status-go-websockets) - `created`
+  - Not actually a PR but a proof of concept repo, demonstrating native websocket support in Go over TLS.
+    - Added websocket computeAcceptKey required in handshake
+    - Added basic websocket handler
+    - Added setting response headers
+    - Added http hijacking, to allow for taking over http
+    - Added main loop to websocket handler
+    - wrote handleWriteWebSocketData to write to a websocket
+    - copied over some code for handleReadWebSocketData
+    - Added main function and debugged connection error
+    - Added gitignore
+    - Added README.md file
+
+## Schedule
+
+- [x] 12:00 – 12:30 : ❄🔥 Snow Blowers (status-go flaky tests) Sync Call
+  - https://meet.google.com/cvh-crfd-uji
+  - Future Actions:
+    - Agreement to extend the interval between sync meetings to every three weeks.
+    - Plan to tackle parallelization and test optimization at the beginning of the next milestone in August.
+    - Commitment to continue addressing flaky tests and optimizing the CI process to ensure stability and efficiency.
+  - Meeting Outcomes:
+    - Action items include enhancing test parallelisation, optimising test practices, and maintaining rigorous monitoring of test results.
+    - Acknowledgment of the importance of balancing speed and thoroughness in testing to maintain code quality and stability.
+  - Details
+    - https://www.notion.so/Sync-Call-dfbfc0923aab49ebb6c901b1a0852b95
+
+---
+
 # 2024-06-11
 
 ## Schedule
