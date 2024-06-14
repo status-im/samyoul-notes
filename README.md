@@ -1,3 +1,23 @@
+# 2024-06-13
+
+## Issues
+
+- [Move images from community data to `MediaServer` `#5336`](https://github.com/status-im/status-go/pull/5336) - `approved`
+
+## Schedule
+
+- [x] 11:00 - 11:30 : Andrea and Samuel 1:1
+  - https://meet.google.com/rhy-trwc-ybb
+- [x] 15:00 – 16:00 : mobile-core retro
+  - https://meet.google.com/hci-mahx-rfr
+  - Details to follow on the notes
+
+## Ad Hoc
+
+- Helping debug local pairing and syncing with Jarrad
+
+---
+
 # 2024-06-12
 
 ## Pulls
