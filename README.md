@@ -1,6 +1,38 @@
+# 2024-06-14
+
+# Issues
+
+- [Can't launch Status app on intel MacOS `#15134`](https://github.com/status-im/status-desktop/issues/15134) - `read`, `feedback`
+  - I struggled for a while trying to figure out what was causing my problems with Desktop
+  - Apparently this is a new problem.
+  - Good luck Desktopers
+
+# Reading
+
+- https://status.app/blog/new-dawn-for-status-and-snt-embracing-decentralisation#introducing-the-xp-programme `read`
+
+# Schedule
+
+- 15:30 - 16:30 : Samuel and Andrea
+  - Discussion on the local pairing issues 
+  - Discussion of approaches to network failure fallback
+
+# Ad hoc
+
+- Reviewed and logged issues reported by Jarrad on local pairing
+  - https://www.notion.so/Jarrad-s-local-pairing-and-sync-issues-1e4eebf38e714d51814bae94f5c3d4a5
+    - [Local connection with wifi in airplane mode](https://www.notion.so/Jarrad-s-local-pairing-and-sync-issues-1e4eebf38e714d51814bae94f5c3d4a5?pvs=4#95354c8183214871b017f66258217b4a)
+    - [Sign in with QR code, with 2 different accounts.](https://www.notion.so/Jarrad-s-local-pairing-and-sync-issues-1e4eebf38e714d51814bae94f5c3d4a5?pvs=4#86aa98d9f5514ea089cdfcda69378e80)
+    - [Sign in after account has been deleted. - Invalid Ciphertext Length](https://www.notion.so/Jarrad-s-local-pairing-and-sync-issues-1e4eebf38e714d51814bae94f5c3d4a5#c61202f8686249c4948b3d6f322db1db)
+    - [Recordings from Jarrad](https://www.notion.so/Jarrad-s-local-pairing-and-sync-issues-1e4eebf38e714d51814bae94f5c3d4a5#49f0621ce470474e80e65b0231665d96)
+      - [✅ Recorded Scenario 1: New account transfer from Desktop to Mobile](https://www.notion.so/Jarrad-s-local-pairing-and-sync-issues-1e4eebf38e714d51814bae94f5c3d4a5?pvs=4#404b3994595b425c88ef4e2cce9818de)
+      - [❌ Recorded Scenario 2: New account transfer from Mobile to Desktop](https://www.notion.so/Jarrad-s-local-pairing-and-sync-issues-1e4eebf38e714d51814bae94f5c3d4a5#5ed2011447384c21a88fd84dd3d73c3e)
+
+---
+
 # 2024-06-13
 
-## Issues
+## Reviews
 
 - [Move images from community data to `MediaServer` `#5336`](https://github.com/status-im/status-go/pull/5336) - `approved`
 
