@@ -1,3 +1,27 @@
+# 2024-06-17
+
+# Issues
+
+- [Can't launch Status app on intel MacOS `#15134`](https://github.com/status-im/status-desktop/issues/15134) - `feedback`
+  - After initially get the app working with Sid's binary the application continues to crash on load. 
+- [add MacOS specific flags for go shared lib `#15194`](https://github.com/status-im/status-desktop/pull/15194#issuecomment-2173000727)
+  - Sid pointed out that Diana has reported a similar thing.
+- [Router transfer multitx `#5362`](https://github.com/status-im/status-go/pull/5362) - `read`
+
+# Schedule
+
+- 13:00 – 13:45 : bi-weekly status-go call
+  - https://meet.google.com/gbq-tyqe-vju
+  - https://www.notion.so/status-go-Meeting-Notes-d634faa90e604e0db3e532d21595e867
+    - Browser Plugin Connector Backend
+    - Pairing and Network Issues
+
+## Ad Hoc
+
+- I've been struggling with some kind of flu, I feel really rotten. I've been doing as much as I can.
+
+---
+
 # 2024-06-14
 
 # Issues
