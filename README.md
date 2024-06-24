@@ -1,3 +1,24 @@
+# 2024-06-20
+
+## Reviews
+
+- [Router - calculating route/s which result multi-paths #5362](https://github.com/status-im/status-go/pull/5362) - `approved`, `feedback`
+  - I went through this PR with quite some detail as it relates very closely to my own ongoing PR.
+
+## Schedule
+
+- [x] 11:30 - 12:00 : Andrea and Samuel 1:1
+  - https://meet.google.com/rhy-trwc-ybb
+
+# Ad Hoc
+
+- 🤒 My symptoms continue to get worse. I wonder if I've got covid again.
+- I've spent my day in the red room feeling sorry for myself.
+- Minor work on internal Comms Strategy for the Status project
+
+
+---
+
 # 2024-06-19
 
 # Schedule
