@@ -1,3 +1,28 @@
+# 2024-06-18
+
+# PRs
+
+- [Added test suite for `validateInputData()` `#5323`](https://github.com/status-im/status-go/pull/5323) - `created`, `commits`
+  - Added Error consts for all tested paths
+  - Added test cases for Sticker and Swaps
+  - [Discussed with Sale coordination over his work in #5362](https://github.com/status-im/status-go/pull/5323#issuecomment-2175790885)
+    - [Router - calculating route/s which result multi-paths #5362](https://github.com/status-im/status-go/pull/5362)
+    - [I gave a detailed suggestion for more idiomatic error constants](https://github.com/status-im/status-go/pull/5323#issuecomment-2176104843)
+      - [Also see](https://github.com/status-im/status-go/pull/5323#issuecomment-2176131626)
+
+## Schedule
+
+- 12:00 – 12:30 : mobile-core planning
+  - https://meet.google.com/azr-ppob-obc
+  - [Meeting Summary](https://www.notion.so/Planning-Call-Notes-29050a4e2bcb4c4db48903e05b5fa7bc)
+  - [Stand-ups](https://www.notion.so/Week-Beginning-a41d9258b6f04474a26a04031ff159ff)
+
+## Ad Hoc
+
+- I'm not feeling very well, this is really getting annoying
+
+---
+
 # 2024-06-17
 
 # Issues
