@@ -1,3 +1,22 @@
+# 2024-06-19
+
+# Schedule
+
+- 11:00 – 12:00 : Status internal comms
+  - https://meet.google.com/aes-etyf-nzx
+  - Discussion about completely reviving internal comms from first principles
+  - Highlighted the main areas of improvement
+  - Detailed a draft action plan
+
+# Ad Hoc
+
+- Preparation for discussion about Status internal comms
+- Drafted an Internal Comms Strategy for the Status project
+- Collaborated with POps to submit the document for review. 
+- 🤒 More feeling unwell, I feel worse today.
+
+---
+
 # 2024-06-18
 
 # PRs
@@ -19,7 +38,7 @@
 
 ## Ad Hoc
 
-- I'm not feeling very well, this is really getting annoying
+- 🤒 I'm not feeling very well, this is really getting annoying
 
 ---
 
@@ -43,7 +62,7 @@
 
 ## Ad Hoc
 
-- I've been struggling with some kind of flu, I feel really rotten. I've been doing as much as I can.
+- 🤒 I've been struggling with some kind of flu, I feel really rotten. I've been doing as much as I can.
 
 ---
 
