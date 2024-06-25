@@ -1,3 +1,12 @@
+# 2024-06-21
+
+# Ad Hoc
+
+- 🤒 Complete capitulation! I feel really unwell.
+- Though my weekend was expectedly brightened
+
+---
+
 # 2024-06-20
 
 ## Reviews
@@ -7,7 +16,7 @@
 
 ## Schedule
 
-- [x] 11:30 - 12:00 : Andrea and Samuel 1:1
+- 11:30 - 12:00 : Andrea and Samuel 1:1
   - https://meet.google.com/rhy-trwc-ybb
 
 # Ad Hoc
@@ -15,7 +24,6 @@
 - 🤒 My symptoms continue to get worse. I wonder if I've got covid again.
 - I've spent my day in the red room feeling sorry for myself.
 - Minor work on internal Comms Strategy for the Status project
-
 
 ---
 
