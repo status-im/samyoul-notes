@@ -1,3 +1,23 @@
+# 2024-06-27
+
+## Schedule
+
+- 11:00 – 11:30 : Andrea and Samuel 1-to-1
+  - https://meet.google.com/rhy-trwc-ybb
+- 11:30 – 12:30 : mobile-core retro
+  - https://meet.google.com/hci-mahx-rfr
+  - Tetiana created a new retrospective facilitator rotation schedule
+    - [`mobile-core` retro-facili-rota](https://www.notion.so/Retrospectives-986ed78fdcfc49a39551a50df4caec81?pvs=4#fd5298a978104ea88ee542640e1c94b8)
+  - [Retro action points](https://www.notion.so/Retrospectives-986ed78fdcfc49a39551a50df4caec81?pvs=4#444b21c957244322a50ff922ee7e5dfe) 
+
+## Ad Hoc
+
+- 🤒 A bit better
+- Integrated input from Chair in regard to the Status inernal comms document
+- Discussed improvements to Status discord server with Kalinfinity
+
+---
+
 # 2024-06-26
 
 ## Ad Hoc
