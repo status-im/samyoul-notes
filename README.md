@@ -1,3 +1,13 @@
+# 2024-06-24
+
+## Ad Hoc 
+
+- 🤒 Feeling better than at the weekend, but I'm also not feeling particularly great.
+- Across the weekend and today feedback on the Status roadmaps for `2.30`, `2.31` and `2.32`
+- Addressed feedback to the Status Internal Comms document
+
+---
+
 # 2024-06-21
 
 # Ad Hoc
