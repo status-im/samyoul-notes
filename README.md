@@ -1,3 +1,14 @@
+# 2024-06-26
+
+## Ad Hoc
+
+- 🤒 Yeah, still feeling unwell.
+- I did a big rewrite of the Status Internal Comms document.
+  - Wrote the entire thing from scratch basically as a policy document
+  - The document is much longer and much more comprehensive. It took a while to do.
+
+---
+
 # 2024-06-25
 
 ## Schedule
@@ -15,6 +26,9 @@
 - 🤒 Kind of functioning but not feeling great, I've got a really rough sore voice it makes meetings tricky.
 - Working on the Status Internal Comms document
 - Some minor back and forth on the road map documents.
+- I finally got my travel arrangements sorted for EthCC.
+  - Why is it so time-consuming booking a hotel and flight? 
+  - Although half of Brussels is fully booked, which made the problem of finding a reasonably priced hotel within a reasonable distance from the conference location tricky.
 
 ---
 
@@ -25,6 +39,7 @@
 - 🤒 Feeling better than at the weekend, but I'm also not feeling particularly great.
 - Across the weekend and today feedback on the Status roadmaps for `2.30`, `2.31` and `2.32`
 - Addressed feedback to the Status Internal Comms document
+- I did research on my flight and hotel for EthCC
 
 ---
 
