@@ -1,3 +1,23 @@
+# 2024-06-25
+
+## Schedule
+
+- 10:00 – 11:00 : Noelia  / Samuel
+  - https://meet.google.com/vuq-tutp-muy
+  - Catchup and sync
+- 12:00 – 12:30 : mobile-core planning
+  - https://meet.google.com/azr-ppob-obc
+  - [Planning notes](https://www.notion.so/Planning-Call-Notes-51f6b95f046d46a49c730c7aaf0af798)
+  - [Stand-ups doc](https://www.notion.so/Week-Beginning-02a3a9e3905a4dde868f616df13a9a83)
+
+## Ad Hoc
+
+- 🤒 Kind of functioning but not feeling great, I've got a really rough sore voice it makes meetings tricky.
+- Working on the Status Internal Comms document
+- Some minor back and forth on the road map documents.
+
+---
+
 # 2024-06-24
 
 ## Ad Hoc 
