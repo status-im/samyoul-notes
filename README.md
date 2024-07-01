@@ -1,4 +1,26 @@
+# 2024-06-28
+
+## PRs
+
+- [[GO-ONLY] Call telemetry upon error pushing envelope `#20595`](https://github.com/status-im/status-mobile/pull/20595) - `created`
+  - Made this on behalf of Tetiana, to allow for `status-mobile` e2e testing https://github.com/status-im/status-go/pull/5430
+- [feat_: call telemetry upon error pushing envelope `#5430`](https://github.com/status-im/status-go/pull/5430) - `commented`
+  - Raised the possibility of automating a lot of the e2e bootstrapping.
+  - https://github.com/status-im/status-go/pull/5430#issuecomment-2196644000
+
+## Ad Hoc
+
+- Added Github as a communication space to the comms channel section of the Status comms document
+- Co-ordinated work for EthCC
+
+---
+
 # 2024-06-27
+
+## Reading
+
+- https://www.notion.so/IFT-Workstreams-29856f75abf047558686edd4ed653006 `read`
+  - What is it: High-level externally oriented program deliverables.
 
 ## Schedule
 
@@ -58,6 +80,7 @@
 
 - 🤒 Feeling better than at the weekend, but I'm also not feeling particularly great.
 - Across the weekend and today feedback on the Status roadmaps for `2.30`, `2.31` and `2.32`
+  - See here for roadmap details https://notes.status.im/8dYOWMsoS82gWc3qrVrH0Q?view
 - Addressed feedback to the Status Internal Comms document
 - I did research on my flight and hotel for EthCC
 
