@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "6ffeeb9bddec9801",
+    "type": "split",
+    "children": [
+      {
+        "id": "51977dcdfd514686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dfbdc80928828c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/2024/2024-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7750eebe5f8ad96f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc566cadc89671a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce9a2c5411bb15ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc9829e9911c4528",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "087b82c8dc32b8ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a62f8eecacf5a2e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c77f70aa2fa6b0e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "030f368e319794e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "archive/2024/2024-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36447d8b8fb41fc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "archive/2024/2024-07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68c265e91bc7c195",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d109bf5f49c5433c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "archive/2024/2024-07.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ce9a2c5411bb15ba",
+  "lastOpenFiles": [
+    "tags/README.md",
+    "archive/2024/2024-07.md",
+    "priorities/RESOLVED.md",
+    "attachments/2020-06/2020-06-19_Ethereum_API_IPFS_API_Gateway_ETH_Nodes_as_a_Service_Infura.png",
+    "attachments/2020-08/2020-08-25_docker.svg",
+    "attachments/2020-08/2020-08-25_ethereum-1.svg",
+    "attachments/2020-08/2020-08-25_Google_2015_logo.svg",
+    "attachments/2020-08/2020-08-25_status-2.svg",
+    "attachments/2020-08/Message Identity Specifications (Draft v2).svg",
+    "attachments/2024-05/200w.gif",
+    "attachments/2024-05/filter_test_results.md",
+    "archive/2024/2024-06.md",
+    "archive/2024/2024-05.md",
+    "priorities/README.md",
+    "analysis/wallet/Router/usage.md",
+    "analysis/wallet/Router/README.md",
+    "analysis/wallet/Router/newSuggestedRoutes.md"
+  ]
+}
