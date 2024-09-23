@@ -1,4 +1,4 @@
-# 2024-09-21
+# 2024-09-23
 ## Issues
 - [Data collection and terms&conditions are the first major impresisons of opening the client #21293](https://github.com/status-im/status-mobile/issues/21293)
 	- Chu pointed out this issue
