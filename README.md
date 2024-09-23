@@ -14,6 +14,8 @@
 ## Ad Hoc
 
 - Send Arwen the Cross IFT Suggestions [[#Cross IFT Suggestions]]
+- Did a massive file removal from the notes:
+	- `git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch attachments/2024-08/2024-08-08_access.log' --prune-empty --tag-name-filter cat -- --all`
 ### Legal Repo
 - New explicit and accurate name: "status software legal documents"
   - https://github.com/status-im/status-software-legal-documents
