@@ -2,11 +2,8 @@
 ## Issues
 - [Data collection and terms&conditions are the first major impresisons of opening the client #21293](https://github.com/status-im/status-mobile/issues/21293)
 	- Chu pointed out this issue
-	- I've shared with:
-		- Eric from Legal
-		- Eddy from Comms
-		- Jen from Comms
-		- Jamie from Comms
+	- Discussed internally
+	- Further reading suggests we may want to address this issue to the product council
 
 ## Reviews
 - [# Feat/log and panic #5849](https://github.com/status-im/status-go/pull/5849#pullrequestreview-2321567843) - #approved 

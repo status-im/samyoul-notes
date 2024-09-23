@@ -11,27 +11,14 @@
             "id": "7dfbdc80928828c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archive/2024/2024-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83d2d1ce7af14ea9",
-            "type": "leaf",
-            "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/community-plugins.json",
+                "file": "priorities/README.md",
                 "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,13 +150,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83d2d1ce7af14ea9",
+  "active": "7dfbdc80928828c6",
   "lastOpenFiles": [
     "README.md",
-    "2024-09-18.md",
+    "archive/2024/2024-06.md",
+    "archive/2024/2024-05.md",
     "archive/2024/2024-07.md",
-    "tags/README.md",
     "priorities/RESOLVED.md",
+    "priorities/README.md",
+    "attachments/2024-08/2024-08-08_access.log.tgz",
+    "tags/README.md",
+    "Untitled.canvas",
+    "2024-09-18.md",
     "attachments/2020-06/2020-06-19_Ethereum_API_IPFS_API_Gateway_ETH_Nodes_as_a_Service_Infura.png",
     "attachments/2020-08/2020-08-25_docker.svg",
     "attachments/2020-08/2020-08-25_ethereum-1.svg",
@@ -178,9 +170,6 @@
     "attachments/2020-08/Message Identity Specifications (Draft v2).svg",
     "attachments/2024-05/200w.gif",
     "attachments/2024-05/filter_test_results.md",
-    "archive/2024/2024-06.md",
-    "archive/2024/2024-05.md",
-    "priorities/README.md",
     "analysis/wallet/Router/usage.md",
     "analysis/wallet/Router/README.md",
     "analysis/wallet/Router/newSuggestedRoutes.md"
