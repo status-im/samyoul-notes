@@ -16,6 +16,11 @@
 - Send Arwen the Cross IFT Suggestions [[#Cross IFT Suggestions]]
 - Did a massive file removal from the notes:
 	- `git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch attachments/2024-08/2024-08-08_access.log' --prune-empty --tag-name-filter cat -- --all`
+- The privacy policy blog seems to be finalised now ... Possibly #privacy-comms
+	- [Blog - Privacy in Status Software](https://docs.google.com/document/d/1g-YbLE8CktKcax0jCb9ny1CA0CfMZmnFZDS2irZDWxo/edit#heading=h.hd4l8rfnepui)
+	- [Privacy With Status First Parties](https://docs.google.com/document/d/1pcH_ZFC2uJ_kBk12ERRFrq40yrhaNBwBP_IUE5V2Hho/edit#heading=h.jsrcqj80z4sp)
+	- [Privacy With Status Third Parties](https://docs.google.com/document/d/1I7fkrZzLsZcNXVZWPhq1D6-izbIel8XhWa7hXGQ2lfc/edit#heading=h.3ndm6euh3z9j)
+	- /todo add articles as attachments
 ### Legal Repo
 - New explicit and accurate name: "status software legal documents"
   - https://github.com/status-im/status-software-legal-documents
