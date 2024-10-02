@@ -1,3 +1,58 @@
+# 2024-09-30
+
+## Ad Hoc
+- Reviewed document [Status Software - Privacy Policy_ DRAFT_20240814](https://docs.google.com/document/d/1J4w2q6-fdVkXyC4D0aaQMQPq1rhfCCiz4I8p5gVUVds/edit) #reviewed
+	- Some minor comments and questions but the document is basically ready.
+## Schedule
+- Core team sync call
+	- https://app.fireflies.ai/view/Core-Teams-Sync-Desktop-Mobile-::lnuOXX2H3GBzENHa
+	- [[2024-09-30 Status Core Sync]]
+
+---
+# 2024-09-27
+## Ad Hoc
+- Review document [Status Blog - Status vs Telegram](https://docs.google.com/document/d/1bSPxTITJW43b371uqSO3rdOkn96V8c4z63P13HCmSeY/edit#heading=h.d4m03guwjlrf) #reviewed 
+	- A detailed document
+	- Required some minor suggestions and tweaks
+- Reviewed document [Project Steering Committee - September Pre-read (Notes)](https://docs.google.com/document/d/1TYWvktmtgCtZykGmGiFxQzKTAyr6V55N81ZIUM3bvOU/edit) #reviewed
+	- Probably way too late
+	- Added a number of items particularly to the IFT Synergy Log
+	
+---
+# 2024-09-26
+## Schedule
+- Call with Leonard
+	- Show and tell across IFT
+	- Discussing Status tech stack across both OS platforms
+	- Legacy of John's tenure
+	- Future steps walkthrough of the apps
+- Call with Ícaro
+- Call with Volo
+
+# 2024-09-25
+
+## Program
+### Privacy Policy
+The following documents will be buried and not see the light of day.
+- [[Privacy in Status Software]]
+- [[Privacy With Status Infrastructure and Insights]]
+- [[Privacy With Status Third Parties]]
+
+
+---
+# 2024-09-24
+
+## Schedule
+- Call with Jarrad.
+- Mobile Core Planning Notes:
+	- https://www.notion.so/Planning-Call-Notes-10b8f96fb65c80a48bd7c10281b428ef
+
+## Ad Hoc
+- Created the following proposals
+	- [PROPOSAL: Cross-IFT Buddy Program](https://www.notion.so/PROPOSAL-Cross-IFT-Buddy-Program-10b8f96fb65c8023a207e1438bd5ab64)
+	- [PROPOSAL: IFT Team Swap Program](https://www.notion.so/PROPOSAL-IFT-Team-Swap-Program-10b8f96fb65c80b28feddf6d1e3bf1ca)
+
+---
 # 2024-09-23
 ## Issues
 - [Data collection and terms&conditions are the first major impresisons of opening the client #21293](https://github.com/status-im/status-mobile/issues/21293)
@@ -20,7 +75,7 @@
 	- [Blog - Privacy in Status Software](https://docs.google.com/document/d/1g-YbLE8CktKcax0jCb9ny1CA0CfMZmnFZDS2irZDWxo/edit#heading=h.hd4l8rfnepui)
 	- [Privacy With Status First Parties](https://docs.google.com/document/d/1pcH_ZFC2uJ_kBk12ERRFrq40yrhaNBwBP_IUE5V2Hho/edit#heading=h.jsrcqj80z4sp)
 	- [Privacy With Status Third Parties](https://docs.google.com/document/d/1I7fkrZzLsZcNXVZWPhq1D6-izbIel8XhWa7hXGQ2lfc/edit#heading=h.3ndm6euh3z9j)
-	- /todo add articles as attachments
+	- #todo  add articles as attachments
 ### Legal Repo
 - New explicit and accurate name: "status software legal documents"
   - https://github.com/status-im/status-software-legal-documents
