@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7dfbdc80928828c6",
+            "id": "3d79e98e26218244",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "README.md",
+                "file": ".obsidian/app.json",
                 "staged": false
               }
             }
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,28 +150,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dfbdc80928828c6",
+  "active": "3d79e98e26218244",
   "lastOpenFiles": [
     "README.md",
+    "INDEX.md",
+    "analysis/wallet/Router/README.md",
+    "TODOs.md",
+    "archive/2020/2020-05.md",
+    "Untitled",
+    "archive/2022/2022-01.md",
+    "archive/2024/2024-07.md",
     "archive/2024/2024-06.md",
     "archive/2024/2024-05.md",
-    "archive/2024/2024-07.md",
-    "priorities/RESOLVED.md",
+    "archive/2024/2024-09.md",
+    "tags.md",
+    "attachments/2024-09/2024-09-30 Status Core Sync.md",
+    "attachments/2024-09/privacy_3rd_parties_8.png",
+    "attachments/2024-09/privacy_3rd_parties_6.png",
+    "attachments/2024-09/privacy_3rd_parties_5.png",
+    "attachments/2024-09/privacy_3rd_parties_4.png",
+    "attachments/2024-09/privacy_3rd_parties_header.png",
+    "attachments/2024-09/privacy_3rd_parties_3.png",
+    "attachments/2024-09/privacy_3rd_parties_2.png",
+    "attachments/2024-09/privacy_3rd_parties_1.png",
+    "attachments/2024-09/Privacy With Status Third Parties.md",
+    "attachments/2024-09/privacy_1st_party_header.png",
+    "attachments/2024-09/Privacy With Status Infrastructure and Insights.md",
+    "attachments/2024-09/Privacy in Status Software.md",
+    "attachments/2024-09/privacy_main_header.png",
     "priorities/README.md",
+    "image2.md",
+    "image1.md",
+    "attachments/2024-09",
     "attachments/2024-08/2024-08-08_access.log.tgz",
-    "tags/README.md",
+    "priorities/RESOLVED.md",
     "Untitled.canvas",
     "2024-09-18.md",
-    "attachments/2020-06/2020-06-19_Ethereum_API_IPFS_API_Gateway_ETH_Nodes_as_a_Service_Infura.png",
-    "attachments/2020-08/2020-08-25_docker.svg",
-    "attachments/2020-08/2020-08-25_ethereum-1.svg",
-    "attachments/2020-08/2020-08-25_Google_2015_logo.svg",
-    "attachments/2020-08/2020-08-25_status-2.svg",
-    "attachments/2020-08/Message Identity Specifications (Draft v2).svg",
-    "attachments/2024-05/200w.gif",
     "attachments/2024-05/filter_test_results.md",
     "analysis/wallet/Router/usage.md",
-    "analysis/wallet/Router/README.md",
     "analysis/wallet/Router/newSuggestedRoutes.md"
   ]
 }
