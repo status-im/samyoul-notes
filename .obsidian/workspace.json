@@ -13,7 +13,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/app.json",
+                "file": "README.md",
                 "staged": false
               }
             }
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,16 +154,20 @@
   "lastOpenFiles": [
     "README.md",
     "INDEX.md",
-    "analysis/wallet/Router/README.md",
+    "attachments/2024-10/PROPOSAL Cross-IFT Buddy Program.md",
+    "attachments/2024-10/️status-go guild Weekly Sync 2024-10-02.md",
+    "attachments/2024-10/️status-go guild Weekly Sync 2024-10-09.md",
+    "tags.md",
     "TODOs.md",
+    "attachments/2024-10",
+    "archive/2024/2024-09.md",
+    "analysis/wallet/Router/README.md",
     "archive/2020/2020-05.md",
     "Untitled",
     "archive/2022/2022-01.md",
     "archive/2024/2024-07.md",
     "archive/2024/2024-06.md",
     "archive/2024/2024-05.md",
-    "archive/2024/2024-09.md",
-    "tags.md",
     "attachments/2024-09/2024-09-30 Status Core Sync.md",
     "attachments/2024-09/privacy_3rd_parties_8.png",
     "attachments/2024-09/privacy_3rd_parties_6.png",
